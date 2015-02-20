@@ -1,0 +1,1398 @@
+Havolalarning tagiga chizish:
+Yangi oʻzgarishlar roʻyxatida kichik tahrirlarni yashirish
+Yangi oʻzgarishlar roʻyxatida tekshirilgan tahrirlarni yashirish
+Yangi sahifalar roʻyxatidan tekshirilgan sahifalarni yashirish
+Kengaytirilgan kuzatuv roʻyxati: faqat oxirgi paytdagi emas, barcha oʻzgarishlar koʻrsatiladi
+Yangi oʻzgarishlar va kuzatuv roʻyxatidagi sahifalarni guruhlarga boʻlish (JavaScript orqali)
+Sarlavhalarni avtomatik raqamlash
+Tahrirlash asboblarini koʻrsatish
+Sichqonchaning chap tugmasini ikki marta bosib tahrirlashni boshlash
+Boʻlim sarlavhasiga sichqonchaning oʻng tugmasini bosib tahrirlashni boshlash
+Men yaratgan sahifalar va yuklagan fayllar kuzatuv roʻyxatimga qoʻshilsin
+Men tahrirlagan sahifa va fayllar kuzatuv roʻyxatimga qoʻshilsin
+Men nomini koʻchirgan sahifa va fayllar kuzatuv roʻyxatimga qoʻshilsin
+Men oʻchirgan sahifa va fayllarni kuzatuv roʻyxatimga qoʻsh
+Sukut boʻyicha barcha tahrirlarimni "kichik tahrir" etib belgilash
+Koʻrib chiqish imkoniyati tahrir oynasi tepasida boʻlsin
+Tahrirlashga oʻtgandayoq koʻrib chiqishni boshlash
+Kuzatuv roʻyxatimdagi sahifa yoki fayllar oʻzgartirilsa, menga bu haqda xat yuborilsin
+Munozara sahifam oʻzgartirilsa, menga bu haqda xat yuborilsin
+Kichik tahrir qilinsa ham e-pochtamga bu haqda xat yuborilsin
+Xabar beruvchi xatlarda e-pochta manzilim koʻrsatilsin
+Sahifani kuzatuv roʻyxatiga olgan foydalanuvchilar sonini koʻrsatish
+Joriy imzo:
+Imzoni viki-belgi qilib koʻrsatish (avtomatik ishoratsiz)
+Tez koʻrib chiqish (JavaScript orqali) (sinovda)
+Qisqa tavsif oynasi toʻldirilmagani haqida ogohlantirish koʻrsatish
+Oʻz tahrirlarim kuzatuv roʻyxatimda koʻrsatilmasin
+Botlar qilgan tahrirlar kuzatuv roʻyxatimda koʻrsatilmasin
+Kichik tahrirlar kuzatuv roʻyxatimda koʻrsatilmasin
+Tizimga kirgan foydalanuvchilar tahrirlari kuzatuv roʻyxatimda koʻrsatilmasin
+Anonim foydalanuvchilar tahrirlari kuzatuv roʻyxatimda koʻrsatilmasin
+Tekshirilgan tahrirlar kuzatuv roʻyxatimda koʻrsatilmasin
+Boshqa ishtirokchilarga yozgan xatimning nusxasi oʻzimga yuborilsin
+Versiyalar taqqoslanayotganda, pastda sahifa matni koʻrsatilmasin
+Yashirin turkumlarni koʻrsatish
+Tahrir qaytarilganda, versiyalar taqqosi koʻrsatilmasin
+Oʻzgarishlarni saqlamay sahifadan chiqib ketayotganim haqida ogohlantirish
+Doim himoyalangan holda kirish
+Har doim
+Hech qachon
+Brauzer moslamari boʻyicha
+Tahrirlash maydonidagi shrift turi:
+Brauzer moslamari boʻyicha
+Teng enli shrift (Monospaced)
+Kertiksiz shrift (Sans-serif)
+Kertikli shrift (Serif)
+Yakshanba
+Dushanba
+Seshanba
+Chorshanba
+Payshanba
+Juma
+Shanba
+Yak
+Dsh
+Ssh
+Chr
+Pay
+Jum
+Shn
+Yanvar
+Fevral
+Mart
+Aprel
+May
+Iyun
+Iyul
+Avgust
+Sentabr
+Oktabr
+Noyabr
+Dekabr
+Yanvar
+Fevral
+Mart
+Aprel
+May
+Iyun
+Iyul
+Avgust
+Sentabr
+Oktabr
+Noyabr
+Dekabr
+Yan
+Fev
+Mar
+Apr
+May
+Jyn
+Iyl
+Avg
+Sen
+Okt
+Noy
+Dek
+Yanvar $1
+Fevral $1
+Mart $1
+Aprel $1
+$1-may
+Iyun $1
+Iyul $1
+Avgust $1
+Sentabr $1
+Oktabr $1
+Noyabr $1
+Dekabr $1
+{{PLURAL:$1|Turkum}}
+\"$1\" turkumidagi sahifalar
+Ostturkumlar
+\"$1\" turkumidagi fayllar
+<em>Ushbu turkumda hozircha sahifa yoki fayllar yoʻq.</em>
+{{PLURAL:$1|Yashirin turkum}}
+Yashirin turkumlar
+{{PLURAL:$2|Ushbu turkumda faqat bitta ostturkum mavjud.|Quyida ushbu turkumga kiruvchi $2 ta ostturkumdan $1 tasi koʻrsatilgan.}}
+Ushbu turkumda $1 ta ostturkum mavjud.
+{{PLURAL:$2|Ushbu turkumda faqat bitta sahifa mavjud.|Quyida ushbu turkumga kiruvchi $2 ta sahifadan $1 tasi koʻrsatilgan.}}
+Ushbu turkumda $1 ta sahifa mavjud.
+{{PLURAL:$2|Ushbu turkumda faqat bitta fayl mavjud.|Quyida ushbu turkumga kiruvchi $2 ta fayldan $1 tasi koʻrsatilgan.}}
+Ushbu turkumda $1 ta fayl mavjud.
+davomi
+Indekslanadigan sahifalar
+Indekslanmaydigan sahifalar
+Ishlamaydigan fayl havolalari bor sahifalar
+Haqida
+Sahifa
+(yangi oynada ochiladi)
+Bekor qilish
+Batafsil...
+Boshqa hech nima yoʻq...
+Sahifa
+Munozara
+Ushbu IP-manzil munozarasi
+Saytda harakatlanish
+&#32;va
+Topish
+Koʻrib chiqish
+Tahrirlash
+Ushbu sahifa moslamalari
+Mening sahifalarim
+TSS
+Loyiha:TSS
+Amallar
+Nomfazolar
+Variantlar
+Navigatsiya
+Xato
+$1 sahifasiga qaytish.
+{{SITENAME}} dan olingan
+Yordam
+Qidiruv
+Qidirish
+Oʻtish
+O‘tish
+Sahifa tarixi
+Tarix
+oxirgi tashrifimdan keyingi oʻzgarishlar
+Bosma uchun versiya
+Doimiy ishorat
+Chop etish
+Koʻrish
+$1da koʻrish
+Tahrirlash
+Yaratish
+Mahalliy tavsifini qoʻshish
+Ushbu sahifani tahrirlash
+Ushbu sahifani yaratish
+O‘chirish
+Ushbu sahifani o‘chirish
+Ushbu sahifani tiklash
+{{PLURAL:$1|bitta tahrir|$1 ta tahrir}}ni tiklash
+$1 ta oʻchirilgan tahrirni koʻrish
+Himoyalash
+oʻzgartirish
+Ushbu sahifani himoyalash
+Himoyadan chiqarish
+Ushbu sahifaning himoyasini oʻzgaritish
+Yangi sahifa
+Bu sahifa haqida munozara
+unozara
+Maxsus sahifa
+Shaxsiy uskunalar
+Maqolani koʻrib chiqish
+Munozara
+Qarashlar
+Asboblar
+Foydalanuvchi sahifasini koʻrish
+Loyiha sahifasini koʻrish
+Fayl sahifasini koʻrish
+Xabar sahifasini koʻrsatish
+Andoza sahifasini koʻrish
+Yordam olish
+Turkum sahifasini koʻrish
+Munozarani koʻrish
+Boshqa tillarda
+($1dan yoʻnaltirildi)
+Yoʻnaltiruvchi sahifa
+Qayta yoʻnaltirish:
+Bu sahifa oxirgi marta $1, $2 da tahrirlangan.
+Bu sahifaga {{PLURAL:$1|bir marta|$1 marta}} murojaat qilingan.
+Himoyalangan sahifa
+Oʻtish:
+aytda harakatlanish
+qidiruv
+Uzr, ayni paytda serverlarga ortiqcha yuk tushgan.\nBu sahifaga birdaniga koʻpchilik kirmoqchi boʻldi.\nIltimos, biroz kutib turing va keyin yangitdan kirishga urinib koʻring.\n\n$1
+Toʻsishni kutish vaqti tugadi
+Soʻrovlar jamlanmasi toʻldi
+Nomaʼlum xato
+Foydalanish xatosi: $1
+{{SITENAME}} haqida
+Project:Haqida
+Keltirilgan maʼlumotlar $1 orqali tarqatilmoqda (agar aksinchasi koʻrsatilmagan boʻlsa).
+{{ns:project}}:Mualliflik huquqlari
+Joriy hodisalar
+Project:Joriy hodisalar
+Masʼuliyatdan voz kechish
+Project:Masʼuliyatdan voz kechish
+Tahrirlash yordami
+Bosh sahifa
+Bosh sahifa
+Project:Qoida
+Jamoa portali
+Project:Jamoa portali
+Maxfiylik siyosati
+Project:Maxfiylik siyosati
+Ruxsatlilik xatosi
+Sizda soʻralgan amallarni bajarish huquqi yoʻq.
+Soʻralgan amallarni kamida $1 {{PLURAL:$2|guruhi|guruhlari}} foydalanuvchilari amalga oshirishi mumkin.
+$1 versiyasidagi MediaWiki talab etiladi
+Bu sahifada ishlash uchun MediaWikining $1-versiyasi talab etiladi.\n[[Special:Version|Dasturiy taʼminot haqida axborot]]ni koʻring.
+OK
+\"$1\" dan olindi
+Sizga $1 keldi ($2).
+Siz {{PLURAL:$3|boshqa foydalanuvchidan|$3 ta foydalanuvchidan}} $1 oldingiz ($2).
+Siz ko‘p foydalanuvchilardan $1 oldingiz ($2).
+{{PLURAL:$1|yangi xabar|999=yangi xabarlar}}
+oxirgi {{PLURAL:$1|oʻzgarish|oʻzgarishlar}}
+Siz $1ga yangi xat oldingiz
+ahrirlash
+ahrirlash
+anbasini koʻrish
+ahrirlash
+anbasini koʻrish
+Boʻlimni tahrirlash: $1
+Mundarija
+koʻrsatish
+yashirish
+Yigʻish
+Yoyish
+Aminmisiz?
+Ha
+Yoʻq
+$1ni koʻrib chiqasizmi yoki tiklaysizmi?
+$1ni koʻrib chiqasizmi?
+{{PLURAL:$1|Oʻchirilgan tahrir|$1 ta oʻchirilgan tahrirlar}}
+Ko‘rinishida:
+Obuna uchun no‘tog‘ri turdagi kanal
+Sindikatsiya tasmalariga yoʻlash imkoni yoʻq
+$1 — RSS-tasmasi
+$1 — Atom-tasma
+\"$1\" — RSS-tasmasi
+«$1» — Atom-lenta
+$1 (sahifa yaratilmagan)
+Kamayish boʻyicha tartiblash
+Oʻsish boʻyicha tartiblash
+Maqola
+Foydalanuvchi
+Media sahifasi
+Maxsus sahifa
+Vikipediya
+Fayl
+Xabar
+Andoza
+Yordam
+Turkum
+Bunday amal yoʻq
+Bunday maxsus sahifa yoʻq
+Xato
+Maʼlumotlar bazasida xatolik
+So‘rov: $1
+Funktsiya: $1
+Xato: $1
+<strong>Diqqat:</strong> sahifada oxirgi yangilanishlar koʻrsatilmagan boʻlishi mumkin.
+Maʼlumotlar bazasiga yozish toʻsilgan
+(versiya №: $1)
+(Farq: $1, $2)
+Ichki xato
+Ichki xato: $1
+\"$1\" fayl nusxasini \"$2\" fayliga koʻchirib boʻlmadi.
+Fayl nomini «$1»dan «$2»ga o‘zgartirish imkoni yoʻq.
+\"$1\" faylini oʻchirib boʻlmadi.
+\"$1\" papkasini yaratish imkoni yoʻq.
+\"$1\" katalogi faqat oʻqish uchun moʻljallangan.
+\"$1\" faylini topib boʻlmadi.
+Kutilmagan qiymat: \"$1\"=\"$2\".
+Xatolik: Formani jo‘natib bo‘lmadi.
+Bu harakatni ushbu sahifada bajarib bo‘lmadi.
+\"$1\" sahifasini oʻchirib boʻlmadi.
+Notoʻgʻri sarlavha
+Manbasini koʻrish
+$1 sahifasining manbasini koʻrish
+Tezlik cheklovi
+Bu sahifa tahrirlash va boshqa oʻzgarishlar kiritishdan himoyalangan.
+Siz bu sahifaning manbasini koʻrishingiz va uni nusxasini olishingiz mumkin:
+Ushbu sahifada dasturiy taʼminot interfeysi xabari mavjud. Bezoriliklardan saqlash uchun uni oʻzgartirish taʼqiqlangan.\nUshbu xabar tarjimasini qoʻshish yoki oʻzgartirish uchun, iltimos, MediaWikining [//translatewiki.net/ translatewiki.net] mahalliylashtirish saytidan foydalaning.
+<strong>Diqqat:</strong> Siz dasturiy taʼminot interfeysi matni mavjud boʻlgan sahifani tahrirlamoqdasiz.\nUning oʻzgartirilishi ushbu vikidagi boshqa foydalanuvchilar uchun ham interfeys oʻzgarishiga olib keladi.\nUshbu xabar tarjimasini qoʻshish yoki oʻzgartirish uchun, iltimos, MediaWikining [//translatewiki.net/ translatewiki.net] mahalliylashtirish saytidan foydalaning.
+Sizda <strong>$1</strong> nomfazosi sahifalarini tahrirlash huquqi yoʻq
+Sizda uchbu CSS sahifani tahrirlash huquqi yoʻq, chunki bu yerda boshqa foydalanuvchining shaxsiy moslamalari saqlanadi.
+Sizda uchbu JavaScript sahifani tahrirlash huquqi yoʻq, chunki bu yerda boshqa foydalanuvchining shaxsiy moslamalari saqlanadi.
+Sizda ushbu JavaScript sahifani tahrirlashga ruxsat mavjud emas.
+Sizda shaxsiy maʻlumotlaringizni tahrirlashga ruxsat mavjud emas.
+Sizda afzalliklarni tahrirlashga ruxsat mavjud emas.
+\"{{ns:special}}\" nomfazosi sahifalari tahrirlanishi mumkin emas.
+Siz tizimda o‘zingizni tanishtirmadingiz
+Bu sahifani koʻrish yoki soʻralgan amalni bajarish uchun tizimga kirishingiz lozim.
+Moslamada xato. Noma‘lum virus aniqlovchi: <em>$1</em>
+ekshirishda xatolik (kod $1)
+noma’lum antivirus:
+<strong>Siz saytdan muvaffaqiyatli chiqdingiz.</strong>\n\nBrauzeringiz keshini tozalamaguningizgacha ayrim sahifalar tizimga kirganingizdek koʻrinishda davom etaverishi mumkin.
+Xush kelibsiz, $1!
+Foydalanuvchi nomi:
+Foydalanuvchi nomi
+Foydalanuvchi nomingizni kiriting
+Foydalanuvchi nomini kiriting
+Maxfiy soʻz:
+Maxfiy soʻz
+Maxfiy soʻzni kiriting
+Maxfiy soʻzni kiriting
+Maxfiy so‘zni qayta kiriting:
+Maxfiy soʻzni tasdiqlang
+Maxfiy soʻzni yana bir bor kiriting
+Hisob ma’lumotlarim ushbu brauzerda eslab qolinsin (ko‘pi bilan $1 {{PLURAL:$1|kunga|kunga}})
+Kirgan deb esda saqla
+Himoyalangan holda kirish
+Sizning domeningiz:
+Siz bu vikida maxfiy soʻzni oʻzgartira olmaysiz.
+Kirish
+Kirish / Hisob yaratish
+Kirish / Hisob yaratish
+Kirish
+Chiqish
+Chiqish
+Siz tizimga kirmagansiz
+Hisobingiz yoʻqmi?
+{{SITENAME}}ga aʼzo boʻlish
+Hisobingiz yoʻqmi? <strong>$1</strong>.
+Hisob yaratish
+Hisob yaratish
+Hisobingiz bormi? <strong>$1</strong>.
+Kirish
+Kirish maʻlumotlaringiz esdan chiqdimi?
+Maxfiy so‘zni unutib qoʻydingizmi?
+Kirish uchun yordam
+Siz {{GENDER:$1|$1}} nomi bilan kirgansiz.\nBoshqa hisob raqami orqali kirish uchun quyidagi formadan foydalaning.
+Boshqa hisob yaratish
+Elektron pochta manzilingiz
+Elektron pochta manzili (majburiy emas)
+Elektron pochta manzilingizni kiriting
+Elektron pochta manzilini kiriting
+Tasodifan tanlab beriladigan vaqtinchalik maxfiy soʻzdan foydalanish (elektron pochta manzilingizga joʻnatiladi)
+Haqiqiy ismi (ixtiyoriy)
+Sabab:
+Sabab
+Nimaga yana boshqa hisob yaratyapsiz
+Xavfsizlik tekshiruvi
+Yuqoridagi yozuvni bu yerga kiriting
+Hisob yaratish
+Boshqa hisob yaratish
+{{SITENAME}} Sizga oʻxshagan odamlar tomonidan yaratiladi
+ahrirlar soni
+ahifalar soni
+oʻnggi paytdagi ishtirokchilar soni
+Siz tomondan kiritilgan maxfiy so‘zlar mos kelmayapti.
+Bunday foydalanuvchi nomi avvalroq yaratilgan. Iltimos, boshqa nom tanlang.
+Foydalanuvchini aniqlashda xatolik
+Hisob yaratishda xatolik
+Hisob yozuvi yaratishning iloji yoʻq: $1
+Kirish muvaffaqiyatli amalga oshdi
+<strong>{{SITENAME}}ga \"$1\" foydalanuvchi nomi bilan kirdingiz.</strong>
+\"$1\" ismli foydalanuvchi yoʻq.\nIsm yozilishini tekshirib koʻring.
+Siz foydalanuvchining ismini ko‘rsatishingiz lozim.
+Bu foydalanuvchi chetlatilgan. Tizimga kirishga ruxsat yoʻq.
+Kiritgan mahfiy soʻzingiz notoʻgʻri. Iltimos, qaytadan kiritib koʻring.
+Maxfiy soʻz koʻrsatilmagan. Qaytadan urinib koʻring.
+Maxfiy soʻzni yangilash
+{{SITENAME}} uchun vaqtinchalik yangi maxfiy so‘z
+Siz haqiqiy elektron pochta manzilingizni taqdim qilishingiz kerak.
+$1 manziliga xat yuborishda xatolik
+Elektron pochta manzilingiz $2, $3 da tasdiqlangan.
+Elektron pochta manzilingizni tasdiqlash
+Bu sayt elektron pochta xatlarini yubora olmaydi.
+Hisob yozuvi yaratildi
+{{SITENAME}} da hisob yaratish
+Tizimga kirishga mufavvaqiyatsiz urinish
+Til: $1
+Kirish
+Kirish
+Hisob yaratish
+Chiqish
+PHPning mail() funksiyasida nomaʻlum xatolik.
+Maxfiy soʻzni oʻzgartirish
+Maxfiy soʻzni oʻzgartirish
+Eski mahfiy so‘z:
+Yangi mahfiy so‘z:
+Yangi mahfiy soʻzni qayta tering:
+Maxfiy so‘zni o‘rnatish va kirish
+Maxfiy soʻzni oʻzgartirish muvaffaqiyatli oʻtdi!
+Maxfiy so‘z o‘zgartirilishi mumkin emas
+Siz ushbu sahifaga toʻgʻridan toʻgʻri kirishingiz uchun tizimga kirgan boʻlishingiz kerak.
+Maxfiy soʻzni oʻzgartirish
+Bekor
+Vaqtinchalik maxfiy soʻz
+Maxfiy soʻzni yangilash
+Mahfiy soʻzni tashlash uchun ushbu oynalarni toʻltiring.
+{{PLURAL:$1|Quyidagi oynalardan birini toʻldirsangiz, elektron pochtangizga vaqtinchalik maxfiy soʻz joʻnatiladi.}}
+Maxfiy soʻzni yangilash
+Email xususiyatlari ushbu vikida oʻchirib qoʻyilgan.
+Foydalanuvchi nomi:
+Domen:
+Xatni koʻrmoqchimisiz?
+Elektron pochta manzilingiz:
+Foydalanuvchi ismi: $1\nVaqtinchalik maxfiy so‘z: $2
+Elektron pochta manzilini oʻzgartirish
+Joriy elektron pochta manzili
+Elektron pochtaning yangi manzili
+(yoʻq)
+Sizning {{SITENAME}}dagi maxfiy so‘zingiz:
+Manzilni o‘zgartirish
+Kalitlaringizni yangilash
+Kalitlaringizni yangilash
+Kalitlar:
+$1 (joriy koʻrsatkich: $2)
+Kalitlar yangilandi.
+Belgilangan kalitlarni yangilash
+Qalin matn
+Qalin matn
+Yotiq matn
+Yotiq matn
+Ishorat nomi
+Ichki ishorat
+http://www.example.com ishorat nomi
+Tashqi ishorat (http:// prefiksini unutmang)
+Sarlavha
+2-darajadagi sarlavha
+Bu yerga formatlash zarur boʻlmagan matnni qoʻying
+Viki-formatlashga e‘tibor qilmaslik
+Fayl oʻrnatish
+Faylga havola
+Imzoingiz va sana
+Yotiq (gorizontal) chiziq (ko‘p ishlatmang)
+Qisqa izoh:
+Mavzu/sarlavha
+Bu kichik tahrir
+Sahifani kuzatish
+Saqla
+Ko‘rib chiqish
+Koʻrib chiqish
+Kiritilgan o‘zgarishlar
+<strong>Diqqat:</strong> Siz tizimga kirmagansiz. Ushbu sahifa tarixida Sizning IP manzilingiz yozib qolinadi.
+Iltimos sharh qoldiring.
+Tavsif bunday koʻrinishda boʻladi:
+Sarlavha bunday koʻrinishda boʻladi:
+Foydalanuvchi chetlashtirildi
+<strong>Siz (foydalanuvchi nomingiz yoki IP manzilingiz) tahrir qilishdan chetlashtirildingiz.</strong>\n\nSizni $1 chetlashtirdi. Bunga sabab: <em>$2</em>.\n\n* Chetlashtirish muddati boshi: $8\n* Chetlashtirish muddati yakuni: $6\n* Chetlashtirish maqsadi: $7\n\nSiz $1 yoki boshqa [[{{MediaWiki:Grouppage-sysop}}|administrator]] bilan bogʻlanib, arz qilishingiz mumkin.\nSiz «foydalanuvchiga maktub» xizmatidan foydalana olmaysiz, agarda: a) shaxsiy moslamalaringizda haqiqiy e-pochta manzilingiz koʻrsatilmagan yoki tasdiqlanmagan boʻlsa, b) chetlatish shartlarida bu xizmat toʻsilgan boʻlsa.\nSizning hozirgi IP manzilingiz - $3, chetlashtirish raqamingiz - #$5. Arizaga bularni ilova qilishingiz mumkin.
+abab ko‘rsatilmadi
+Siz sahifalarni oʻzgartirish uchun $1.
+Boʻlimni topishni iloji yoʻq
+Siz mavjud boʻlmagan boʻlimni tahrirlamoqchi boʻldingiz. Ushbu boʻlim Siz bu sahifani koʻrayotgan mahalda koʻchirilgan yoki yoʻqotilgan boʻlishi mumkin.
+Shaxsiyatni aniqlash talab etiladi
+Kirish
+Boshqa sahifalarni koʻrish uchun $1
+Maxfiy soʻz joʻnatildi
+(Yangi)
+Bu sahifa hali mavjud emas.\nSahifani yaratish uchun quyida matn kiritishingiz mumkin (qoʻshimcha axborot uchun [$1 yordam sahifasini] koʻring).\nAgar bu sahifaga xatolik sabab kelib qolgan boʻlsangiz brauzeringizning <strong>orqaga</strong> tugmasini bosing.
+----<em>Ushbu munozara sahifasi hali hisob yozuvini yaratmagan, yoki undan foydalanmaydigan anonim ishtirokchiga tegishli.\nShu sababli tenglashtirish uchun raqamli IP-manzildan foydalaniladi.\nUshbu manzilning oʻzi bir nechta boshqa ishtirokchilarga ham mos kelishi mumkin.\nAgar siz anonim ishtirokchi boʻlsangiz va siz oʻzingizga yoʻnaltirilmagan xabar oldim deb taxmin qilsangiz, iltimos, boshqa anonim ishtirokchilar bilan mumkin boʻlgan chalkashliklarni chetlab oʻtish uchun [[Special:UserLogin/signup|hisob yozuvi yarating]] yoki [[Special:UserLogin|tizimga kiring]].</em>
+Bu sahifada hozircha hech qanday matn yoʻq. Siz bu sarlavhani boshqa sahifalardan [[Special:Search/{{PAGENAME}}|qidirishingiz]], <span class=\"plainlinks\">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAMEE}}}} tegishli qaydlarga qarashingiz] yoki bu sahifani [{{fullurl:{{FULLPAGENAME}}|action=edit}} tahrirlashingiz]</span> mumkin.
+\"$1\" foydalanuvchi hisobi roʻyxatga olinmagan.
+<strong>Eslatma.</strong> Saqlaganingizdan so‘ng o‘zgarishlarni ko‘rish uchun siz o‘z brauzeringiz keshini tozalashingizga to‘gri kelishi mumkin.\n* <strong>Firefox / Safari:</strong> <em>Shift</em> tugmasini bosgan holda, <em>Yangilash</em> unsurlar darchasini bosing, yoki <em>Ctrl-F5</em> yoki <em>Ctrl-R</em> (Macda <em>⌘-R</em>) ni bosing\n* <strong>Google Chrome:</strong> <em>Ctrl-Shift-R</em> (Macda <em>⌘-Shift-R</em>) ni bosing\n* <strong>Internet Explorer:</strong> <em>Ctrl</em>ni bosgan holda, <em>Yangilash</em>ni bosing, yoki <em>Ctrl-F5</em>ni bosing\n* <strong>Opera:</string> <em>Asboblar → Moslamalar</em> menyusidan keshni tozalashni tanlang
+(Yangilandi)
+<strong>Izoh:</strong>
+<strong>Bu shunchaki koʻrib chiqish.</strong> Oʻzgartirishlar hali saqlangani yoʻq!
+ahrirlashni davom ettirish
+<strong>Afsuski, sizning tahriringiz texnik nosozlik yuzaga kelgani sabab saqlanmadi.</strong>\nIltimos, yana bir bor urinib koʻring.\nAgar shu xato yana takrorlansa, hisob yozuvingizdan [[Special:UserLogout|chiqishni amalga oshiring]] va qaytadan kiring.
+<strong>Afsuski, sizning tahriringiz texnik nosozlik yuzaga kelgani sabab saqlanmadi.</strong>\n\n<em>Chunki {{SITENAME}}da faqat HTMLdan foydalanish mumkin, JavaScript-hujumlardan saqlanish maqsadida koʻrib chiqish imkoniyati oʻchirib qoʻyilgan.</em>\n\n<strong>Agar foydali tahrir kiritmoqchi boʻlgan boʻlsangiz, yana bir bor urinib koʻring.</strong>\nAgar shundayam xato takrorlansa, hisob yozuvingizdan [[Special:UserLogout|chiqishni amalga oshiring]] va qaytadan kiring.
+Tahrirlanmoqda — $1
+«$1» sahifasini yaratish
+Tahrirlanmoqda — $1 (boʻlimi)
+Yangi mavzu yaratilmoqda — $1
+Tahrirlash toʻqnashuvi: $1
+Sahifani tahrirlayotgan mahalingizda boshqa birov unga oʻzgarish kiritib ulgurdi.\nYuqoridagi tahrir oynasida sahifaning joriy matnini koʻrishingiz mumkin.\nPastdagida esa siz kiritgan oʻzgarishlar koʻrsatilgan.\nKiritmoqchi boʻlgan oʻzgarishlaringizni pastdagi oynadan yuqoridagiga oʻtkazing.\n«{{int:savearticle}}» tugmasini bossangiz <strong>faqat</strong> yuqoridagi matn saqlanadi.
+Sizning matningiz
+<strong>Ogohlantirish: Siz sahifaning eski nusxasini tahrirlayapsiz.</strong> Uni shunday holicha saqlasangiz, keyingi nusxalardagi oʻzgarishlar yoʻqotiladi.
+Farqlar
+Iltimos, {{SITENAME}}ga yuklangan har qanday axborot $2 ostida tarqatilishiga diqqat qiling (batafsil ma‘lumot uchun $1ni ko‘ring).\nAgar yozganlaringiz keyinchalik tahrir qilinishi va qayta tarqatilishiga rozi bo‘lmasangiz, u holda bu yerga yozmang.<br />\nSiz shuningdek bu yozganlaringiz sizniki yoki erkin litsenziya ostida ekanligini va‘da qilmoqdasiz.\n<strong>MUALLIFLIK HUQUQLARI BILAN HIMOYALANGAN ISHLARNI ZINHOR BERUXSAT YUBORMANG!</strong>
+Iltimos, shuni esda tutingki, {{SITENAME}} sahifalaridagi barcha matnlar boshqa foydalanuvchilar tomonidan tahrirlanishi, almashtirilishi yoki o‘chirilishi mumkin. Agar siz yozgan ma‘lumotlaringizni bunday tartibda tahrirlanishiga rozi bo‘lmasangiz, unda uni bu yerga joylashtirmang.<br />\nBundan tashqari, siz ushbu ma‘lumotlarni o‘zingiz yozgan bo‘lishingiz yoki ruxsat berilgan internet manzilidan yoki shu kabi erkin resursdan nusxa olgan bo‘lishingiz lozim (Qo‘shimcha ma‘lumotlar uchun $1 sahifasiga murojaat qiling).\n<strong>MUALLIFLIK HUQUQI QO‘YILGAN ISHLARNI RUXSATSIZ BU YERGA JOYLASHTIRMANG!</strong>
+<strong>Ogohlantirish: Ushbu sahifa himoyalangan boʻlib, faqat administratorlar tomonidan tahrirlanishi mumkin.</strong>\nQuyida himoyalash jurnalidagi oxirgi qayd keltirilgan:
+<strong>Izoh:</strong> Ushbu sahifa himoyalangan boʻlib, faqat roʻyxatdan oʻtgan foydalanuvchilar tomonidan tahrirlanishi mumkin. Quyida himoyalash jurnalidagi oxirgi qayd keltirilgan:
+Ushbu sahifada foydalanilgan {{PLURAL:$1|andoza|andozalar}}:
+Ushbu sahifada foydalanilgan {{PLURAL:$1|andoza|andozalar}}:
+Ushbu bo‘limda foydalanilgan {{PLURAL:$1|andoza|andozalar}}:
+(himoyalangan)
+(yarim-himoyalangan)
+Ushbu sahifa {{PLURAL:$1|1 yashirin turkum|$1 yashirin turkumlar}}ga kiradi:
+Ushbu saytda yangi sahifalar yaratish taʼqiqlagan.\nOrtga qaytib, mavjud sahifani tahrirlashingiz yoki [[Special:UserLogin|tizimga kirishingiz]] mumkin.
+Sizda yangi sahifalar yaratishga ruxsat yoʻq.
+Boʻlimlarni tahrirlash imkoniyati yoʻq
+Ushbu sahifada boʻlimlarni tahrirlash imkoniyati yoʻq.
+Ruxsat huquqida xato
+Sizda quyidagi {{PLURAL:$1|sabab|sabablar}}ga koʻra <strong>$2</strong>ga ruxsat mavjud emas:
+<strong>Diqqat: Siz avval yoʻqotilgan sahifani qaytadan yaratmoqchisiz.</strong>\n\nU avval nega yoʻqotilgani bilan qiziqib koʻring.\nQuyida ushbu sahifaga oid yoʻqotish va koʻchirish qaydlari keltirilgan:
+Bu sahifa oʻchirilgan.\nMaʼlumot uchun quyida oʻchirish va qayta nomlash jurnallaridan mos yozuvlar keltirilgan.
+Qaydlarni toʻliq koʻrish
+Tahrirlash toʻqnashuvi.
+Sahifa yaratildi.
+Sahifa qayta tiklandi.
+Tahriringiz saqlandi.
+Boshlang‘ich matn
+quruq matn
+JavaScript
+CSS
+<strong>Diqqat:</strong> Qo‘llanilayotgan andozalarning jami hajmi juda katta.\nAyrim andozalar qo‘shilmaydi.
+Qo‘llaniladigan andozalarning mumkin bo‘lgan miqdoridan oshgan sahifalar
+Andozalarning to‘ldirilmagan o‘zgaruvchilariga ega sahifalar
+Tahrirni bekor qilish imkoniyati bor. Iltimos, solishtirish oynasini koʻrib chiqib, aynan shu oʻzgarishlarni bekor qilmoqchiligingizga ishonch hosil qiling va undan keyin «Saqla» tugmasini bosing.
+[[Special:Contributions/$2|$2]] ([[User talk:$2|mun.]]) tomonidan qilingan $1-sonli tahrir qaytarildi
+Ro‘yxatdan o‘tib bo‘lmadi
+[[User:$3|$3]] ushbu IP manzil (<strong>$1</strong>) orqali ro‘yxatdan o‘tishni bloklab qo‘ygan.\n\n$3 <em>$2</em>ni sabab qilib ko‘rsatdi
+[[User:$3|$3]] <strong>$1</strong> sohaga tegishli IP manzillar, shu jumladan sizning IP manzilingiz (<strong>$4</strong>), orqali ro‘yxatdan o‘tishni bloklab qo‘ygan.\n\n$3 <em>$2</em>ni sabab qilib ko‘rsatdi
+Ushbu sahifaga doir qaydlarni koʻrsat
+Ushbu sahifa uchun oʻzgarishlar tarixi mavjud emas.
+Hozirgi koʻrinishi
+$2, $3 dagi (joriy) koʻrinishi
+$2, $3 dagi koʻrinishi
+$4, $5 dagi $2 versiyasi
+←Avvalgi koʻrinishi
+Yangiroq koʻrinishi→
+Hozirgi koʻrinishi
+joriy
+keyingi
+oxirgi
+birinchi
+oxirgi
+Farqlarni tanlash: solishtirish uchun kerakli radiobokslarni belgilang va <strong>{{int:compare-submit}}</strong> tugmasini bosing.<br />\nBu yerda: <strong>({{int:cur}})</strong> = hozirgi koʻrinish bilan farqi, <strong>({{int:last}})</strong> = avvalgi koʻrinish bilan farqi, <strong>{{int:minoreditletter}}</strong> = kichkina tahrir.
+Tarixni koʻrish
+Faqat yoʻqotilganlari
+eng eski
+eng yangi
+({{PLURAL:$1|1 bayt|$1 bayt}})
+(boʻsh)
+Oʻzgarishlar tarixi
+Vikidagi mazkur sahifaning oʻzgarishlar tarixi
+$1 $2 da
+(tahrir izohi o‘chirildi)
+(muallif nomi oʻchirilgan)
+(jurnal tafsilotlari o‘chirildi)
+koʻrsatish/yashirish
+koʻrsatish
+Ha
+Iltimos, haqiqatdan ham shu harakatni amalga oshirmoqchiligingizni, uning oqibatlarini tushunib turganingizni va harakatingiz [[{{MediaWiki:Policy-url}}|qoidalarga]] asosanlanganini tasdiqlang.
+Sahifaning ushbu versiyasi matnini yashirish
+(o‘zgartirilmasin)
+Ha
+Yoʻq
+Sabab:
+Ko‘rinuvchanlikni o‘zgartirish
+Boshqa/qoʻshimcha sabab:
+Boshqa sabab
+Tahrirlar tarixlarini birlashtirish
+Ikkita sahifa tahrirlari tarixini birlashtirish:
+Manba sahifa:
+Mo‘ljal sahifa:
+Birlashtiriladigan tahrirlar tarixi
+Birlashtiriladigan tahrirlarni koʻrsatish
+Tahrirlarni birlashtirish
+Sabab:
+Birlashtirish qaydlari
+Bo‘lish
+$1 — oʻzgarishlar tarixi
+$1 — versiyalar orasidagi farq
+\"$1\" va \"$2\" sahifalar orasidagi farq
+(Sahifalar orasidagi farq)
+Qator $1:
+Solishtirish
+Oʻzgartirish
+bekor qilish
+Qidiruv natijalari
+\"$1\" uchun qidiruv natijalari
+Sahifalar nomlaridagi mos kelishlar
+Sahifalar matnlaridagi mos kelishlar
+Bunday matn topilmadi
+oldingi {{PLURAL:$1|$1}}
+keyingi {{PLURAL:$1|$1}}
+Avvalgi $1 {{PLURAL:$1|natija|natijalar}}
+Keyingi $1 {{PLURAL:$1|natija|natijalar}}
+Sahifada $1 ta natija koʻrsatish
+Koʻrish ($1 {{int:pipe-separator}} $2) ($3).
+<strong>Ushbu vikida \"[[:$1]]\" nomli sahifa mavjud.</strong>
+<strong>Ushbu vikida \"[[:$1]]\" sahifasini yarating!</strong> {{PLURAL:$2|0=|Shuningdek qidiruvingiz orqali topilgan sahifani qarang.|Shuningdek topilgan qidiruv natijalarini qarang.}}
+Maqolalar
+Multimedia
+Hamma joyda
+Tanlangan joyda
+$1da qidirish
+Fayllarni qidirish
+Barcha sahifalardan qidirish (munozara sahifalarinidan ham)
+Belgilangan nomfazolardan qidirish
+$1 ({{PLURAL:$2|1 ta soʻz|$2 ta soʻz}})
+$1 {{PLURAL:$1|a‘zo|a‘zolar}} ($2 {{PLURAL:$2|ostturkum|ostturkumlar}}, $3 {{PLURAL:$3|fayl|fayllar}}).
+(yoʻnaltirish $1)
+($1 boʻlimi)
+Balki buni nazarda tutgandirsiz: $1
+Aloqador loyihalar
+$1 natijalar:
+(yana)
+Bog‘liq
+bogʻlangan
+barchasi
+Quyida №<strong>$2</strong>dan boshlab {{PLURAL:$1|<strong>bitta</strong> natija|<strong>$1</strong> ta natija}} koʻrsatilgan.
+Talabga javob beradigan natija topilmadi.
+Kengaytirilgan qidiruv
+Quyidagi nomfazolardan qidir:
+Belgilash:
+Hammasini
+Hech qaysini
+Tashqi qidiruv
+Moslamalar
+Moslamalarim
+Tahrirlar soni:
+Iltimos, moslamalarni oʻzgartirish uchun tizimga kiring.
+Tashqi ko‘rinishi
+Ko‘rib chiqish
+Farqi yoʻq
+Tajribaviy imkoniyatlar
+Foydalanuvchi sahifalari
+Shaxsiy ma’lumotlar
+Yangi o‘zgarishlar
+Kuzatuv roʻyxati
+Kunlar soni:
+Maksimum $1 kun
+Kengaytirilgan kuzatuv roʻyxatingizda koʻrsatiladigan oʻzgarishlar soni:
+Maksimum: 1000
+Kuzatuv roʻyxatingiz tokeni:
+Boshqa moslamalar
+Maxfiy soʻzni oʻzgartirish
+Elektron pochta manzilini oʻzgartirish
+Elektron pochta moslamalari
+Tashqi ko‘rinishi
+Saqlash
+Barcha moslamalarni dastlabki holatiga qaytarish
+Tahrirlash
+Qatorlar soni:
+Ustunlar soni:
+Qidiruv
+<a href=\"#\" class=\"stub\">Chala maqolalarga</a> ishorat keltirish uchun pastki chegara:
+Oʻchirib qoʻyilgan
+Necha kunlik tahrirlar koʻrsatiladi:
+Maksimum $1 kun
+Sukut boʻyicha koʻrsatiladigan tahrirlar soni:
+Yangi oʻzgarishlar, sahifalar tarixi va qaydlar uchun
+Bu kuzatuv roʻyxatingizning veb-kanali uchun maxfiy kalit kodi.\nBu kodni biladigan har kim sizning kuzatuv roʻyxatingizni koʻrishi mumkin, shuning uchun boshqalarga uni oshkor qilmang. [[Special:ResetTokens|Tokenni yangilash]].
+Sizning moslamalaringiz saqlandi
+Vaqt mintaqangiz:
+Mahalliy vaqt:
+Server moslamalaridan foydalanish ($1)
+Boshqa (siljishni koʻrsating)
+Server vaqti:
+Brauzerdan to‘ldirish
+Afrika
+Amerika
+Antarktika
+Arktika
+Osiyo
+Atlantika okeani
+Avstraliya
+Yevropa
+Hind okeani
+Tinch okeani
+Boshqa foydalanuvchilardan elektron xat olishga ruxsat berish
+Qidiruv
+Nomfazolar
+Sukut boʻyicha
+Fayllar
+Shaxsiy CSS
+Shaxsiy JavaScript
+Umumiy CSS/JavaScript (barcha tashqi koʻrinishlar uchun):
+Elektron pochta manzilini tasdiqlash:
+E-mail:
+Foydalanuvchi nomi
+Qaysi {{PLURAL:$1|guruh|guruhlar}} aʼzosi:
+Hisob yaratilgan vaqt:
+Haqiqiy ism *:
+Til:
+Yozuv turi (lotin/kirill):
+Ushbu vikidagi sahifalar qaysi tilda va yozuvda koʻrsatilishi.
+Yangi imzo:
+Munozara sahifalarida imzo \"<nowiki>~~~~</nowiki>\" orqali qoʻyiladi, u sizning imzoingiz va joriy vaqtga aylantiriladi.
+Jinsi:
+Koʻrsatilmagan
+Erkak
+Ayol
+Koʻrsatilishi majburiy emas: taʼminot xizmatining foydalanuvchi jinsiga qarab yuboradigan ayrim xabarlarida foydalaniladi.\nBu maʼlumot hammaga koʻrsatiladi.
+E-mail:
+Haqiqiy ism (majburiy emas).\nAgar keltirsangiz, undan sahifa kim tomonidan tahrirlanganini koʻrsatish uchun foydalaniladi.
+Elektron pochta manzilini koʻrsatish majburiy emas, lekin u siz maxfiy soʻzni unutib qoʻysangiz kerak boʻladi.
+Shuningdek, u boshqa foydalanuvchilarga Siz bilan shaxsiy sahifangiz yoki munozara sahifangizdagi havola orqali bogʻlanish imkonini beradi. Bunda Siz bilan bogʻlanmoqchi boʻlgan foydalanuvchiga pochta manzilingiz koʻrsatilmaydi.
+E-mail manzilni koʻrsatish shart emas
+Asosiy maʼlumot
+Baynalmilallashtirish
+Imzo
+Sana formati
+Vaqt farqi
+Qoʻshimcha moslamalar
+Qoʻshimcha moslamalar
+Qoʻshimcha moslamalar
+Qoʻshimcha moslamalar
+Qoʻshimcha moslamalar
+Tasvirlash moslamalari
+Tasvirlash moslamalari
+Versiyalar farqi
+Foydalanuvchining huquqlarini boshqarish
+Foydalanuvchi nomi:
+Guruhlardagi aʼzoligini oʻzgartirish
+Aʼzolik:
+Quyidagi guruhlarga kiradi:
+Sabab:
+Siz o‘zgartirishingiz mumkin bo‘lgan guruhlar
+Siz o‘zgartira olmaydigan guruhlar
+Guruh
+Foydalanuvchilar
+Tasdiqlangan foydalanuvchilar
+Botlar
+Administratorlar
+Rasmiyatchilar
+Tekshiruvchilar
+(hamma)
+{{GENDER:$1|foydalanuvchi}}
+{{GENDER:$1|avtotasdiqlangan foydalanuvchi}}
+{{GENDER:$1|bot}}
+{{GENDER:$1|administrator}}
+{{GENDER:$1|rasmiyatchi}}
+{{GENDER:$1|tekshiruvchi}}
+{{ns:project}}:Foydalanuvchilar
+{{ns:project}}:Tasdiqlangan foydalanuvchilar
+{{ns:project}}:Botlar
+{{ns:project}}:Administratorlar
+{{ns:project}}:Rasmiyatchilar
+{{ns:project}}:Tekshiruvchilar
+Sahifalarni o‘qish
+Sahifalarni tahrirlash
+Foydalanuvchilarni roʻyxatga olish qaydlari
+Yaqinda roʻyxatdan oʻtgan foydalanuvchilar roʻyxati
+Foydalanuvchi huquqlari koʻrsatilgan qaydlar
+Foydalanuvchi huquqlarini oʻzgartirish qaydlari.
+ushbu sahifani tahrirlash
+bu sahifani koʻchirish
+Bu sahifani va uning ostsahifalarini koʻchirish
+ushbu sahifaning oʻchirilgan tarixini koʻrish
+elektron xatlar jo‘natish
+$1 {{PLURAL:$1|oʻzgarish|oʻzgarishlar}}
+arix
+Yangi oʻzgarishlar
+Yangi oʻzgarishlar moslamalari
+Bu sahifada siz {{SITENAME}}da sodir boʻlgan soʻnggi oʻzgarishlarni koʻrishingiz mumkin.
+Koʻrsatilgan muddatga va shartlarga oid oʻzgarishlar topilmadi.
+Vikida mazkur oqimdagi oxirgi oʻzgarishlarni kuzatish
+Bu tahrir orqali yangi sahifa yaratilgan
+Bu tahrir kichik deb belgilangan
+Bu tahrirni bot bajargan
+Bu tahrir hali tekshirilmagan
+Sahifa vazni qanchaga oʻzgargani (bayt)
+<strong>Izoh:</strong>
+{{int:recentchanges-label-newpage}} ([[Special:NewPages|alohida roʻyxat]])
+Quyida <strong>$3, $4</strong> dan keyin sodir boʻlgan oʻzgarishlar koʻrsatilgan (oxirgi <strong>$1</strong> tasi).
+$3, $2 dan keyin sodir boʻlgan oʻzgarishlarni koʻrsat
+Kichik tahrirlarni $1
+koʻrsat
+yashir
+Botlarni $1
+koʻrsat
+yashir
+Roʻyxatdan oʻtgan foydalanuvchilarni $1
+koʻrsat
+yashir
+Anonim foydalanuvchilarni $1
+koʻrsat
+yashir
+Tekshirilgan tahrirlarni $1
+yashir
+Oʻz tahrirlarimni $1
+koʻrsat
+yashir
+Oxirgi $2 kun ichida sodir boʻlgan $1 ta oʻzgarish koʻrsatildi<br />$3
+farq
+arix
+yashir
+koʻrsat
+Y
+b
+/* $1 */ yangi mavzu
+Tasfilotlarni koʻrsatish (JavaScript talab qilinadi)
+Tafsilotlolarni yashirish
+dastlab \"$1\" sifatida yaratilgan
+Bogʻlangan oʻzgarishlar
+Bogʻliq oʻzgarishlar
+Bogʻliq oʻzgarishlar
+\"$1\"ga aloqador oʻzgarishlar
+Ushbu maxsus sahifa unga bogʻlangan sahifalardagi soʻnggi oʻzgarishlarni koʻrsatadi. [[Special:Watchlist|Kuzatuv roʻyxatingizdagi]] sahifalar <strong>qalin<strong> qilib koʻrsatilgan.
+Sahifa nomi:
+Koʻrsatilgan sahifaga bogʻlangan sahifalardagi oʻzgarishlarni koʻrish
+Fayl yuklash
+Fayl yuklash
+Yuklashda xatolik
+<strong>Diqqat: bunday nomli fayl avval yoʻqotilgan yoki koʻchirilgan.</strong>\n\nQuyida bu sahifaga oid yoʻqotish va koʻchirish qaydlari keltirilgan:
+Yuklash mumkin fayl turlari: $1.
+Yuklash qaydlari
+Fayl nomi
+Qisqa izoh
+Qisqa izoh:
+Fayldagi oʻzgarishlar:
+Tarqatish shartlari:
+Manba:
+Ogohlantirishlarga eʼtibor qilma
+Yuklanayotgan fayl
+Fayl nomi:
+Fayl nomi:
+Faylning maksimal oʻlchami: $1
+Fayl tavsifi
+Yuklash moslamalari
+Bu faylni kuzatish
+Litsenziyalash:
+Litsenziyalash
+(kompyuteringizdagi fayl)
+Ushbu maxsus sahifada barcha yuklangan fayllar koʻrsatilgan.
+fayl
+Fayllar roʻyxati
+Miniatura
+Sana
+Nomi
+Foydalanuvchi
+Oʻlchami
+Taʼrif
+Versiyalar
+Ha
+Yoʻq
+Fayl
+Fayl tarixi
+Faylning biror paytdagi holatini koʻrish uchun tegishli sana/vaqtga bosingiz.
+barchasini oʻchirish
+o‘chirish
+qaytarish
+joriy
+Sana/Vaqt
+Miniatura
+$1 dagi versiya uchun tasvir
+Miniatyurasi yoʻq
+Foydalanuvchi
+Oʻlchamlari
+Fayl hajmi
+Izoh
+Fayllarga ishoratlar
+Bu faylga quyidagi {{PLURAL:$1|sahifa|$1 sahifalar}} bogʻlangan:
+Bu faylga bogʻlangan sahifalar yoʻq.
+Ushbu fayl $1ga yuklangan, shuning uchun boshqa loyihalarda ham qoʻllanilishi mumkin.
+Ushbu fayl $1ga yuklangan boʻlib, boshqa loyihalarda ham qoʻllanilishi mumkin.\nQoʻshimcha maʼlumotlarni uning [$2 tavsif sahifasidan] topishingiz mumkin.
+Ushbu fayl $1ga yuklangan boʻlib, boshqa loyihalarda ham qoʻllanilishi mumkin.\nUning [$2 tavsif sahifasidan] olingan maʼlumot quyida keltirilgan.
+Ushbu fayl $1ga yuklangan boʻlib, boshqa loyihalarda ham qoʻllanilishi mumkin.\nUning tavsifini [$2 mos sahifada] oʻzgartirishingiz mumkin.
+Ushbu fayl $1ga yuklangan boʻlib, boshqa loyihalarda ham qoʻllanilishi mumkin.\nUning tavsifini [$2 mos sahifada] tahrirlashingiz mumkin.
+Bu faylning yangi versiyasini yuklash
+$1dan
+umumiy fayllar saqlanadigan joy
+Vikiombor
+Sabab:
+$1 — oʻchirish
+Siz ushbu faylni — <strong>[[Media:$1|$1]]</strong> va uning tarixini butunlay oʻchirib tashlamoqchi boʻlyapsiz.
+Sabab:
+O‘chirish
+* Umumiy sabablar\n** mualliflik huquqlari buzilyapti\n** mavjud faylning nusxasi
+MIME-tur:
+yuklash
+Ishlatilinmagan andozalar
+Tasodifiy sahifa
+Statistika
+Sahifalar statistikasi
+Tahrirlar statistikasi
+Foydalanuvchilar statistikasi
+Maqolalar
+Sahifalar
+Ushbu vikidagi barcha sahifalar, jumladan munozara, yoʻnaltirish va hk.
+Yuklangan fayllar
+{{SITENAME}}dagi tahrirlarning umumiy soni
+Oʻrtacha tahrirlar soni (sahifa boshiga)
+Qayd etilgan [[Special:ListUsers|foydalanuvchilar]]
+Faol foydalanuvchilar
+Oxirgi $1 kun ichida kamida bitta amal qilgan foydalanuvchilar
+Xossa nomi:
+Oʻtish
+$1 {{PLURAL:$1|bayt}}
+$1 {{PLURAL:$1|turkum|turkumlar}}
+$1 {{PLURAL:$1|ta a‘zo}}
+Yetim sahifalar
+Turkumlashtirilmagan sahifalar
+Turkumlashtirilmagan turkumlar
+Turkumlashtirilmagan fayllar
+Turkumlashtirilmagan andozalar
+Ishlatilmayotgan turkumlar
+Ishlatilinmagan fayllar
+Talab qilinayotgan turkumlar
+Eng koʻp turkumli sahifalar
+Prefiksli barcha sahifalar
+Himoyalangan sahifalar
+Foydalanuvchilar roʻyxati
+$1, $2 da {{GENDER:$3|roʻyxatdan oʻtgan}}
+Yangi sahifalar
+Ko‘chirish
+Bu sahifani koʻchirish
+{{PLURAL:$1|yangiroq 1|yangiroq $1}}
+{{PLURAL:$1|eskiroq 1|eskiroq $1}}
+Bekitish
+Kitob manbalari
+Kitob haqida ma‘lumot qidirish
+Ijrochi:
+Moʻljal:
+Qaydlar
+Barcha ochiq qaydlar
+{{SITENAME}}dagi barcha jurnallar roʻyxati.\nNatijalarni jurnal nomi, foydalanuvchi nomi (harflar katta-kichikligi inobatga olinadi) yoki sahifa nomi boʻyicha saralashingiz mumkin.\n* Biror foydalanuvchi amalga oshirgan qaydni topish uchun uning foydalanuvchi nomini „Ijrochi“ oynasiga kiriting.\n* Biror foydalanuvchi yoki sahifaga nisbatan amalga oshirilgan qaydni topish uchun ulardan birining nomini „Moʻljal“ oynasiga kiriting.
+Talabga mos yozuvlar mavjud emas.
+Shu matndan boshlanuvchi sarlavhalarni izlash
+Tanlangan jurnal yozuvini oʻzgartirish
+Barcha sahifalar
+Keyingi sahifa ($1)
+Avvalgi sahifa ($1)
+Quyidagidan boshlanuvchi sahifalarni koʻrsatish:
+Barcha sahifalar
+Oʻtish
+Shunday prefiksli sahifalarni koʻrsatish:
+Yoʻnaltirishlarni yashirish
+Oxirgi versiyasini koʻrish
+Turkumlar
+Quyidagi {{PLURAL:$1|turkumda|turkumlarda}} sahifa yoki media-fayllar mavjud.\n[[Special:UnusedCategories|Ishlatilmayotgan turkumlar]] bu yerda koʻrsatilmaydi.\nShuningdek qarang: [[Special:WantedCategories|talab qilinayotgan turkumlar]].
+Quyidagidan boshlanuvchi turkumlarni koʻrsatish:
+iqdori bo‘yicha saralash
+alifbo bo‘yicha saralash
+Foydalanuvchining o‘chirilgan hissasi
+O‘chirilgan foydalanuvchilar hissalari
+hissa
+Tashqi havolalarni qidirish
+Qidiruv uchun andaza
+Nomfazo:
+Qidirish
+$2 ichidan $1 ga havola
+Quyidagidan boshlanuvchi foydalanuvchilarni koʻrsatish:
+Koʻrsatish
+Foydalanuvchilar topilmadi.
+(chetlashtirilgan)
+Faol foydalanuvchilar roʻyxati
+Quyidagidan boshlanuvchi foydalanuvchilarni koʻrsatish:
+Botlarni yashirish
+Maʼmurlarni yashirish
+Foydalanuvchilar topilmadi.
+Foydalanuvchilar guruhlari roʻyxati
+Har bir viki-loyihada boʻlgani kabi, Oʻzbekcha Vikipediyada ham foydalanuvchilar bir nechta guruhlarga boʻlingan boʻlib, quyida ularning roʻyxati va tegishli huquqlari keltirilgan. Alohida huquqlar haqida [[{{MediaWiki:Listgrouprights-helppage}}|qoʻshimcha maʼlumotlar]] boʻlishi mumkin.
+Izohlar:\n* <span class=\"listgrouprights-granted\">Amaldagi huquqlar</span>\n* <span class=\"listgrouprights-revoked\">Bekor qilingan huquqlar</span>
+Guruh
+Huquqlar
+Help:Guruhlar huquqlari
+(a’zolar ro‘yxati)
+Foydalanuvchiga maktub
+Ushbu {{GENDER:$1|foydalanuvchi}}ga maktub joʻnatish
+Foydalanuvchiga elektron maktub yozish
+Foydalanuvchiga maktub
+{{SITENAME}} — $1 tomonidan maktub
+Foydalanuvchi elektron pochtasi o‘chirilgan
+Elektron pochta manzili mavjud emas
+Bu foydalanuvchi e-mail manzil koʻrsatgani yoʻq.
+Oluvchi ishtirokchining ismini kiriting
+Foydalanuvchi nomi:
+Jo‘natish
+Boshqa {{SITENAME}} ishtirokchisiga xat jo‘natish
+Kimdan:
+Kimga:
+Sarlavha:
+Xabar
+Joʻnatish
+Maktub nusxasi mening elektron pochtamga joʻnatilsin
+$1ga maktubingizning nusxasi: $2
+Xat jo‘natildi
+Sizning elektron maktubingiz jo‘natildi.
+Tizimli xabar qoldirish.
+Tizimli etkazish
+Kuzatuv roʻyxatim
+Kuzatuv roʻyxatim
+$1 uchun $2
+Kuzatuv roʻyxatingizda hech nima yoʻq.
+Siz tizimda o‘zingizni tanishtirmadingiz
+Kuzatuv ro‘yxatiga qo‘shish
+\"[[:$1]]\" sahifasi sizning [[Special:Watchlist|kuzatuv roʻyxatingizga]] qoʻshildi. Bu sahifada va uning munozara sahifasida boʻladigan oʻzgarishlar u yerda koʻrsatiladi.
+Kuzatuv roʻyxatidan oʻchirish
+\"[[:$1]]\" sahifasi [[Special:Watchlist|kuzatuv roʻyxatingizdan]] oʻchirildi.
+Kuzatish
+Sahifani kuzatish
+Kuzatmaslik
+Kuzatuvni to‘xtatish
+Maqola emas
+Sizning kuzatuv roʻyxatingizda hozirda {{PLURAL:$1|bitta sahifa|$1ta sahifa}} mavjud (munozara sahifalarini hisobga olmaganda).
+Siz oxirgi marta kirganingizdan keyin oʻzgartirilgan sahifalar <strong>qalin</strong> yozuv bilan ajratib koʻrsatilgan.
+Quyida oxirgi $2 soat ichida sodir boʻlgan {{PLURAL:$1|oxirgi oʻzgarish|<strong>$1</strong> ta oʻzgarishlar}} koʻrsatilgan. $3, $4.
+Oxirgi $1 soatdagi $2 kundagi tahrirlarni koʻrsatish
+Kuzatuv roʻyxati moslamalari
+Kuzatish...
+Kuzatuv roʻyxatidan oʻchirilmoqda...
+Hammasini koʻrib chiqilgan deb belgilash
+{{SITENAME}} ishtirokchisi
+{{SITENAME}} loyihasining $1 nomli sahifasi foydalanuvchi {{gender:$2|$2}} tomonidan o‘chirildi
+{{SITENAME}} loyihasining $1 nomli sahifasi foydalanuvchi {{gender:$2|$2}} tomonidan yaratildi
+{{SITENAME}} loyihasining $1 nomli sahifasi foydalanuvchi {{gender:$2|$2}} tomonidan qayta nomlandi
+{{SITENAME}} loyihasining $1 nomli sahifasi foydalanuvchi {{gender:$2|$2}} tomonidan tiklandi
+{{SITENAME}} loyihasining $1 nomli sahifasi foydalanuvchi {{gender:$2|$2}} tomonidan oʻzgartirildi
+{{SITENAME}} loyihasining $1 nomli sahifasi $PAGEEDITDATEda foydalanuvchi {{gender:$2|$2}} tomonidan o‘chirildi, qarang: $3.
+{{SITENAME}} loyihasining $1 nomli sahifasi $PAGEEDITDATEda foydalanuvchi {{gender:$2|$2}} tomonidan yaratildi, joriy variantini ko‘rish uchun $3 ga qarang.
+{{SITENAME}} loyihasining $1 nomli sahifasi $PAGEEDITDATEda foydalanuvchi {{gender:$2|$2}} tomonidan qayta nomlandi, joriy variantini ko‘rish uchun $3 ga qarang.
+{{SITENAME}} loyihasining $1 nomli sahifasi $PAGEEDITDATEda foydalanuvchi {{gender:$2|$2}} tomonidan tiklandi, joriy variantini ko‘rish uchun $3 ga qarang.
+{{SITENAME}} loyihasining $1 nomli sahifasi $PAGEEDITDATEda foydalanuvchi {{gender:$2|$2}} tomonidan o‘zgartirildi, joriy variantini ko‘rish uchun $3 ga qarang.
+Oxirgi tashrifingizdan keyin sodir boʻlgan barcha oʻzgarishlarni koʻrish uchun $1 ga qarang.
+Oʻzgarishlar bilan tanishish uchun $1 ga qarang.
+anonim foydalanuvchi $1
+Hurmatli $WATCHINGUSERNAME,\n\n$PAGEINTRO $NEWPAGE\n\nO‘zgarish bo‘yicha qisqacha izoh: $PAGESUMMARY $PAGEMINOREDIT\n\nTahrirlovchiga murojaat qilish:\nel. pochta: $PAGEEDITOR_EMAIL\nviki: $PAGEEDITOR_WIKI\n\nAgar siz sahifaga o‘tib ko‘rmasangiz, u holda uning keyingi o‘zgarishlari bo‘yicha boshqa bildirish xabarlari kelmaydi. Siz, shuningdek o‘z kuzatuv ro‘yxatingizda barcha sahifalar uchun xabar berish moslamasini o‘chirishingiz mumkin.\n\n{{SITENAME}}ning xabar berish tizimi\n\n--\nXabar berish moslamalarini o‘zgartirish uchun quyidagi havola bo‘yicha o‘ting\n{{canonicalurl:{{#special:Preferences}}}}\n\nOʻz kuzatuv roʻyxatingiz moslamalarini o‘zgartirish uchun quyidagi havola bo‘yicha o‘ting\n{{canonicalurl:{{#special:EditWatchlist}}}}\n\nOʻz kuzatuv roʻyxatingizdan sahifani o‘chirish uchun quyidagi havola bo‘yicha o‘ting\n$UNWATCHURL\n\nQayta aloqa va yordam\n$HELPPAGE
+yaratildi
+o‘zgartirildi
+Sahifani oʻchirish
+Tasdiqlash
+arkibi: „$1“
+arkibi: „$1“ (faqat bitta muallifi bor edi: „[[Special:Contributions/$2|$2]]“)
+ozalashdan oldingi tarkibi: „$1“
+$1 — oʻchirish
+Sahifani o‘chirish
+<strong>Diqqat:</strong> Siz oʻchirmoqchi boʻlayotgan sahifaning tarixida $1 ta {{PLURAL:$1|versiyasi}} bor:
+Siz ushbu sahifani va uning tarixini butunlay oʻchirib tashlamoqchi boʻlyapsiz. Iltimos, [[Special:Whatlinkshere/{{FULLPAGENAMEE}}|bogʻlangan sahifalar]] bilan tanishib chiqishni unutmang.
+Bajarildi
+Jarayon amalga oshmadi
+\"$1\" yoʻqotildi.\nYaqinda sodir etilgan yoʻqotishlar uchun $2ni koʻring.
+Yoʻqotish qaydlari
+Quyida oxirgi yoʻqotish qaydlari keltirilgan
+yoʻqotish qaydlari
+Eski holiga keltirildi
+Sababi:
+Boshqa/qoʻshimcha sabab:
+Boshqa sabab
+Sabablar roʻyxatini tahrirlash
+<strong>Ogohlantirish:</strong> [[Special:WhatLinksHere/{{FULLPAGENAME}}|Baʼzi bir sahifalar]] siz oʻchirmoqchi boʻlayotgan sahifaga bogʻlangan.
+Oʻzgarishlarni ortga qaytarish
+ortga qaytarish
+$1 ta tahrirni ortga qaytarish
+$1 tadan koʻp tahrirni ortga qaytarish
+Eski holiga keltirishda xatolik
+[[Special:Contributions/$2|$2]] tahrirlari [[User:$1|$1]] versiyasiga qaytarildi
+Seansda xatolik
+Himoyalash qaydlari
+\"[[$1]]\" sahifasi himoyalandi
+\"[[$1]]\" sahifasining himoya darajasini oʻzgartirdi
+himoyalash moslamalarini \"[[$2]]\"dan \"[[$1]]\"ga o‘tkazdi
+\"$1\" uchun himoya darajasini oʻrnatish
+Himoya oʻrnatish
+Sabab:
+Muddati:
+Qoʻshimcha moslamalarni yoqish
+Bu yerda siz <strong>$1</strong> sahifasining himoya darajasini koʻrishingiz va oʻzgartishingiz mumkin.
+Barcha foydalanuvchilar
+Faqat roʻyxatdan oʻtgan foydalanuvchilar
+Faqat administratorlar
+pog‘onali
+$1da tugaydi
+uddatsiz
+Ushbu sahifaga bogʻlangan sahifalarni ham himoyalash (pogʻonali himoya)
+Boshqa muddat:
+boshqa muddat
+Joriy tugash vaqti: $2, $3
+Boshqa/qo‘shimcha sabab
+Boshqa sabab
+Sabablar roʻyxatini tahrirlash
+1 soat:1 hours,1 kun:1 day,1 hafta:1 week,2 hafta:2 weeks,1 oy:1 month,3 oy:3 months,6 oy:6 months,1 yil:1 year,cheksiz:infinite
+Huquqlar:
+Ruxsat etilganlik darajasi:
+Eng kichik hajm
+Eng katta hajm:
+(bayt)
+Tahrirlash
+Koʻchirish
+Yaratish
+Yuklash
+o‘liq himoya
+qisman himoya
+barcha darajalar
+Oʻchirilgan sahifalarni koʻrish
+Oʻchirilgan sahifalarni koʻrish va tiklash
+Oʻchirilgan sahifalarni koʻrish
+Oldingi versiya topilmadi.
+Tiklash
+ko‘rib chiqish/tiklash
+koʻrib chiqish
+Tanlash tartibini almashtirish
+Sababi:
+O‘chirilgan sahifalarni qidirish
+O‘chirilgan sahifalarni qidirish
+Bundan boshlangan sahifalarni koʻrsatish:
+Qidirish
+Ha
+Nomfazo:
+Tanlash tartibini almashtirish
+Bogʻliq nomfazo
+(asosiy)
+{{GENDER:$1|Foydalanuvchi}} hissasi
+{{GENDER:$1|Foydalanuvchi}} $1 hissasi
+Hissam
+$1 uchun ($2)
+Belgilangan shartlarga muvofiq oʻzgarishlar topilmadi.
+(joriy)
+Oydan (va avvalroq)
+Yildan (va avvalroq)
+Faqatgina yangi foydalanuvchilarning hissalarini koʻrsat
+Yangi hisob yozuvlaridan
+Yangi hisob yozuvlarining hissalari
+chetlatishlar
+yoʻqotilgan tahrirlar
+yuklamalar
+qaydlar
+unozara
+foydalanuvchining huquqlarini boshqarish
+Ushbu foydalanuvchi hozirda tahrirlashdan chetlatilgan. Quyida chetlatish qaydlaridan soʻnggi yozuv keltirilgan:
+Hissalarni qidirish
+IP-manzil yoki foydalanuvchi nomi:
+Faqat oxirgi deb hisoblangan tahrirlarni koʻrsat
+Qidirish
+Bu sahifaga bog‘langan sahifalar
+\"$1\"ga bogʻlangan sahifalar
+Sahifa:
+Quyidagi sahifalar <strong>[[:$1]]</strong> sahifasiga bogʻlangan:
+<strong>[[:$1]]</strong> sahifasiga hech qaysi sahifa bog‘lanmagan.
+Tanlangan nomfazoda <strong>[[:$1]]</strong>ga bog‘langan sahifalar mavjud emas.
+yoʻnaltiruvchi sahifa
+qoʻshimcha
+faylli havola
+{{PLURAL:$1|oldingi}} $1
+{{PLURAL:$1|keyingi}} $1
+← ishoratlar
+qayta yoʻnaltirishlarni $1
+kiritmalarni $1
+havolalarni $1
+faylga havolalarini $1
+Filtrlar
+Avtochetlashtirish #$1
+Foydalanuvchini chetlashtirish
+Foydalanuvchiga yo‘l ochish
+{{GENDER:$1|Foydalanuvchini}} chetlashtirish
+Foydalanuvchini chetlashtirish
+IP-manzil yoki foydalanuvchi nomi:
+Tugash muddati:
+Sabab:
+* Chetlashtirishning odatiy sabablari\n** Yolgʻon maʼlumot kiritish\n** Sahifa matnini toʻliq oʻchirish\n** Tashqi saytlarga spam-havolalar\n** Maʼnosiz matn/axlat qoʻshish\n** Foydalanuvchilarga tahdid qilish, ularni taʼqib qilish\n** Bir nechta hisob yozuvlaridan oʻz manfaatlarida foydalanish\n** Nomaqbul foydalanuvchi nomi
+Ushbu foydalanuvchini chetlashtirish
+Boshqa muddat:
+2 soat:2 hours,1 kun:1 day,3 kun:3 days,1 hafta:1 week,2 hafta:2 weeks,1 oy:1 month,3 oy:3 months,6 oy:6 months,1 yil:1 year,cheksiz:infinite
+Sabablar ro‘yxatini tahrirlash
+$1dan toʻsiqni olish
+Foydalanuvchidan to‘siqni olib tashlash
+Ushbu chetlashtirishni olib tashlash
+[[User:$1|$1]]dan to‘siq olib tashlandi
+$1dan to‘siq olib tashlandi
+Chetlashtirilgan foydalanuvchilar
+Chetlashtirilgan foydalanuvchilar
+Sana/vaqt
+Maqsad
+Tugaydi
+Chetlashtirgan maʻmur
+Chetlashtirish moslamalari
+Sabab
+Qidiruv
+Mahalliy chetlashtirish
+Boshqa {{PLURAL:$1|chetlashtirishlar}}
+uddatsiz
+$1, $2 da tugaydi
+faqat anonimlar
+avtochetlashtirish o‘chirilgan
+hisob yozuvi yaratish taqiqlangan
+xatlar jo‘natish taqiqlandi
+o‘zining munozara sahifasini tahrirlay olmaydi
+Toʻsiqlar roʻyxati boʻsh.
+chetlashtirish
+oʻsiqni olib tashlash
+oʻsiqni oʻzgartirish
+hissa
+e-maktub jo‘natish
+Chetlatish qaydlari
+$2 muddatga [[$1]]ni chetlashtirdi $3
+hisob ochish toʻxtatilgan
+o‘zining munozara sahifasini tahrirlay olmaydi
+$1 — qayta nomlash
+Sahifani qayta nomlash
+Hozirgi nomi:
+Yangi nom:
+Ushbu sahifani kuzatuv roʻyxatingizga qoʻshish
+Sahifani koʻchirish
+Sahifa qayta nomlandi
+<strong>Sahifa nomi «$1»dan «$2»ga koʻchirildi</strong>
+Qayta yo‘naltirish yaratildi.
+Mos munozara sahifasini qayta nomlash
+Ostsahifalarni ham qayta nomlash ($1 gacha)
+Munozara sahifasining ostsahifalarini ham qayta nomlash ($1 gacha)
+Sahifa nomi «$1»dan «$2»ga koʻchirilgan edi.
+Koʻchirish qaydlari
+{{PLURAL:$1|Ostsahifa|Ostsahifalar}}
+Ushbu sahifaning $1 ta ostsahifasi bor.
+Bu sahifa ostsahifalarga ega emas.
+Sabab:
+qaytarish
+O‘chirish va qayta nomlash
+Ha, ushbu sahifa o‘chirilsin
+Oldingi nomga yoʻnaltirishlarni toʻgʻrilash
+Qayta yoʻnaltirish qoldirish
+<strong>Ogohlantirish:</strong> Ushbu sahifa himoyalangan boʻlib, faqat administratorlar uning nomini oʻzgartirishi mumkin. Quyida himoyalash jurnalidagi oxirgi qayd keltirilgan:
+<strong>Izoh:</strong> Ushbu sahifa himoyalangan boʻlib, faqat roʻyxatdan oʻtgan foydalanuvchilar uning nomini oʻzgartirishi mumkin.\nQuyida himoyalash jurnalidagi oxirgi qayd keltirilgan:
+== Fayl allaqachon mavjud ==\nUmumiy omborda [[:$1]] mavjud. Faylning bu nomga qayta nomlanishi faylning umumiy omborda to‘silishiga olib keladi.
+Sahifalar eksporti
+Eksport
+Shu turkumdan sahifalarni qo‘shish:
+Qoʻshish
+Shu nomfazodan sahifalarni qo‘shish:
+Qo‘shish
+Fayl sifatida saqlash
+Andozalarni kiritish
+Teranligi quyidagicha bo‘lgan bog‘langan sahifalarni kiritish:
+Tizim xabarlari
+Nomi
+Boshlangʻich matn
+Joriy xabar matni
+Barcha
+Til:
+Oʻtish
+Kattalashtir
+Tasvir yaratishda xatolik: $1
+Import qilish qaydlari
+\"[[$1]]\"ni yuklash yo‘li bilan import qildi
+Foydalanuvchi sahifangiz
+Siznig ip manzilingiz foydalanuvchi sahifasi
+Suhbat sahifangiz
+Bu ip manzildan amalga oshirilgan tahrirlar munozarasi
+Moslamalaringiz
+Siz kuzatib borayotgan sahifalardagi oʻzgarishlar roʻyxati
+Hissalaringiz roʻyxati
+Bu majburiyat mavjud bo‘lmasa-da, kirishingiz taklif qilinadi.
+Chiqish
+Sahifa matni borasida munozara
+Siz bu sahifani tahrirlashingiz mumkin. Iltimos, saqlashdan oldin koʻrib chiqish tugmasidan foydalaning
+Yangi boʻlim ochish
+Bu sahifa himoyalangan. Siz uning manbasini koʻrishingiz mumkin.
+Bu sahifaning oʻzgarishlar tarixi
+Bu sahifani himoyalash
+Ushbu sahifaning himoyasini o‘zgaritish
+Ushbu sahifani o‘chirish
+Bu sahifa o‘chirilmasdan oldin qilingan tahrirlarni tiklash
+Bu sahifani koʻchir
+Bu sahifani kuzatuv roʻyxatingizga qoʻshish
+Bu sahifani kuzatuv roʻyxatingizdan oʻchirish
+{{SITENAME}}dan qidirish
+Xuddi shu nomli sahifa bor boʻlsa, uni och
+Sahifalarda ushbu matnni izlash
+Bosh sahifaga o‘tish
+Bosh sahifaga oʻtish
+Bosh sahifaga o‘tish
+Loyiha haqida, nimalar qilishingiz mumkin, nimalarni qayerdan topish mumkin
+Joriy hodisalar haqida ma’lumot olish
+Wikidagi eng so‘nggi o‘zgartirishlar ro‘yxati
+Tasodifiy sahifaga oʻtish
+Qisqa va loʻnda maʼlumotnoma
+Ushbu sahifaga bogʻlangan sahifalar roʻyxati
+Bu sahifaga bogʻlangan sahifalardagi yangi oʻzgarishlar
+Bu sahifa uchun RSS ta‘minot
+Bu sahifa uchun Atom ta‘minot
+Bu foydalanuvchinig qoʻshgan hissasini koʻrish
+Ushbu foydalanuvchiga xat jo‘natish
+Rasmlar yoki media fayllar yuklash
+Maxsus sahifalar ro‘yxati
+Ushbu sahifaning bosma uchun versiyasi
+Sahifaning ushbu versiyasiga doimiy ishorat
+Sahifani ko‘rish
+Foydalanuvchi sahifasini koʻrish
+Media sahifasini koʻrish
+Bu maxsus sahifa, uni tahrirlay olmaysiz.
+Loyiha sahifasini koʻrish
+Rasm sahifasini koʻrish
+MediaWiki tizimining xabarini koʻrish
+Andozani koʻrish
+Yordam sahifasini koʻrish
+Turkum sahifasini koʻrish
+Kichik o‘zgartirish sifatida belgilash
+Oʻzgarishlarni saqlash
+Oʻzgarishlarni koʻrib chiqish; Iltimos, saqlashdan oldin undan foydalaning!
+Matnga qanday oʻzgarishlar kiritganligingizni koʻrish.
+Bu sahifaning ikki tanlangan versiyalari orasidagi farqni koʻrish.
+Ushbu sahifani kuzatuv roʻyxatingizga qoʻshish
+Bu sahifani u o‘chirilgan bo‘lishiga qaramasdan qayta yaratish
+Qisqa mazmun kiriting
+boshqalar
+\"$1\" sahifasi haqida maʼlumot
+Asosiy maʼlumot
+Oʻzgarishlar tarixi
+Koʻrsatiladigan sarlavha
+Sahifa identifikatori
+Sahifa kuzatuvchilari soni
+Jami tahrirlar soni
+Sahifa haqida maʼlumot
+Qayta yoʻnaltirish
+Bu sahifani tekshirilgan deb belgilash
+Patrullash qaydlari
+← Avvalgi tahrir
+Keyingi tahrir →
+Tasvir oʻlchamining chegarasi:<br />\n<em>(fayl taʼrifi sahifasi uchun)</em>
+Tasvirning kichiklashtirilgan versiyasining oʻlchami:
+$1 × $2 piksel, fayl hajmi: $3, MIME tipi: $4
+Bundan kattaroq tasvir yoʻq.
+SVG fayl, asl oʻlchamlari $1 × $2 piksel, fayl hajmi: $3
+Toʻliq hajmdagi tasvir
+Tasvir mavjud emas.
+Qidirish
+lotincha
+кириллча
+Metama’lumot
+Batafsil axborotni koʻrsatish
+Batafsil axborotni yashirish
+Eni
+Boʻyi
+Muallif
+Manba
+Turkum
+Shimoliy kenglik
+Janubiy kenglik
+Sharqiy uzunlik
+Gʻarbiy uzunlik
+Kilometr
+Mil
+Jinoyat va qonun
+Halokatlar
+Iqtisodiyot va biznes
+Maʼrifat
+Atrofimizdagi olam
+Inson huquqlari
+Mehnat
+Turmush tarzi va hordiq
+Siyosat
+Din va imon
+Fan va texnologiyalar
+Sport
+Ob-havo
+Barchasi
+barchasi
+Ushbu sahifa siz tahrir qilayotganingizda foydalanuvchi [[User:$1|$1]] ([[User talk:$1|munozara]]) tomonidan quyidagi sababga binoan yoʻqotilgan:\n: <em>$2</em>\nIltimos, sahifani qaytadan yaratmoqchi ekanligingizni tasdiqlang.
+Ushbu sahifa siz tahrir qilayotganingizda foydalanuvchi [[User:$1|$1]] ([[User talk:$1|munozara]]) tomonidan yoʻqotilgan. Iltimos, sahifani qaytadan yaratmoqchi ekanligingizni tasdiqlang.
+piksel
+← oldingi sahifa
+keyingi sahifa →
+$1 sahifasiga oʻtish
+Keyingi sahifa
+Oldingi sahifa
+Birinchi sahifa
+Oxirgi sahifa
+Bir sahifadagi yozuvlar soni:
+Sahifa tozalandi
+[[$1]]ga yoʻnaltirildi
+\"$1\" yozuvi orqali yangi sahifa yaratildi
+$1 bayt
+Mos oʻzgarishlar
+Kuzatuv roʻyxatimni koʻrish/oʻzgartirish
+Kuzatuv roʻyxatimni tahrirlash
+[[{{ns:user}}:$1|$2]] ([[{{ns:user_talk}}:$1|munozara]])
+<strong>Diqqat:</strong> \"$2\" boshlang‘ich saralash kaliti oldingi \"$1\" boshlang‘ich saralash kalitini qayta aniqlayapti.
+Maxsus sahifalar
+Maxsus sahifalar
+[[Special:Tags|Nishonlar]] filtri:
+Solishtirish
+Oʻzgarishlarni bekor qilish
+Boshqa
+$1 $3 sahifasini {{GENDER:$2|oʻchirdi}}
+$1 $3 sahifasini $4ga koʻchirdi
+$1 $3 sahifasini $4ga {{GENDER:$2|koʻchirdi}}
+$1 sahifa nomini $3dan $4ga yoʻnaltirish ustidan {{GENDER:$2|koʻchirdi}}
+$1 sahifa nomini $3dan $4ga yoʻnaltirish ustidan {{GENDER:$2|koʻchirdi}} va yoʻnaltirish qoldirmadi
+$1 $3 sahifasining $4 versiyasini avtomatik patrulladi
+$1 hisob yozuvi {{GENDER:$2|yaratildi}}
+$1 hisob yozuvi {{GENDER:$2|yaratildi}}
+$1 hisob yozuvi avtomatik ravishda {{GENDER:$2|yaratilgan}}
+$1 $3ning guruhlardagi aʼzoligini $4dan $5ga {{GENDER:$2|oʻzgartirdi}}
+$1 $3ning guruhlardagi aʼzoligini oʻzgartirdi
+Bajarildi
+Qidiruv
+ichida bu boʻlgan...
+Noaniq xato: \"$1\".
+Noaniq xato: \"$1\".
+Tahlillagich maʼlumotlari:
