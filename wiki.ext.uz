@@ -25,7 +25,7 @@ Sahifani saqlashda xatolik yuz berdi.
 Tarjimani chop etish
 Chop etilyapti...
 \"$1\" sahifasini tarjima qilib yaratildi
-Sahifani ko'chirish
+Sahifani ko‘chirish
 Tarjima qilingan sahifa ko‘chirildi
 Tarbiklaymiz, sahifa chop etildi
 + Tarjima qo‘shish
@@ -41,7 +41,7 @@ Tarjima qilish uchun paragraflarni bosing
 Siz ularning barchasini qo‘shishingiz shart emas
 Matnni yaxshilang.
 Tarjimani chop etish
-So'zni izlash
+So‘zni izlash
 Ta‘rif
 Havola
 Havola qo‘shish
@@ -110,9 +110,9 @@ Bekor qilish
 Tarjimani o‘chirish
 Til:
 Oʻzgarishlarni koʻrsat
-Munozara sahifalariga munozaralar tarmog'ini (oqimini) qo'shadi
+Munozara sahifalariga munozaralar tarmog‘ini (oqimini) qo‘shadi
 Tarmoqni boshqa sahifaga koʻchirish
-Tarmoqni o'chirish/tiklash
+Tarmoqni o‘chirish/tiklash
 Mundarija
 Tarmoq sarlavhasi
 Boshlandi
@@ -120,7 +120,7 @@ Javoblar
 Oxirgi oʻzgarish
 Sarlavha qoʻshish
 Yangi munozara boshlash
-Siz bo'sh xat jo'nata olmaysiz
+Siz bo‘sh xat jo‘nata olmaysiz
 Siz mavzuni kiritishingiz kerak.
 Javob berish
 Ona
@@ -132,7 +132,7 @@ unozara
 $1 dan
 Tarmoq tarixi
 Izoh matni [$2 tahrirlandi]
-Jami o'zgardi
+Jami o‘zgardi
 \n[[$1|Yangi javob]] yaratildi
 Yangi tarmoq yaratildi
 O‘chirildi
@@ -141,7 +141,7 @@ Koʻchirildi
 Yangi tarmoqqa ajratish
 himoyalangan
 Sarlavha:
-Sabab ko'rsatilmadi.
+Sabab ko‘rsatilmadi.
 xulosa yozish
 yangi munozara boshlash
 Saralash tartibi:
@@ -167,23 +167,23 @@ Tarmoq
 Amallar
 Xulosa chiqarish
 Yangi tarmoqqa ajratish
-$1 tarmog'ini muvaffaqiyatli ajratdingiz.
-Tarmoqni bo'lish
+$1 tarmog‘ini muvaffaqiyatli ajratdingiz.
+Tarmoqni bo‘lish
 Yangi tarmoq sarlavhasi:
 Tarmoq:
 Ajratish
-Mazkur sahifada hali munozalar tarmog'i mavjud emas.
+Mazkur sahifada hali munozalar tarmog‘i mavjud emas.
 Koʻchirish
 Yana
 $1 sahifadan
-Dolzarb (qizg'in) mavzular
-Javob qo'shish
-Tarmoqni bo'lish
+Dolzarb (qizg‘in) mavzular
+Javob qo‘shish
+Tarmoqni bo‘lish
 Birlashtirmoq
 Munozara tarmoqlari jurnali
 Munozaralar
-Tasvirlash uchun javoblarning eng ko'p chuqurligi:
-Tasvirlash uchun javoblarning eng ko'p soni:
+Tasvirlash uchun javoblarning eng ko‘p chuqurligi:
+Tasvirlash uchun javoblarning eng ko‘p soni:
 Foydalanuvchilarning sozlanadigan imzolarini koʻrsatish
 Ushbu sahifada munozaralarni qidirish
 Qidiruv shartlari
@@ -192,7 +192,7 @@ Munozaralar
 Tarmoqlar boʻyicha munozaralardan va munozara sahifalaridan izlash
 Mazkur tarmoqda yangi xabarlar mavjud.
 Yangilash
-$1 ta javobni ko'rsatish
+$1 ta javobni ko‘rsatish
 Yana boshqa javoblarni koʻrsatish
 URLga havola:
 Vikimatn-havola
@@ -203,7 +203,7 @@ Bekor
 Yangi joyga koʻchirish
 Bu yerga koʻchirish
 Tasdiqlash
-Ko'chirishni tasdiqlash
+Ko‘chirishni tasdiqlash
 Sabab:
 Yangi tarmoq uchun mavzu (majburiy)
 (imzoni tahrirlash)
@@ -227,12 +227,12 @@ Mobil dastur orqali qilingan tahrirlar
 Yoqilgan dasturlar:
 Oxirgi marta $1 tahrir qilingan
 Tuzatilmadi
-Ko'zdan kechirildi
+Ko‘zdan kechirildi
 Tuzatish asboblari
 Boshqa
 Koʻrish
 Ushbu andoza qoʻllanilgan sahifani koʻrib chiqish
-'''Diqqat! Bu shunchaki [[:$1]] sahifasini koʻrib chiqish.''' Andozaga kiritgan oʻzgartirishlaringiz hali saqlangani yoʻq!
+<strong>Diqqat! Bu shunchaki [[:$1]] sahifasini koʻrib chiqish.</strong> Andozaga kiritgan oʻzgartirishlaringiz hali saqlangani yoʻq!
 Ushbu andoza qoʻllanilgan sahifani koʻrib chiqish uchun andoza nomi koʻrsatilishi lozim.
 Ushbu andoza qoʻllanilgan sahifani koʻrib chiqish uchun oʻsha sahifa nomi koʻrsatilishi lozim.
 Koʻrsatilgan andoza nomi notoʻgʻri.
@@ -242,8 +242,8 @@ Foydalanuvchi $2 ($3) chetlatilgan
 Foydalanuvchi $2 ($3) {{GENDER:$4|$4}} ($5) bilan birlashtirilgan
 Foydalanuvchilarni birlashtirish qaydlari
 Vikiombor
-a'lumot sahifasi
-Boshlang'ich o'rganish dasturi - $1
+Ma‘lumot sahifasi
+Boshlang‘ich o‘rganish dasturi - $1
 Suratni koʻrish uchun bosing “$1”
 Foydalanuvchi bilgan tillar haqida maʼlumot (Bobil)
 Avtomatik ravishda tillar haqida oʻzgartirsa boʻladigan maʼlumot ustunini yaratadigan <code>#babel</code> parseri funksiyasini qoʻshadi
@@ -276,7 +276,7 @@ Foydalanuvchi nomi:
 Global hisob holati:
 Hammasi joyida!
 Hisob yozuvingiz $1 ta {{PLURAL:$1|loyihada}} faol.
-Hisob yozuvingiz hozirda {{PLURAL:$1|'''bitta''' loyihada|$1 ta loyihada}} tasdiqlanmagan.
+Hisob yozuvingiz hozirda {{PLURAL:$1|<strong>bitta</strong> loyihada|$1 ta loyihada}} tasdiqlanmagan.
 Global hisob yozuvini boshqarish
 Foydalanuvchi haqida global maʼlumotlarni koʻrish
 {{int:Centralauth-groupname}}ning boshqa viki-loyihalaridan ham chiqish amalga oshirilyapti:
@@ -412,7 +412,7 @@ Anonim foydalanuvchi
 <div>$1</div>ta tahrir
 Oʻzgarishlar
 Mobil saytda tasvirlarni koʻrsatma
-bu e'lonni yop
+bu e‘lonni yop
 Bekor qilish
 „$1“ sahifasini yaxshilashga koʻmaklashing.
 Tahrirlash uchun roʻyxatdan oʻting.
@@ -718,13 +718,13 @@ Fayllar
 Izohlar
 Munozara
 Yotiq
-''Yotiq matn''
+<em>Yotiq matn</em>
 <em>Yotiq matn</em>
 Qalin
-'''Qalin matn'''
+<strong>Qalin matn</strong>
 <strong>Qalin matn</strong>
 Qalin yotiq
-'''''Qalin yotiq'''''
+<strong><em>Qalin yotiq</em></strong>
 <em><strong>Qalin yotiq</strong></em>
 Ichki havola
 [[Sahifa sarlavhasi|Havola matni]]<br />[[Sahifa sarlavhasi]]
@@ -752,7 +752,7 @@ Raqamlangan roʻyxat
 <ol><li>Roʻyxat qismi</li><li>Roʻyxat qismi</li></ol>
 Fayl oʻrnatish
 [[$1:Example.png|$2|Izohlovchi matn]]
-<div style='width:104px;' class='thumbinner'><a title='\nIzohlovchi matn' class='image' href='#'><img height='50' width='100' border='0' class='thumbimage' src='$1/WikiEditor/modules/images/toolbar/example-image.png' alt=''/></a><div class='thumbcaption'><div class='magnify'><a title='Kattalashtirish' class='internal' href='#'></a></div>\nIzohlovchi matn</div></div>
+<div style='width:104px;' class='thumbinner'><a title='Izohlovchi matn' class='image' href='#'><img height='50' width='100' border='0' class='thumbimage' src='$1/WikiEditor/modules/images/toolbar/example-image.png' alt=''/></a><div class='thumbcaption'><div class='magnify'><a title='Kattalashtirish' class='internal' href='#'></a></div>\nIzohlovchi matn</div></div>
 Izoh
 Sahifa matni.&lt;ref name=\"test\"&gt;[http://www.example.org Havola matni], qoʻshimcha matn.&lt;/ref&gt;
 Sahifa matni.<sup><a href='#'>[1]</a></sup>
@@ -1076,20 +1076,20 @@ MediaWiki va boshqa dasturlarni tarjima qilish uchun [[Special:Translate|maxsus 
 Barcha xabarlarni koʻrsatish
 Tarjima qilinmagan xabarlarni koʻrsatish
 Qoʻshimcha xabarlarni koʻrsatish
-Faqat mening roziligim zarur bo'lgan xabarlar
+Faqat mening roziligim zarur bo‘lgan xabarlar
 Barcha tarjimalarni tekshirib chiqish
-O'z formatida eksport qilish
+O‘z formatida eksport qilish
 Off-line tarjima uchun eksport qilish
 Tarjima
-Ko'zdan kechirish
+Ko‘zdan kechirish
 Til statistikasi
 Xabarlar guruhlari statistikasi
 Eksport
-Bu vikida bu amal o'chirilgan.
-Noto'g'ri til kodi yuborildi
-Guruh noto'g'ri ko'rsatildi.
+Bu vikida bu amal o‘chirilgan.
+Noto‘g‘ri til kodi yuborildi
+Guruh noto‘g‘ri ko‘rsatildi.
 Bu boʻlimda ushbu tilga tarjima qilish toʻxtatilgan. Sababi: <em>$1</em>
-Bu tilga tarjima qilish imkoniyati o'chirilgan.
+Bu tilga tarjima qilish imkoniyati o‘chirilgan.
 Moslamalar
 Guruh
 Til
@@ -1102,18 +1102,18 @@ $1 ta xabar koʻrsatildi.
 Mos xabarlar mavjud emas.
 Keyingi sahifa
 Oldingi sahifa
-Guruh haqida ma'lumot
-Mazkur guruhda qo'shimcha xabarlar mavjud.\nQo'shimcha xabarlar faqat shu hollardagina tarjima qilinadi, qachonki xususiy nomlarni transliteratsiya qilishda, yoki agar sizning tilingiz qandaydir qo'shimcha shartlarni taqdim qilsa, - masalan, agarki qayerlardadir bo'sh joydan foydalanmaslik kerak bo'lsa. $1
+Guruh haqida ma’lumot
+Mazkur guruhda qo‘shimcha xabarlar mavjud.\nQo‘shimcha xabarlar faqat shu hollardagina tarjima qilinadi, qachonki xususiy nomlarni transliteratsiya qilishda, yoki agar sizning tilingiz qandaydir qo‘shimcha shartlarni taqdim qilsa, - masalan, agarki qayerlardadir bo‘sh joydan foydalanmaslik kerak bo‘lsa. $1
 Qoʻshimcha xabarlarni koʻrsatish
 ahrir
 <hr />Sayt: $1
 (majburiy emas)
-(e'tiborga olinmagan)
+(e’tiborga olinmagan)
 Tahrir \"$1\
 Xabar ifodasi
 Tarjima
 ahrirlash
-'Bu xabar tavsifga ega emas. Agar siz bu xabar qayerda va qanday ishlatilishini bilsangiz, u holda unga tavsif kiritib boshqa tarjimonlarga yordam berishingiz mumkin.''
+<em>Bu xabar tavsifga ega emas. Agar siz bu xabar qayerda va qanday ishlatilishini bilsangiz, u holda unga tavsif kiritib boshqa tarjimonlarga yordam berishingiz mumkin.</em>
 Xabar haqida maʼlumot ($1)
 Xabar boshqa tillarda
 Dasturda joriy tarjima
@@ -1123,13 +1123,13 @@ Tarjima uchun manba xabar matni: $1
 $1% moslik
 Joriy tarjima matnini mazkur taklifga almashtirish.
 Xabarni tarjima qilish uchun ruxsat zarur.
-Ruxsat so'rash
-MediaWikining chuqur o'rganilgan tarjimasi
+Ruxsat so‘rash
+MediaWikining chuqur o‘rganilgan tarjimasi
 Modul
 Tasvirlash
 Eksport
 Eksport qilishga hech nima yoʻq.
-Bo'lishi kerak
+Bo‘lishi kerak
 Joriy
 Asl
 Izoh
@@ -1137,30 +1137,30 @@ Saqlash
 [[Special:AdvancedTranslate|{{int:Translate-magic-pagename}}]] yordamida yangilandi
 Saqlash amalga oshmadi
 Maxsus sahifalarning taxalluslari
-Sehrli so'zlar
+Sehrli so‘zlar
 Nomlar fazosi nomlari
 Sizning tahriringiz saqlanmadi!
 Iltimos, tarjimadagi {{PLURAL:$1|quyidagi xatoni|quyidagi xatolarni}} tuzating:
 Sizning tahrirlaringiz muvaffaqiyatli saqlandi.
 Quyidagi {{PLURAL:$2|koʻrsatkich|koʻrsatkichlar}} qoʻllanilmayapti:\n<strong><nowiki>$1</nowiki></strong>
-Juft bo'lmagan miqdordagi ochiluvchi va yopiluvchi {{PLURAL:$2|qavslar|qavslar}}:\n<strong><nowiki>$1</nowiki></strong>
+Juft bo‘lmagan miqdordagi ochiluvchi va yopiluvchi {{PLURAL:$2|qavslar|qavslar}}:\n<strong><nowiki>$1</nowiki></strong>
 Quyidagi {{PLURAL:$2|1=havola|$2 ta havola}} muammo keltirib chiqarmoqda:\n<strong><nowiki>$1</nowiki></strong>
 Quyidagi {{PLURAL:$2|havola ishlatilmayapti|$2 ta havola ishlatilmayapti}}:\n<strong><nowiki>$1</nowiki></strong>
 Originalda <nowiki>{{PLURAL:}}</nowiki>dan foydalanilgan, tarjimada esa — yoʻq.
-<nowiki>{{PLURAL:}}</nowiki>da {{PLURAL:$1|$1 ta o'zgaruvchi}} kiritildi, lekin {{PLURAL:$2|faqat bitta o'zgaruvchi|$2 ta o'zgaruvchi}} qo'llaniladi (0= va 1= talik o'zgaruvchilar bundan mustasno).
+<nowiki>{{PLURAL:}}</nowiki>da {{PLURAL:$1|$1 ta o‘zgaruvchi}} kiritildi, lekin {{PLURAL:$2|faqat bitta o‘zgaruvchi|$2 ta o‘zgaruvchi}} qo‘llaniladi (0= va 1= talik o‘zgaruvchilar bundan mustasno).
 <nowiki>$1</nowiki> xato.
-Ushbu loyihada <nowiki>$2</nowiki> o'rniga <nowiki>$1</nowiki> dan foydalanish.
+Ushbu loyihada <nowiki>$2</nowiki> o‘rniga <nowiki>$1</nowiki> dan foydalanish.
 Menga elektron pochta orqali axborot xatlari joʻnatilmasin
 Yordamchi tillar:
 Tarjima moslamalari
-Ro'yxatda noto'g'ri til kodi:\n<nowiki>$1</nowiki>.
+Ro‘yxatda noto‘g‘ri til kodi:\n<nowiki>$1</nowiki>.
 Tarjima qilish interfeysidan foydalangan holda tahrirlash
 Xabarlar guruhlarini boshqarish
 xabarlar guruhlarini boshqarish
 Offline tarjimalarni yuklash
 offline tarjimalarni yuklash
 Tarjimalarni koʻrib chiqish
-Xabarlar guruhlarini qayta ishlash holatini o'zgartirish
+Xabarlar guruhlarini qayta ishlash holatini o‘zgartirish
 Tarjimalarni filtrlash
 Cheklovlarsiz
 Faqat tarjimalarni koʻrsatish
@@ -1169,7 +1169,7 @@ Faqat saytning tizimli xabarlari
 Tarjimalar statistikasi
 Tahrirlar
 Tarjimonlar
-Ro'yxatga olishlar
+Ro‘yxatga olishlar
 Tekshiruvlar
 Taqrizchilar
 Bu shakl sizga qulay jadval tuzishga yordam beradi.\nBarcha qiymatlar yuqori va past chegaralarga ega.
@@ -1177,13 +1177,13 @@ Jadval moslamalari
 Uzunlik piksellarda
 Balandlik piksellarda:
 Kunlardagi vaqt davri:
-Boshlang'ich sana:
+Boshlang‘ich sana:
 Tafsilotlilik darajasi:
 Oylar
 Haftalar
 Kunlar
 Soatlar
-O'lchov
+O‘lchov
 Tahrirlar soni
 Faol tarjimonlar
 Yangi foydalanuvchilar
@@ -1207,7 +1207,7 @@ Til boʻyicha statistika
 Ushbu sahifada mazkur tilning barcha guruhlar boʻyicha tarjimalar statistikasi keltirilgan.
 Oʻzbek tiliga tarjimalar statistikasi ($2).
 yaqin oradagi tarjimalar
-Ushbu sahifadagi ayrim statistika ma'lumotlari to'liq emas. To'liq ma'lumotlar olish uchun sahifani qayta yuklang.
+Ushbu sahifadagi ayrim statistika ma‘lumotlari to‘liq emas. To‘liq ma‘lumotlar olish uchun sahifani qayta yuklang.
 yoyish
 yigʻish
 hammasini yoyish
@@ -1231,43 +1231,43 @@ Statistikani koʻrsat
 Til
 Mavjud tillar
 Ushbu sahifada {{SITENAME}} loyihasi tomonidan qoʻllaniladigan tillar roʻyxati va shu tillarga tarjima qilish ustida ishlayotganlar nomi keltirilgan.\nTarjimonning nomi u qancha koʻp tahrirlar qilgan boʻlsa, shuncha yirikroq tasvirlanadi.\nTagchiziqning rangiga qarab, tarjimon bu yerda qancha vaqt oldin oxirgi marta biror-bir harakatni amalga oshirganligini tushunsa boʻladi.
-Rang sharhi: oxirgi tarjima $1 kun oldin bo'lgan.
+Rang sharhi: oxirgi tarjima $1 kun oldin bo‘lgan.
 {{PLURAL:$2|Tarjimon|Tarjimonlar}}: $1
 yaqin oradagi tarjimalar
 Jami $1 ta til.
 $1: $2 {{PLURAL:$2|ta tahrir}} - oxirgi tahrir $3 {{PLURAL:$3|kun}} oldin
 Saqlash ($1)
-Ro'yxatga qo'shish
+Ro‘yxatga qo‘shish
 Xabar guruhlarini boshqarish
 Ishlov berish uchun mos oʻzgarishlar yoʻq.
 Vikiga xabaring tarkibi
 Kiruvchi oʻzgarishlar
 Xabar $1 | Amallar: $2
 Yangi xabar $1
-O'chirilgan xabar $1
+O‘chirilgan xabar $1
 Import
 Import qilish va noaniqlik
-E'tibor qilmaslik
+E‘tibor qilmaslik
 Import qilish va noaniq tarjimalar
 Tavsif
 Saqlash
 Saqlash va keyingisini ochish
 Bu mazkur sahifadagi oxirgi xabar edi.
-Keyingisiga o'tish
+Keyingisiga o‘tish
 Saqlash bajarilmadi. Iltimos, bu kamchilik haqida xabar bering.
 Tarjima tarixi
 Savol berish
 Agar ushbu xabarni toʻgʻri tarjima qilish uchun zarur boʻlgan maʼlumotlar yoʻq boʻlsa, yordam soʻrab murojaat qiling.
 Sizda saqlanmagan tarjimalar bor.
-O'r.
+O‘r.
 Kod
-Qit'a
-So'zlashuvchilar
+Qit’a
+So‘zlashuvchilar
 Baho
 Bir qancha
 Miqdor
 Jami
-O'rt. baho
+O‘rt. baho
 Xabarlar hujjatlashtirilishi
 Tarjimalar
 Barcha tarjimalardan qidirish
@@ -1285,15 +1285,15 @@ Tarjima noaniq deb belgilandi
 Siz oʻzingizning tarjimalaringizni tasdiqlay olmaysiz
 Noaniq tarjimalar qabul qilinmaydi.
 Siz oʻzingizning tarjimalaringizni tasdiqlay olmaysiz
-Ushbu tarjimani to'g'ri deb tasdiqlash.
+Ushbu tarjimani to‘g‘ri deb tasdiqlash.
 Tarjimalarni tekshirish qaydlari
 Barcha tarjima taqrizlari va xabar guruhlari qaydi
 $1 $3 sahifasi tarjimasini {{GENDER:$2|tekshirib chiqdi}}
-(o'rnatilmagan)
+(o‘rnatilmagan)
 Holat: $1
-O'rnatish
-O'rnatilmoqda...
-O'rnatildi!
+O‘rnatish
+O‘rnatilmoqda...
+O‘rnatildi!
 Holat
 Jarayon holati
 Yaqin oradagi tarjimalar
@@ -1303,8 +1303,8 @@ Tarjima {{GENDER:$1|$1}} ($2) tomonidan bajarildi
 Oxirgi oʻzgarish {{GENDER:$1|$1}} tomonidan kiritilgan
 Oxirgi oʻzgarish {{GENDER:$1|$1}} ($2) tomonidan kiritilgan
 Yordam
-Ushbu xabarlar guruhi MediaWiki ({{CURRENTVERSION}})ning joriy alfa-versiyasida foydalanilayotgan xabarlarni o'z ichiga oladi
-Ushbu xabarlar guruhi MediaWikida [https://translatewiki.net/wiki/Most_often_used_messages_in_MediaWiki 500 tadan ziyod juda ko'p ishlatiladigan xabarlardan] tashkil topgan
+Ushbu xabarlar guruhi MediaWiki ({{CURRENTVERSION}})ning joriy alfa-versiyasida foydalanilayotgan xabarlarni o‘z ichiga oladi
+Ushbu xabarlar guruhi MediaWikida [https://translatewiki.net/wiki/Most_often_used_messages_in_MediaWiki 500 tadan ziyod juda ko‘p ishlatiladigan xabarlardan] tashkil topgan
 Sabab:
 Agregat guruhlar
 Sahifalarni tarjima qilish qaydlari
