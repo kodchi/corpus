@@ -6,6 +6,7 @@ abuse log
 Abuse log for this user
 Reason:
 Name of user account
+Reason:
 Abuse Filter log
 Check users
 was automatically created
@@ -59,6 +60,7 @@ Shift + click any link to open
 Click to open
 You have unsaved translations.
 The \"$1\" page could not be found in $2 Wikipedia
+New translation
 Start translation
 Cancel
 From:
@@ -66,6 +68,7 @@ To:
 Search for source page
 The page [$1 already exists] in $2
 Security question
+All translations
 Published translations
 In progress translations
 From any language
@@ -88,6 +91,9 @@ In progress
 Published
 Deleted
 Delete a draft translation created using the content translation extension.
+The source language code.
+The target language code.
+The title of the source page.
 Delete a draft associated with given language pair and title.
 This is an ongoing translation by $1.
 Please make sure you coordinate with the user who translated the current translation.
@@ -96,8 +102,11 @@ Provide feedback
 Source↓ / Target→
 Total (Source)
 Total (Target)
+Published translations
+In progress translations
 Number of translators
 Are you sure you want to permanently delete this translation?
+Cancel
 Delete translation
 Language:
 Show changes
@@ -120,11 +129,13 @@ Undelete
 Link to
 Fragment of a $1 from $2
 cussion
+From $1
 Thread history
 Comment text [$2 edited]
 Summary changed
 [[$1|New reply]] created
 New thread created
+Deleted
 Undeleted
 Moved
 Split to a new thread
@@ -164,6 +175,7 @@ Split
 There are no threads on this page yet.
 Move
 More
+From $1
 Hot topics
 Add a reply
 Split threads
@@ -187,10 +199,12 @@ Wikitext link:
 Copy to clipboard
 Change subject
 Save
+Cancel
 Drag to new location
 Drop here
 Confirm
 Confirm drag
+Reason:
 Subject for new thread (mandatory):
 (edit signature)
 (preview)
@@ -205,6 +219,8 @@ Header
 Post replies
 Post new threads
 reply
+Thread
+Summary
 Queued [[Special:MassMessage|mass messages]]
 Mobile app edit
 Edits made from mobile apps
@@ -256,6 +272,7 @@ Category:
 the Wikimedia Foundation
 Indicates that the local account was created automatically when the user logged in.
 Password:
+Username:
 Global account status:
 All in order!
 Your account is active on $1 project {{PLURAL:$1|site|sites}}.
@@ -266,6 +283,7 @@ Logging you out from other wikis of {{int:Centralauth-groupname}}:
 changed global group membership for $1 from $2 to $3
 Username entered already in use. Please choose a different name.
 Translations
+Languages
 This wiki is using a new search engine. ([[mw:Special:MyLanguage/Help:CirrusSearch|Learn more]])
 Refresh
 Allows users to close the sitenotice
@@ -306,7 +324,9 @@ Notify me when someone links to my user page.
 No formatting defined for notification.
 Error: Could not set user preference.
 Error: Could not retrieve user token.
+Notifications
 Your notifications
+Notifications
 To receive notifications, [$1 create an account] or [$2 log in].
 You have no notifications.
 More info
@@ -372,6 +392,8 @@ Hi $1,\nHere's a summary of this week's activity on {{SITENAME}} for you.
 View all notifications
 This page revision has been suppressed.
 Gadgets
+Gadgets
+Gadgets
 Create page
 Insert formula here
 Mathematical formula (LaTeX)
@@ -386,13 +408,17 @@ Jump back a section
 Anonymous user
 Clear
 Mobile Frontend
+Anonymous user
 <div>$1</div> {{PLURAL:$1|edit|edits}}
 Changes
 Disable images on mobile site
 this notification
+Cancel
 Help improve the $1 page.
 Sign up to edit.
+Cancel
 Next
+Edit
 Edit
 Enable images on mobile site
 Today's featured content
@@ -406,6 +432,7 @@ Read in another language
 This page is available in $1 {{PLURAL:$1|language|languages}}
 <strong>Languages</strong>
 Search language
+Languages
 $1 - Languages
 The page \"$1\" does not exist.
 $1 is available in $2 {{PLURAL:$2|language|languages}}.
@@ -428,6 +455,7 @@ Log in
 Log out
 Nearby
 Settings
+Settings
 Uploads
 Watchlist
 This page has some issues
@@ -435,11 +463,13 @@ Issues
 Image
 {{PLURAL:$1|$1 km}}
 {{PLURAL:$1|$1 m}}
+Nearby
 In the news
 Close
 Continue
 contents
 History
+Password:
 Confirm password
 Password
 I, $1, created this image.
@@ -454,6 +484,7 @@ Search {{SITENAME}} (Beta)
 Privacy
 Random
 Desktop view
+Save
 Search within pages
 No page with this title.
 Go
@@ -461,18 +492,25 @@ Experimental mode
 Beta
 {{SITENAME}} Languages
 Whoops
+Sign in
 If you have a {{SITENAME}} account, you may sign in below.
+Sign up
 The following conversations are currently active
 There are no conversations about this page.
 Talk
 You are already logged in as {{GENDER:$1|$1}}.\nUse the form below to create another user.
+Username:
 Username
 Mobile view
 Mobile
 List
 Added $1 to your watchlist
+Log in
+Sign up
 Modified
 Pages
+Other
+Talk
 ore
 Removed $1 from your watchlist
 View your watchlist
@@ -504,9 +542,11 @@ Thanks log
 Below is a list of users thanked by other users.
 $1 {{GENDER:$2|thanked}} {{GENDER:$4|$3}}
 $1 thanks log
+Languages
 Display settings
 Display
 Language settings
+Cancel
 Display language
 Display language:
 Other languages
@@ -518,18 +558,23 @@ Wikitext
 Loading...
 Enable side-by-side preview
 Preview
+Changes
+Loading...
 Enable step-by-step publishing
 Publish
+Cancel
 Publish to {{SITENAME}}
 Edit summary (briefly describe the changes you have made):
 Minor edit
 Watch this page
+Publish
 Go back
 Editing toolbar
 Edit page toolbar with enhanced usability
 Enable enhanced editing toolbar
 Enable wizards for inserting links, tables as well as the search and replace function
 Hide the signature button from pages in the main namespace
+Loading...
 Bold
 Bold text
 Italic
@@ -538,6 +583,7 @@ Internal link
 Link title
 External link (remember http:// prefix)
 http://www.example.com link title
+Link
 Insert link
 To a wiki page
 Target page or URL:
@@ -545,7 +591,10 @@ Page title or URL
 Text to display:
 Text to be displayed
 To an external web page
+Link URL:
 Link text:
+Insert link
+Cancel
 Page exists
 Page does not exist
 Invalid title
@@ -553,6 +602,8 @@ External link
 Checking page existence...
 The title you specified is invalid.
 The URL you specified looks like it was intended as a link to another wiki page.\nDo you want to make it an internal link?
+Internal link
+External link
 You did not enter anything to link to.
 Embedded file
 Example.jpg
@@ -565,8 +616,12 @@ Align:
 Format:
 none
 Insert
+Cancel
+Reference
 Insert footnote text here
+Cancel
 Insert reference
+Insert
 Reference text
 Signature and timestamp
 Advanced
@@ -594,6 +649,7 @@ Superscript
 Superscript text
 Subscript
 Subscript text
+Insert
 Picture gallery
 Example.jpg|Caption1\nExample.jpg|Caption2
 New line
@@ -608,9 +664,13 @@ Add header row
 Style with borders
 Make table sortable
 Example
+Preview
+Insert
+Cancel
 Inserting a table with more than 1000 cells is not possible with this dialog.
 You have not entered a valid number of rows or columns.
 You cannot insert a table with zero rows or columns.
+Search and replace
 Search and replace
 Search for:
 Replace with:
@@ -619,6 +679,7 @@ Treat search string as a regular expression
 Find next
 Replace
 Replace all
+Close
 Your search did not match anything.
 $1 {{PLURAL:$1|replacement|replacements}} made.
 You did not enter anything to search for.
@@ -645,6 +706,7 @@ Lao
 Khmer
 em dash
 nus sign
+Help
 Description
 What you type
 What you get
@@ -655,15 +717,19 @@ Lists
 Files
 References
 Discussion
+Italic
 ''Italic text''
 <em>Italic text</em>
+Bold
 '''Bold text'''
 <strong>Bold text</strong>
 Bold &amp; italic
 '''''Bold &amp; italic text'''''
 <strong><em>Bold &amp; italic text</em></strong>
+Internal link
 [[Page title|Link label]]<br />[[Page title]]
 <a href='#'>Link label</a><br /><a href='#'>Page title</a>
+External link
 [http://www.example.org Link label]<br />[http://www.example.org]<br />http://www.example.org
 <a href='#' class='external'>Link label</a><br /><a href='#' class='external autonumber'>[1]</a><br /><a href='#' class='external'>http://www.example.org</a>
 2nd level heading
@@ -678,15 +744,20 @@ Bold &amp; italic
 5th level heading
 ===== Heading text =====
 <h5>Heading text</h5>
+Bulleted list
 * List item<br />* List item
 <ul><li>List item</li><li>List item</li></ul>
+Numbered list
 # List item<br /># List item
 <ol><li>List item</li><li>List item</li></ol>
+Embedded file
 [[$1:Example.png|$2|Caption text]]
 <div style='width:104px;' class='thumbinner'><a title='Caption text' class='image' href='#'><img height='50' width='100' border='0' class='thumbimage' src='$1/WikiEditor/modules/images/toolbar/example-image.png' alt=''/></a><div class='thumbcaption'><div class='magnify'><a title='Enlarge' class='internal' href='#'></a></div>Caption text</div></div>
+Reference
 Page text.&lt;ref name=\"test\"&gt;[http://www.example.org Link text], additional text.&lt;/ref&gt;
 Page text.<sup><a href='#'>[1]</a></sup>
 Additional use of same reference
+Page text.<sup><a href='#'>[1]</a></sup>
 Display references
 <ol class='references'><li id='cite_note-test-0'><b><a title='' href='#'>^</a></b> <a rel='nofollow' title='http://www.example.org' class='external text' href='#'>Link text</a>, additional text.</li></ol>
 Signature with timestamp
@@ -697,12 +768,15 @@ Indent
 Normal text<br />:Indented text<br />::Indented text
 Normal text<dl><dd>Indented text<dl><dd>Indented text</dd></dl></dd></dl>
 The [$1 {{WBREPONAME}} item] associated with this page will be automatically updated soon.
+The [$1 {{WBREPONAME}} item] associated with this page will be automatically updated soon.
 {{WBREPONAME}} item
 Edit links
 Edit interlanguage links
 Add links
 Link with page
+Link with page
 Please select a site and a page that you want to link to this page.
+Language:
 The page you have chosen is already associated to an [$1 item on our central data repository]. Please confirm that the {{PLURAL:$2|page|pages}} shown below {{PLURAL:$2|is|are}} the {{PLURAL:$2|one|ones}} that you want to link to this page.
 The pages have successfully been linked. You can find the item containing the links in our [$1 central data repository].
 $1 {{WBREPONAME}}
@@ -718,7 +792,11 @@ cancel
 page
 remove
 Page:
+Search
+Language:
+Search
 Create
+Language:
 Wikimedia specific messages
 Donate
 Support us
@@ -804,6 +882,8 @@ Trusted users
 {{ns:project}}:Trusted users
 Coders
 {{GENDER:$1|coder}}
+Interface editors
+{{GENDER:$1|interface editor}}
 Global bots
 {{GENDER:$1|global bot}}
 Global rollbackers
@@ -821,30 +901,47 @@ System administrators
 Translation administrators
 {{GENDER:$1|translation administrator}}
 {{ns:project}}:Translation administrators
+Wikimedia Commons
 Text is available under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a> for details.
 By saving changes, you agree to the [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.
 Wikidata
+Wikimedia Commons
 You cannot delete or move the main page.
 Upload more photos of this monument
 Developers
 [https://wikimediafoundation.org/wiki/Privacy_policy Privacy Policy]
+Wikimedia Commons
 Vector
 Add topic
+Delete
+Move
 Protect
+Undelete
 Change protection
+Create
+Edit
 View history
 Read
 View source
+More
 Move item down
 Move item up
+More
 VisualEditor
 Sorry, this element can only be edited in source mode for now.
+Bold
 Computer code
+Italic
 Language
+Link
 Strikethrough
+Subscript
+Superscript
 Underline
 Clear styling
 Apply changes
+Cancel
+Go back
 Heading 1
 Heading 2
 Heading 3
@@ -855,23 +952,34 @@ Paragraph
 Preformatted
 Change format
 Redo
+Undo
 Increase indentation
 Decrease indentation
+Close
 Remove
+Language
 Find language
 Direction
 Language code
+Language
+Link
 Bullet list
+Numbered list
 Create the source code of this page
 Edit the source code of this page
 Edit this page with VisualEditor
+beta
 beta
 You are using a browser which is not officially supported by VisualEditor.
 Create source
 Edit source
 edit source
+VisualEditor
+VisualEditor
+VisualEditor
 Visual editor for MediaWiki
 Project:VisualEditor
+Continue
 {{GENDER:$1|Welcome}} to VisualEditor
 Caption
 Media settings
@@ -883,43 +991,57 @@ Move this category here
 New category
 Add a category
 Options
+Categories
 Sort this page as if it is called
+Language code
+Languages
 Linked page
+Languages
 Page settings
 Use this group
 Re-use by this name
+Options
+Reference
 Use an existing reference
 References list
 Add content
 Add more information
 Add template
 Content
+Options
 Add a template
 Remove content
 Remove field
 Remove template
 Transclusion
 Media
+Page settings
 Basic
+References list
+Transclusion
 Your changes could not be saved because of an edit conflict. Would {{GENDER:|you}} like to resolve the conflict manually?
 $1 {{PLURAL:$1|notice|notices}}
 Describe what you changed
 Page title
+Heading
 Sub-heading 1
 Sub-heading 2
 Sub-heading 3
 Sub-heading 4
 Invalid page title
+External link
 {{PLURAL:$1|Matching page|Matching pages}}
 New page
 Project:Main namespace
 Search for media
+Options
 MediaWiki extension
 Field name
 No unused fields
 Unknown field
 Enable VisualEditor. It will be available in the following {{PLURAL:$2|namespace|namespaces}}: $1
 What do you want to reference?
+Create page
 Error
 Report problem
 Resolve conflict
@@ -930,10 +1052,12 @@ Save page
 Warning
 Conflict
 No changes to review
+Review your changes
 Save your changes
 Your edit may have been corrupted – please review before saving.
 Error saving data to server: $1.
 Error loading data from server: $1.
+Save page
 Project:User namespace
 Version
 Are you sure you want to go back to view mode without saving first?
@@ -946,6 +1070,7 @@ Project:VisualEditor/Feedback
 Leave feedback
 Read the user guide
 Guide for how to use the editor
+View source
 Translate
 [[Special:Translate|Special page]] for translating MediaWiki and beyond
 Show all messages
@@ -955,6 +1080,7 @@ Only messages I can mark as reviewed
 Review all translations
 Export in native format
 Export for off-line translation
+Translate
 Review
 Language statistics
 Message group statistics
@@ -964,7 +1090,9 @@ Specified language was invalid.
 Specified group was invalid.
 Translations to this language in this group have been disabled.\nReason:\n\n<em>$1</em>
 Translation to this language is disabled.
+Settings
 Group
+Language
 Limit
 $1 {{PLURAL:$1|message|messages}} per page
 Fetch
@@ -977,11 +1105,13 @@ Previous page
 Information about the group
 This message group contains optional messages.\nOptional messages should only be translated when your language has special requirements\nlike not using spaces or transliterating proper names. $1
 Show optional messages.
+edit
 <hr />Website: $1
 (optional)
 (ignored)
 Edit \"$1\
 Message definition
+Translation
 contribute
 <em>This message has no documentation.\nIf you know where or how this message is used, you can help other translators by adding documentation to this message.</em>
 Information about message ($1)
@@ -996,11 +1126,14 @@ You need translation rights to translate messages.
 Get permission
 Extended MediaWiki translation
 Module:
+Fetch
+Export
 There is nothing to export.
 To-be
 Current
 Original
 Comment:
+Save
 Updated using [[Special:AdvancedTranslate|{{int:Translate-magic-pagename}}]]
 Save failed
 Special page aliases
@@ -1055,11 +1188,14 @@ Number of edits
 Active translators
 New users
 Translation reviews
+Reviewers
 Comma-separated list of language codes:
 Comma-separated list of group codes:
+Preview
 Translatable pages
 Translation of the wiki page [[$2|$1]] from $3 ($4).
 In other languages
+All translations
 Enter a message name below to show all available translations.
 \"$1\" is not a translatable message
 There are no translations for \"$1\
@@ -1067,6 +1203,7 @@ Found {{PLURAL:$1|one translation|$1 translations}}.
 Message
 Name:
 Project:
+Language statistics
 This page shows translation statistics for all message groups for a language.
 Translation statistics for $1 ($2).
 recent translations
@@ -1075,9 +1212,11 @@ expand
 collapse
 expand all
 collapse all
+Language code
 Language code:
 Suppress completely translated message groups
 Suppress completely untranslated message groups
+Language
 Messages
 Untranslated
 Completion
@@ -1085,12 +1224,16 @@ Outdated
 All message groups together
 Show statistics
 Message group
+Message group statistics
 Display preferences
 Message group:
+Show statistics
+Language
 Supported languages
 This page shows a list of all languages supported by {{SITENAME}},\ntogether with the names of the translators working on that language.\nA translator's name appears larger, the more edits the translator has contributed.\nThe color of an underline indicates how recently a translator has been active here.
 Legend for the color: Last translation $1 days ago.
 {{PLURAL:$2|{{GENDER:$3|Translator}}|Translators}}: $1
+recent translations
 $1 {{PLURAL:$1|language|languages}} in total.
 $1: $2 {{PLURAL:$2|edit|edits}} - last edit $3 {{PLURAL:$3|day|days}} ago
 Save ($1)
@@ -1107,6 +1250,7 @@ Import and fuzzy
 Ignore
 Import and fuzzy translations
 Summary:
+Save
 Save and open next
 This was the last message on this page.
 Skip to next
@@ -1114,6 +1258,7 @@ Saving failed. Please report this error.
 Translation history
 Ask question
 Ask for help if there is not enough information to translate this message correctly.
+You have unsaved translations.
 Pos.
 Code
 Continent
@@ -1124,6 +1269,7 @@ Count
 Total
 Avg. score
 Message documentation
+Translations
 Search from all translations
 Filter by language:
 No filtering
@@ -1156,7 +1302,12 @@ Translation made by {{GENDER:$1|$1}}
 Translation made by {{GENDER:$1|$1}} ($2)
 Latest change by {{GENDER:$1|$1}}
 Latest change by {{GENDER:$1|$1}} ($2)
+Help
 This message group contains the messages used in the current alpha version of [[Translating:MediaWiki|MediaWiki]] ({{CURRENTVERSION}})
 This message group contains the [https://translatewiki.net/wiki/Most_often_used_messages_in_MediaWiki 500 most often used messages] in [[Translating:MediaWiki|MediaWiki]]
+Reason:
 Aggregate groups
 Page translation log
+Reason:
+Reason:
+Languages

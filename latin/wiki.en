@@ -70,10 +70,23 @@ September
 October
 November
 December
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
 Jan
 Feb
 Mar
 Apr
+May
 Jun
 Jul
 Aug
@@ -93,23 +106,19 @@ September $1
 October $1
 November $1
 December $1
-Category
-Categories
-Pages in category \"$1\"
+{{PLURAL:$1|Category|Categories}}
+Pages in category \"$1\
 Subcategories
 Media in category \"$1\
-This category currently contains no pages or media.
-Hidden category
+<em>This category currently contains no pages or media.</em>
+{{PLURAL:$1|Hidden category|Hidden categories}}
 Hidden categories
-This category has only the following subcategory.
-This category has the following $1 subcategories out of $2 total.
-This category has the following $1 subcategory.
-This category contains only the following page.
-The following $1 page is in this category, out of $2 total.
-The following $1 page is in the current category.
-This category contains only the following file.
-The following $1 files are in this category, out of $2 total.
-The following $1 files are in the current category.
+{{PLURAL:$2|This category has only the following subcategory.|This category has the following {{PLURAL:$1|subcategory|$1 subcategories}}, out of $2 total.}}
+This category has the following {{PLURAL:$1|subcategory|$1 subcategories}}.
+{{PLURAL:$2|This category contains only the following page.|The following {{PLURAL:$1|page is|$1 pages are}} in this category, out of $2 total.}}
+The following {{PLURAL:$1|page is|$1 pages are}} in the current category.
+{{PLURAL:$2|This category contains only the following file.|The following {{PLURAL:$1|file is|$1 files are}} in this category, out of $2 total.}}
+The following {{PLURAL:$1|file is|$1 files are}} in the current category.
 cont.
 Indexed pages
 Noindexed pages
@@ -124,12 +133,14 @@ Page
 Talk
 Talk for this IP address
 Navigation
+&#32;and
 Find
 Browse
 Edit
+This page
 My pages
 FAQ
-Project: FAQ
+Project:FAQ
 Actions
 Namespaces
 Variants
@@ -139,6 +150,8 @@ Return to $1.
 From {{SITENAME}}
 Help
 Search
+Search
+Go
 Go
 Page history
 History
@@ -148,6 +161,7 @@ Permanent link
 Print
 View
 View on $1
+Edit
 Create
 Add local description
 Edit this page
@@ -155,8 +169,8 @@ Create this page
 Delete
 Delete this page
 Undelete this page
-Undelete one edit
-View $1 deleted edits
+Undelete {{PLURAL:$1|one edit|$1 edits}}
+View {{PLURAL:$1|one deleted edit|$1 deleted edits}}
 Protect
 change
 Protect this page
@@ -164,6 +178,7 @@ Change protection
 Change protection of this page
 New page
 Discuss this page
+Talk
 Special page
 Personal tools
 View content page
@@ -183,14 +198,12 @@ In other languages
 Redirect page
 Redirect to:
 This page was last modified on $1, at $2.
-This page has been accessed once.
+This page has been accessed {{PLURAL:$1|once|$1 times}}.
 Protected page
 Jump to:
 navigation
-search
-Sorry, the servers are overloaded at the moment.
-Too many users are trying to view this page.
-Please wait a while before you try to access this page again.
+earch
+Sorry, the servers are overloaded at the moment.\nToo many users are trying to view this page.\nPlease wait a while before you try to access this page again.\n\n$1
 Timeout waiting for the lock
 Pool queue is full
 Unknown error
@@ -198,12 +211,13 @@ Usage error: $1
 About {{SITENAME}}
 Project:About
 Content is available under $1 unless otherwise noted.
-Copyrights
+{{ns:project}}:Copyrights
 Current events
 Project:Current events
 Disclaimers
 Project:General disclaimer
 Editing help
+Main Page
 Main page
 Project:Policy
 Community portal
@@ -212,35 +226,34 @@ Privacy policy
 Project:Privacy policy
 Permission error
 You are not allowed to execute the action you have requested.
-The action you have requested is limited to users in the group: $1.
+The action you have requested is limited to users in {{PLURAL:$2|the group|one of the groups}}: $1.
 Version $1 of MediaWiki required
-Version $1 of MediaWiki is required to use this page.
-See [[Special:Version|version page]].
+Version $1 of MediaWiki is required to use this page.\nSee [[Special:Version|version page]].
 OK
 Retrieved from \"$1\
-You have $1.
-You have $1 from another user.
+{{PLURAL:$3|You have}} $1 ($2).
+{{PLURAL:$4|You have}} $1 from {{PLURAL:$3|another user|$3 users}} ($2).
 You have $1 from many users ($2).
-a new message
-new messages
-last change
-last changes
+{{PLURAL:$1|a new message|999=new messages}}
+last {{PLURAL:$1|change|999=changes}}
 You have new messages on $1
+edit
+edit
+view source
 edit
 view source
 Edit section: $1
 Contents
-show
+how
 hide
 Collapse
 Expand
-Are you sure?
+Are {{GENDER:$1|you}} sure?
 Yes
 No
 View or restore $1?
 View $1?
-one deleted edit
-deleted edits
+{{PLURAL:$1|one deleted edit|$1 deleted edits}}
 Feed:
 Invalid subscription feed type.
 Syndication feeds are not available
@@ -251,8 +264,10 @@ $1 Atom feed
 $1 (page does not exist)
 Sort descending
 Sort ascending
+Page
 User page
 Media page
+Special page
 Project page
 File
 Message
@@ -261,11 +276,12 @@ Help page
 Category
 No such action
 No such special page
+Error
 Database error
 Query: $1
 Function: $1
 Error: $1
-Warning: Page may not contain recent updates.
+<strong>Warning:</strong> Page may not contain recent updates.
 Database locked
 (revision#: $1)
 (Diff: $1, $2)
@@ -287,11 +303,9 @@ View source for $1
 Action throttled
 This page has been protected to prevent editing or other actions.
 You can view and copy the source of this page:
-This page provides interface text for the software on this wiki, and is protected to prevent abuse.
-To add or change translations for all wikis, please use [//translatewiki.net], the MediaWiki localisation project.
-<strong>Warning:</strong> You are editing a page that is used to provide interface text for the software.
-Changes to this page will affect the appearance of the user interface for other users on this wiki.
-You do not have permission to edit pages in the $1 namespace.
+This page provides interface text for the software on this wiki, and is protected to prevent abuse.\nTo add or change translations for all wikis, please use [//translatewiki.net/ translatewiki.net], the MediaWiki localisation project.
+<strong>Warning:</strong> You are editing a page that is used to provide interface text for the software.\nChanges to this page will affect the appearance of the user interface for other users on this wiki.
+You do not have permission to edit pages in the <strong>$1</strong> namespace.
 You do not have permission to edit this CSS page because it contains another user's personal settings.
 You do not have permission to edit this JavaScript page because it contains another user's personal settings.
 You do not have permission to edit this JavaScript page.
@@ -300,39 +314,45 @@ You do not have permission to edit your preferences.
 Special pages cannot be edited.
 Not logged in
 Please log in to be able to access this page or action.
-Bad configuration: Unknown virus scanner: $1
+Bad configuration: Unknown virus scanner: <em>$1</em>
+can failed (code $1)
 unknown antivirus:
-You are now logged out.
-Note that some pages may continue to be displayed as if you were still logged in, until you clear your browser cache.
+<strong>You are now logged out.</strong>\n\nNote that some pages may continue to be displayed as if you were still logged in, until you clear your browser cache.
 Welcome, $1!
+Username:
 Username
 Enter your username
 Enter the username
+Password:
 Password
 Enter your password
 Enter a password
 Retype password:
 Confirm password
 Enter password again
-Remember my login on this browser (for a maximum of $1 day)
+Remember my login on this browser (for a maximum of $1 {{PLURAL:$1|day|days}})
 Keep me logged in
 Use secure connection
 Your domain:
 You cannot change passwords on this wiki.
 Log in
 Log in / create account
+Log in / create account
+Log in
 Log out
+Log out
+Not logged in
 Don't have an account?
 Join {{SITENAME}}
 Don't have an account? $1.
 Create an account
 Create account
 Already have an account? $1.
+Log in
 Forgotten your login details?
 Forgot your password?
 Help with logging in
-You are already logged in as $1.
-Use the form below to log in as another user.
+You are already logged in as {{GENDER:$1|$1}}.\nUse the form below to log in as another user.
 Create another account
 Email address
 Email address (optional)
@@ -341,10 +361,12 @@ Enter email address
 Use a temporary random password and send it to the specified email address
 Real name (optional)
 Reason:
-Why you are creating another account?
+Reason
+Why you are creating another account
 Security check
 Enter the text you see above
 Create your account
+Create another account
 {{SITENAME}} is made by people like you.
 {{PLURAL:$1|edit|edits}}
 {{PLURAL:$1|page|pages}}
@@ -355,15 +377,12 @@ Login error
 Account creation error
 Could not create account: $1
 Login successful
-You are now logged in to {{SITENAME}} as \"$1\".
-There is no user by the name \"$1\".
-Check your spelling.
+<strong>You are now logged in to {{SITENAME}} as \"$1\".</strong>
+There is no user by the name \"$1\".\nCheck your spelling.
 You have to specify a username.
-This user is blocked.
-Login not allowed.
-Incorrect password entered.
-Please try again.
-Password entered was blank.
+This user is blocked. Login not allowed.
+Incorrect password entered.\nPlease try again.
+Password entered was blank.\nPlease try again.
 Reset password
 New temporary password for {{SITENAME}}
 You need to provide a valid email address.
@@ -375,6 +394,10 @@ Account created
 Account creation for {{SITENAME}}
 Your login was unsuccessful - Aborted
 Language: $1
+Log in
+Log in
+Create account
+Log out
 Unknown error in PHP's mail() function.
 Change password
 Change account password
@@ -385,15 +408,19 @@ Set password and log in
 Your password has been changed successfully!
 Passwords cannot be changed
 You must be logged in to access this page directly.
+Change password
+Cancel
 Temporary password:
+Reset password
 Complete this form to receive a temporary password via email.
-Fill in one of the fields to receive a temporary password via email.
+{{PLURAL:$1|Fill in one of the fields to receive a temporary password via email.}}
+Reset password
 Email features have been disabled on this wiki.
+Username:
 Domain:
 View the resulting email?
 Email address:
-Username: $1
-Temporary password: $2
+Username: $1\nTemporary password: $2
 Change email address
 Current email address:
 New email address:
@@ -401,16 +428,19 @@ New email address:
 Your {{SITENAME}} password:
 Change email
 Reset tokens
+Reset tokens
 Tokens:
 $1 (current value: $2)
 Tokens reset.
 Reset selected tokens
 Bold text
+Bold text
+Italic text
 Italic text
 Link title
 Internal link
 http://www.example.com link title
-External link (remember http://prefix)
+External link (remember http:// prefix)
 Headline text
 Level 2 headline
 Insert non-formatted text here
@@ -476,6 +506,7 @@ This page is a member of {{PLURAL:$1|1 hidden category|$1 hidden categories}}:
 You do not have permission to create new pages.
 Section editing not supported
 Section editing is not supported in this page.
+Permission error
 You do not have permission to $2, for the following {{PLURAL:$1|reason|reasons}}:
 <strong>Warning: You are recreating a page that was previously deleted.</strong>\n\nYou should consider whether it is appropriate to continue editing this page.\nThe deletion and move log for this page are provided here for convenience:
 This page has been deleted.\nThe deletion and move log for the page are provided below for reference.
@@ -504,6 +535,7 @@ Revision as of $1
 Revision as of $1 by {{GENDER:$6|$2}}$7
 ← Older revision
 Newer revision →
+Latest revision
 cur
 next
 prev
@@ -523,11 +555,15 @@ $1 at $2
 (username removed)
 (log details removed)
 change visibility
+how
+Yes
 Please confirm that you intend to do this, that you understand the consequences, and that you are doing this in accordance with [[{{MediaWiki:Policy-url}}|the policy]].
 Revision text
 (do not change)
 Hidden
 Visible
+Reason:
+change visibility
 Other/additional reason:
 Other reason
 Merge page histories
@@ -537,6 +573,7 @@ Destination page:
 Mergeable edit history
 Show mergeable edits
 Merge revisions
+Reason:
 Merge log
 Unmerge
 Revision history of \"$1\
@@ -588,9 +625,11 @@ All
 None
 External search
 Preferences
+Preferences
 Number of edits:
 Please log in to change your preferences.
 Skin
+Preview
 No preference
 Labs features
 User pages
@@ -603,6 +642,8 @@ Maximum number of changes to show in expanded watchlist:
 Maximum number: 1000
 Watchlist token:
 Misc
+Change password
+Change email address
 Email options
 Appearance
 Save
@@ -610,9 +651,11 @@ Restore all default settings (in all sections)
 Editing
 Rows:
 Columns:
+Search
 Threshold for <a href=\"#\" class=\"stub\">stub link</a> formatting (bytes):
 Disabled
 Days to show in recent changes:
+Maximum $1 {{PLURAL:$1|day|days}}
 Number of edits to show by default:
 This includes recent changes, page histories, and logs.
 This is the secret key to the web feed of your watchlist.\nAnyone who knows it will be able to read your watchlist, so do not share it.\nIf you need to, [[Special:ResetTokens|you can reset it]].
@@ -634,6 +677,8 @@ Europe
 Indian Ocean
 Pacific Ocean
 Enable email from other users
+Search
+Namespaces
 efault
 Files
 Custom CSS
@@ -667,6 +712,10 @@ Date format
 Time offset
 General options
 Advanced options
+Advanced options
+Advanced options
+Advanced options
+Display options
 Display options
 Diffs
 User rights management
@@ -674,6 +723,7 @@ Enter a username:
 Edit user groups
 Member of:
 Implicit member of:
+Reason:
 Groups you can change
 Groups you cannot change
 Group:
@@ -709,11 +759,13 @@ view this page's deleted history
 end emails
 $1 {{PLURAL:$1|change|changes}}
 history
+Recent changes
 Recent changes options
 Track the most recent changes to the wiki on this page.
 No changes during the given period matching these criteria.
 Track the most recent changes to the wiki in this feed.
 This edit created a new page
+This is a minor edit
 This edit was performed by a bot
 This edit has not yet been patrolled
 The page size changed by this number of bytes
@@ -725,13 +777,24 @@ $1 minor edits
 Show
 Hide
 $1 bots
+Show
+Hide
 $1 registered users
+Show
+Hide
 $1 anonymous users
+Show
+Hide
 $1 patrolled edits
+Hide
 $1 my edits
+Show
+Hide
 Show last $1 changes in last $2 days<br />$3
 ff
 hist
+Hide
+Show
 N
 b
 /* $1 */ new section
@@ -739,10 +802,13 @@ Show details
 Hide details
 originally created as \"$1\
 Related changes
+Related changes
+Related changes
 Changes related to \"$1\
 This is a list of changes made recently to pages linked from a specified page (or to members of a specified category).\nPages on [[Special:Watchlist|your watchlist]] are <strong>bold</strong>.
 Page name:
 Show changes to pages linked to the given page instead
+Upload file
 Upload file
 Upload error
 <strong>Warning: A file by that name has been deleted or moved.</strong>\n\nThe deletion and move log for this page are provided here for convenience:
@@ -750,6 +816,7 @@ Permitted file {{PLURAL:$2|type|types}}: $1.
 Upload log
 Filename
 Summary
+Summary:
 File changes:
 Copyright status:
 Source:
@@ -774,6 +841,9 @@ User
 Size
 Description
 Versions
+Yes
+No
+File
 File history
 Click on a date/time to view the file as it appeared at that time.
 elete all
@@ -781,8 +851,10 @@ elete
 revert
 current
 Date/Time
+Thumbnail
 Thumbnail for version as of $1
 No thumbnail
+User
 Dimensions
 File size
 Comment
@@ -793,12 +865,16 @@ This file is from $1 and may be used by other projects.
 This file is from $1 and may be used by other projects.\nPlease see the [$2 file description page] for further information.
 This file is from $1 and may be used by other projects.\nThe description on its [$2 file description page] there is shown below.
 This file is from $1 and may be used by other projects.\nMaybe you want to edit the description on its [$2 file description page] there.
+This file is from $1 and may be used by other projects.\nMaybe you want to edit the description on its [$2 file description page] there.
 Upload a new version of this file
 from $1
 a shared repository
 Wikimedia Commons
+Reason:
 Delete $1
 You are about to delete the file <strong>[[Media:$1|$1]]</strong> along with all of its history.
+Reason:
+Delete
 *Common delete reasons\n** Copyright violation\n** Duplicated file
 MIME type:
 ownload
@@ -808,6 +884,7 @@ Statistics
 Page statistics
 Edit statistics
 User statistics
+Content pages
 Pages
 All pages in the wiki, including talk pages, redirects, etc.
 Uploaded files
@@ -817,6 +894,7 @@ Registered [[Special:ListUsers|users]]
 Active users
 Users who have performed an action in the last {{PLURAL:$1|day|$1 days}}
 Property name:
+Go
 $1 {{PLURAL:$1|byte|bytes}}
 $1 {{PLURAL:$1|category|categories}}
 $1 {{PLURAL:$1|member|members}}
@@ -853,6 +931,8 @@ All pages
 Next page ($1)
 Previous page ($1)
 Display pages starting at:
+All pages
+Go
 Display pages with prefix:
 Hide redirects
 View latest.
@@ -862,15 +942,19 @@ Display categories starting at:
 ort by count
 ort alphabetically
 Deleted user contributions
+Deleted user contributions
 contributions
 External links search
 Search pattern:
 Namespace:
+Search
 $1 is linked from $2
 Display users starting at:
+Show
 No user found.
 (blocked)
 Active users list
+Display users starting at:
 Hide bots
 Hide administrators
 No users found.
@@ -884,11 +968,13 @@ Help:Group rights
 Email this user
 Email this {{GENDER:$1|user}}
 Email user
+Email user
 {{SITENAME}} email from user \"$1\
 User email disabled
 No email address
 This user has not specified a valid email address.
 Enter username of recipient
+Username:
 Submit
 Send an email to another {{SITENAME}} user
 From:
@@ -902,13 +988,17 @@ Email sent
 Your email message has been sent.
 Leaving system message.
 System messenger
+Watchlist
+Watchlist
 For $1 $2
 You have no items on your watchlist.
+Not logged in
 Add to watchlist
 The page \"[[:$1]]\" has been added to your [[Special:Watchlist|watchlist]].\nFuture changes to this page and its associated talk page will be listed there.
 Remove from watchlist
 The page \"[[:$1]]\" has been removed from [[Special:Watchlist|your watchlist]].
 Watch
+Watch this page
 Unwatch
 Stop watching
 Not a content page
@@ -943,6 +1033,7 @@ content was: \"$1\
 content was: \"$1\" (and the only contributor was \"[[Special:Contributions/$2|$2]]\")
 content before blanking was: \"$1\
 Delete \"$1\
+Delete
 <strong>Warning:</strong> The page you are about to delete has a history with $1 {{PLURAL:$1|revision|revisions}}:
 You are about to delete a page along with all of its history.\nPlease confirm that you intend to do this, that you understand the consequences, and that you are doing this in accordance with [[{{MediaWiki:Policy-url}}|the policy]].
 Action complete
@@ -952,6 +1043,9 @@ Deletion log
 Below is a list of the most recent deletions.
 eletion log
 Reverted to earlier revision
+Reason:
+Other/additional reason:
+Other reason
 Edit deletion reasons
 '''Warning:''' [[Special:WhatLinksHere/{{FULLPAGENAME}}|Other pages]] link to or transclude the page you are about to delete.
 Roll back edits
@@ -967,6 +1061,7 @@ changed protection level for \"[[$1]]\
 oved protection settings from \"[[$2]]\" to \"[[$1]]\
 Change protection level for \"$1\
 Confirm protection
+Reason:
 Expires:
 Unlock further protect options
 Here you may view and change the protection level for the page <strong>$1</strong>.
@@ -980,6 +1075,8 @@ Protect pages included in this page (cascading protection)
 Other time:
 other time
 Existing expiry time: $3, $2
+Other/additional reason:
+Other reason
 Edit protection reasons
 1 hour:1 hour,1 day:1 day,1 week:1 week,2 weeks:2 weeks,1 month:1 month,3 months:3 months,6 months:6 months,1 year:1 year,infinite:infinite
 Permission:
@@ -987,19 +1084,29 @@ Restriction level:
 Min size
 Max size:
 (bytes)
+Edit
+Move
+Create
 Upload
 fully protected
 emi protected
 any level
 View deleted pages
 View and restore deleted pages
+View deleted pages
 No previous revision found.
 Restore
 view/restore
 view
 Invert selection
+Reason:
+Search deleted pages
 Search deleted pages
 Show pages starting with:
+Search
+Yes
+Namespace:
+Invert selection
 Associated namespace
 (Main)
 {{GENDER:$1|User}} contributions
@@ -1023,6 +1130,7 @@ This user is currently blocked.\nThe latest block log entry is provided below fo
 Search for contributions
 IP address or username:
 Only show edits that are latest revisions
+Search
 What links here
 Pages that link to \"$1\
 Page:
@@ -1044,21 +1152,29 @@ Autoblock #$1
 Block user
 Unblock user
 Block {{GENDER:$1|user}}
+Block user
+IP address or username:
 Expiry:
+Reason:
 *Common block reasons\n** Inserting false information\n** Removing content from pages\n** Spamming links to external sites\n** Inserting nonsense/gibberish into pages\n** Intimidating behavior/harassment\n** Abusing multiple accounts\n** Unacceptable username
 Block this user
+Other time:
 2 hours:2 hours,1 day:1 day,3 days:3 days,1 week:1 week,2 weeks:2 weeks,1 month:1 month,3 months:3 months,6 months:6 months,1 year:1 year,indefinite:infinite
 Edit block reasons
 Unblock $1
+Unblock user
 Remove this block
 [[User:$1|$1]] has been unblocked.
 $1 has been unblocked.
+Blocked users
 Blocked users
 Timestamp
 Target
 Expires
 Blocking admin
 Block parameters
+Reason
+Search
 Local block
 Other {{PLURAL:$1|block|blocks}}
 nfinite
@@ -1076,11 +1192,14 @@ contribs
 end email
 Block log
 blocked [[$1]] with an expiry time of $2 $3
+account creation disabled
+cannot edit own talk page
 Move $1
 Move page
 Move page:
 To new title:
 Watch source page and target page
+Move page
 Move succeeded
 <strong>\"$1\" has been moved to \"$2\"</strong>
 A redirect has been created.
@@ -1092,6 +1211,8 @@ Move log
 {{PLURAL:$1|Subpage|Subpages}}
 This page has $1 {{PLURAL:$1|subpage|subpages}} shown below.
 This page has no subpages.
+Reason:
+revert
 Delete and move
 Yes, delete the page
 Update any redirects that point to the original title
@@ -1104,11 +1225,17 @@ Export
 Add pages from category:
 Add
 Add pages from namespace:
+Add
 Save as file
 Include templates
 Include linked pages to a depth of:
 System messages
+Name
+Default message text
 Current message text
+All
+Language:
+Go
 Enlarge
 Error creating thumbnail: $1
 Import log
@@ -1121,17 +1248,24 @@ Your preferences
 A list of pages you are monitoring for changes
 A list of your contributions
 You are encouraged to log in; however, it is not mandatory
+Log out
 Discussion about the content page
 You can edit this page. Please use the preview button before saving
 Start a new section
 This page is protected.\nYou can view its source
 Past revisions of this page
+Protect this page
+Change protection of this page
+Delete this page
 Restore the edits done to this page before it was deleted
+Move this page
 Add this page to your watchlist
 Remove this page from your watchlist
 Search {{SITENAME}}
 Go to a page with this exact name if exists
 Search the pages for this text
+Visit the main page
+Visit the main page
 Visit the main page
 About the project, what you can do, where to find things
 Find background information on current events
@@ -1163,10 +1297,12 @@ Save your changes
 Preview your changes, please use this before saving!
 Show which changes you made to the text
 See the differences between the two selected revisions of this page
+Add this page to your watchlist
 Recreate the page even though it has been deleted
 Enter a short summary
 others
 Information for \"$1\
+Basic information
 Edit history
 Display title
 Page ID
@@ -1185,6 +1321,7 @@ No higher resolution available.
 SVG file, nominally $1 × $2 pixels, file size: $3
 Original file
 Nothing to see.
+Search
 uz-Latn
 uz-Cyrl
 Metadata
@@ -1194,6 +1331,7 @@ Width
 Height
 Author
 Source
+Category
 North latitude
 South latitude
 East longitude
@@ -1213,6 +1351,8 @@ Religion and belief
 Science and technology
 Sports
 Weather
+all
+all
 User [[User:$1|$1]] ([[User talk:$1|talk]]) deleted this page after you started editing with reason:\n: <em>$2</em>\nPlease confirm that you really want to recreate this page.
 User [[User:$1|$1]] ([[User talk:$1|talk]]) deleted this page after you started editing. Please confirm that you really want to recreate this page.
 px
@@ -1234,6 +1374,7 @@ Edit raw watchlist
 [[{{ns:user}}:$1|$2]] ([[{{ns:user_talk}}:$1|talk]])
 <strong>Warning:</strong> Default sort key \"$2\" overrides earlier default sort key \"$1\".
 Special pages
+Special pages
 [[Special:Tags|Tag]] filter:
 Compare
 Undo changes
@@ -1245,10 +1386,13 @@ $1 {{GENDER:$2|moved}} page $3 to $4 over redirect
 $1 {{GENDER:$2|moved}} page $3 to $4 over a redirect without leaving a redirect
 $1 automatically {{GENDER:$2|marked}} revision $4 of page $3 patrolled
 User account $1 was {{GENDER:$2|created}}
+User account $1 was {{GENDER:$2|created}}
 User account $1 was {{GENDER:$2|created}} automatically
 $1 {{GENDER:$2|changed}} group membership for $3 from $4 to $5
 $1 {{GENDER:$2|changed}} group membership for $3
 Done
+Search
 containing...
+Unknown error: \"$1\".
 Unknown error: \"$1\".
 Parser profiling data:
