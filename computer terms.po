@@ -3451,3 +3451,1104 @@ msgstr "Электрон почта манзилини кўрсатиш мажб
 
 msgid "But is needed for password resets, should you forget your password."
 msgstr "Лекин махфий сўзни унутиб қўйсангизда махфий сўзни тиклашда керак бўлади."
+
+msgid "Whether the window draws WM decorations itself"
+msgstr "Дераза Бошқарувчи безакларини деразанинг ўзи чизадими ёки йўқ"
+
+msgid "Failed to open file '%s': %s"
+msgstr "'%s' файлини очиб бўлмади: %s"
+
+msgid "Image file '%s' contains no data"
+msgstr "'%s' расм файлида ҳеч қандай маълумот йўқ"
+
+msgid "Failed to load animation '%s'"
+msgstr "'%s' анимациясини юклаб бўлмади"
+
+msgid "reason not known, probably a corrupt animation file"
+msgstr "сабаби номаълум, балки анимация файли бузуқдир"
+
+msgid "Image type '%s' is not supported"
+msgstr "'%s' расм тури қўлланилмайди"
+
+msgid "Couldn't recognize the image file format for file '%s'"
+msgstr "'%s' файлидаги расм форматини аниқлаб бўлмади"
+
+msgid "Failed to load image '%s': %s"
+msgstr "'%s' расмини юклаб бўлмади: %s"
+
+msgid "Failed to open '%s' for writing: %s"
+msgstr "'%s' файлини ёзиш учун очиб бўлмади: %s"
+
+msgid "When files cannot be opened by the browser they are automatically downloaded to the download folder and opened with the appropriate application."
+msgstr "Браузер файлларни очиб билмаса, улар автоматик равишда юкламалари жилдига юклаб олинади ва мос дастур билан очилади."
+
+msgid "How to present animated images."
+msgstr "Жонлантирилган расмларни қандай кўрсатиш."
+
+msgid "Possible values are \"normal\", \"once\" and \"disabled\"."
+msgstr "Мумкин бўлган қийматлар: \"оддий\", \"бир марта\" ва \"жонлантиришсиз\"."
+
+msgid "The path of the folder where to download files to; or \"Downloads\" to use the default downloads folder, or \"Desktop\" to use the desktop folder."
+msgstr "Файллар юклаб олинадиган жилд манзили; андоза жилддан фойдаланиш учун \"Downloads\" ёки иш столига ёзиб олиш учун \"Desktop\"дан фойдаланинг."
+
+msgid "Loading %s..."
+msgstr "%s юкланмоқда..."
+
+msgid "Loading ..."
+msgstr "Юкланмоқда ..."
+
+msgid "Could not create a temporary directory in %s."
+msgstr "%sда вақтинчалик жилд яратиб бўлмади."
+
+msgid "The file %s exists."
+msgstr "%s файли мавжуд."
+
+msgid "Please move it out of the way."
+msgstr "Илтимос уни бошқа жойга кўчиринг."
+
+msgid "Failed to create directory %s."
+msgstr "%s директориясини яратиб бўлмади."
+
+msgid "Directory %s is not writable"
+msgstr "%s директорияси ёзувдан ҳимояланган"
+
+msgid "%s Properties"
+msgstr "%s хоссалари"
+
+msgid "Mozilla (HTML)"
+msgstr "Mozilla (HTML)"
+
+msgid "Close"
+msgstr "Ёпиш"
+
+msgid "Delete topic %s?"
+msgstr "%s мавзуси ўчирилинсинми?"
+
+msgid "Firefox"
+msgstr "Firefox"
+
+msgid "Firebird"
+msgstr "Firebird"
+
+msgid "Galeon"
+msgstr "Galeon"
+
+msgid "Konqueror"
+msgstr "Konqueror"
+
+msgid "The bookmarks from %s could not be imported because the file is corrupted or of an unsupported type."
+msgstr "%s файлидан хатчўпларни импорт қилиб бўлмади, чунки файл бузуқ ёки қўлланилмайдиган форматда."
+
+msgid "Create topic %s"
+msgstr "%s мавзусини яратиш"
+
+msgid "Download folder:"
+msgstr "Юклаш жилди:"
+
+msgid "FILE"
+msgstr "ФАЙЛ"
+
+msgid "Move Tab Right"
+msgstr "Табни ўнгга кўчириш"
+
+msgid "How to print pages containing frames."
+msgstr "Рамкали саҳифаларни қандай чоп этиш."
+
+msgid "Allowed values are 'normal', 'separately' and 'selected'."
+msgstr "Қуйидаги қийматлар рухсат этилган: 'оддий', 'алоҳида' ва 'танланганни'."
+
+msgid "Show the history pages visited 'ever', 'last two days', 'last three days', 'today'."
+msgstr "'Барча', 'охирги икки кунда', 'охирги уч кунда', 'бугун' очилган тарих саҳифаларини кўрсатиш."
+
+msgid "Size of disk cache, in MB."
+msgstr "Диск кэш ҳажми (мегабайтда)."
+
+msgid "The bookmark information shown in the editor view."
+msgstr "Таҳрирлаш кўринишдаги кўрсатиладиган хатчўп маълумоти."
+
+msgid "Valid values in the list are 'address' and 'title'."
+msgstr "Рўйхатдаги яроқли қийматлар қуйидагилар: 'манзил' ва 'сарлавҳа'."
+
+msgid "Common Name:"
+msgstr "Умумий Номи:"
+
+msgid "MB"
+msgstr "МБ"
+
+msgid "The file %s has been downloaded."
+msgstr "%s файли юклаб бўлинди."
+
+msgid "Redirecting to %s ..."
+msgstr "%sга йўналтирилмоқда ..."
+
+msgid "Transferring data from %s..."
+msgstr "%sдан маълумотлар ўтказилмоқда..."
+
+msgid "Waiting for authorization from %s..."
+msgstr "%sдан рухсат кутилмоқда..."
+
+msgid "Off"
+msgstr "Ўчирилган"
+
+msgid "Chinese"
+msgstr "Хитойча"
+
+msgid "Simplified Chinese"
+msgstr "Соддалаштирилган хитойча"
+
+msgid "Traditional Chinese"
+msgstr "Анъанавий хитойча"
+
+msgid "East Asian"
+msgstr "Шарқий осиёча"
+
+msgid "Japanese"
+msgstr "Японча"
+
+msgid "Korean"
+msgstr "Корейсча"
+
+msgid "Russian"
+msgstr "Русча"
+
+msgid "Universal"
+msgstr "Универсал"
+
+msgid "Ukrainian"
+msgstr "Украинча"
+
+msgid "Show %s"
+msgstr "%s ни кўрсатиш"
+
+msgid "Arabic"
+msgstr "Арабча"
+
+msgid "select fonts for Arabic"
+msgstr "Арабча учун шрифтни танлаш"
+
+msgid "Baltic"
+msgstr "Болтиқча"
+
+msgid "Central European"
+msgstr "Марказий европача"
+
+msgid "Cyrillic"
+msgstr "Кирилча"
+
+msgid "Devanagari"
+msgstr "Деванагари"
+
+msgid "Greek"
+msgstr "Юнонча"
+
+msgid "Hebrew"
+msgstr "Яҳудийча"
+
+msgid "Tamil"
+msgstr "Тамилча"
+
+msgid "Thai"
+msgstr "Тайча"
+
+msgid "Hong Kong"
+msgstr "Гонконг"
+
+msgid "Turkish"
+msgstr "Туркча"
+
+msgid "Armenian"
+msgstr "Арманча"
+
+msgid "Bengali"
+msgstr "Бенгалча"
+
+msgid "Ethiopic"
+msgstr "Эфиопча"
+
+msgid "Georgian"
+msgstr "Грузинча"
+
+msgid "Gujarati"
+msgstr "Гужарати"
+
+msgid "Gurmukhi"
+msgstr "Гурмухи"
+
+msgid "Khmer"
+msgstr "Хмерча"
+
+msgid "Malayalam"
+msgstr "Малаяламча"
+
+msgid "Western"
+msgstr "Ғарбий"
+
+msgid "Other Scripts"
+msgstr "Бошқа ёзувлар"
+
+msgid "Executes the script %s"
+msgstr "%s скриптини ишга тушириш"
+
+msgid "Update bookmark %s?"
+msgstr "%s хатчўпи янгилансинми?"
+
+msgid "The bookmarked page has moved to “%s”."
+msgstr "Хатчўп қўйилган саҳифа “%s” манзилига кўчирилди."
+
+msgid "Download Link"
+msgstr "Юклаб олиш ҳаволаси"
+
+msgid "Open image “%s”"
+msgstr "“%s” расмини очиш"
+
+msgid "Use as desktop background “%s”"
+msgstr "“%s” расмини иш столи фони сифатида ишлатиш"
+
+msgid "Save image “%s”"
+msgstr "“%s” расмини сақлаш"
+
+msgid "Copy image address “%s”"
+msgstr "“%s” расм манзилини нусхасини олиш"
+
+msgid "Send email to address “%s”"
+msgstr "“%s” манзилига электрон почта жўнатиш"
+
+msgid "Copy email address “%s”"
+msgstr "“%s” электрон почта манзили нусхасини олиш"
+
+msgid "Bookmark link “%s”"
+msgstr "“%s” ҳаволасига хатчўп қўйиш"
+
+msgid "Copy link's address “%s”"
+msgstr "“%s” ҳавола манзили нусхасини олиш"
+
+msgid "Could not parse the geometry spec passed to --geometry"
+msgstr "--geometryга берилган геометрия хусусиятини таҳлил қилиб бўлмади"
+
+msgid "Error (%s) converting data for child, dropping."
+msgstr "Бола учун маълумотни ўгиришда хатолик (%s), ташлаб юбориляпи."
+
+msgid "Attempt to set invalid NRC map '%c'."
+msgstr "Яроқсиз NRC харитаси '%c'ни ўрнатишга ҳаракат қилинди."
+
+msgid "Unrecognized identified coding system."
+msgstr "Нотаниш белгиланган кодлаш системаси."
+
+msgid "Attempt to set invalid wide NRC map '%c'."
+msgstr "Яроқсиз кенг NRC харитаси '%c'ни ўрнатишга ҳаракат қилинди."
+
+msgid "Duplicate (%s/%s)!"
+msgstr "(%s/%s)ни кўпайтириш!"
+
+msgid "CRTC %d cannot drive output %s"
+msgstr "CRTC %d чиқиш йўли %sни ҳайдаб билмайди"
+
+msgid "could not get the screen resources (CRTCs, outputs, modes)"
+msgstr "экран ресурслари (CRTCлар, чиқиш йўллари, турлари)ни олиб бўлмади"
+
+msgid "requested position/size for CRTC %d is outside the allowed limit: position=(%d, %d), size=(%d, %d), maximum=(%d, %d)"
+msgstr "CRTC %dнинг сўралган жойлашуви/ўлчами рухсат берилган чегарадан ташқарида: жойлашуви=(%d, %d), ўлчами=(%d, %d), максимум=(%d, %d)"
+
+msgid "could not set the configuration for CRTC %d"
+msgstr "CRTC бошқарувчиси %d учун конфигурацияни ўрнатиб бўлмади"
+
+msgid "could not get information about CRTC %d"
+msgstr "CRTC %d ҳақида маълумот олиб бўлмади"
+
+msgid "Visited Link Color"
+msgstr "Кўрилган Ҳавола Ранги"
+
+msgid "the GdkScreen for the renderer"
+msgstr "Кўрсатувчи учун GdkScreen"
+
+msgid "Normal Size"
+msgstr "Ўртанча ўлчам"
+
+msgid "Allow zoom greater than 100% initially"
+msgstr "Бошида 100% дан ортиқ катталаштиришга рухсат бериш"
+
+msgid "Could not load image '%s'."
+msgstr "'%s' расмини юклаб бўлмади."
+
+msgid "No images found in '%s'."
+msgstr "'%s' манзилида расмлар мавжуд эмас."
+
+msgid "XMP Exif"
+msgstr "XMP Exif"
+
+msgid "Value"
+msgstr "Қиймати"
+
+msgid "Right:"
+msgstr "Ўнгда:"
+
+msgid " (invalid Unicode)"
+msgstr " (хато юникод)"
+
+msgid "Error on deleting image %s"
+msgstr "%s расмни ўчиришда хатолик"
+
+msgid "Are you sure you want to move the selected image to the trash?"
+msgstr "Танланган расмни чиқиндилар қутисига кўчиришга ишончингиз комилми?"
+
+msgid "Are you sure you want to move the %d selected images to the trash?"
+msgstr "Танланган %d расмларни чиқиндилар қутисига кўчиришга ишончингиз комилми?"
+
+msgid "Show '%s'"
+msgstr "'%s'ни кўрсатиш"
+
+msgid "Eye of GNOME Preferences"
+msgstr "Eye of GNOME афзалликлари"
+
+msgid "Preferences for Eye of GNOME"
+msgstr "Eye of GNOME афзалликлари"
+
+msgid "Save As..."
+msgstr "Қуйидагича сақлаш..."
+
+msgid "Allows access to internal debugging and monitoring tools using the Alt-F2 dialog."
+msgstr "Alt-F2 диалог ойнаси орқали ички созлаш ва кузатиш асбобларига рухсат бериш."
+
+msgid "GNOME Shell extensions have a UUID property."
+msgstr "GNOME Shell кенгайтмаларининг UUID хоссаси бор."
+
+msgid "This key lists extensions which should be loaded."
+msgstr "Бу калит юкланиши керак бўлган кенгайтмалар рўйхатини кўрсатади."
+
+msgid "Any extension that wants to be loaded needs to be in this list."
+msgstr "Юкланишни истайдиган кенгайтма ушбу рўйхатда бўлиши керак."
+
+msgid "You can also manipulate this list with the EnableExtension and DisableExtension D-Bus methods on org.gnome.Shell."
+msgstr "Сиз бу рўйхатни  org.gnome.Shellдаги D-Busнинг EnableExtension ва DisableExtension функциялари орақли ҳам бошқаришингиз мумкин."
+
+msgid "History for command (Alt-F2) dialog"
+msgstr "(Alt-F2) диалог ойначаси буйруқлар тарихи"
+
+msgid "Always show the 'Log out' menu item in the user menu."
+msgstr "Фойдаланувчи менюсида 'Чиқиш' менюсини ҳар доим кўрсатишга рухсат бериш."
+
+msgid "This key overrides the automatic hiding of the 'Log out' menu item in single-user, single-session situations."
+msgstr "Ушбу калит ягона фойдаланувчили, ягона сессияли системада 'Чиқиш' менюсини автоматик яширишни белгилайди."
+
+msgid "The shell will request a password when an encrypted device or a remote filesystem is mounted."
+msgstr "Shell шифрланган ёки масофавий файл системаларини ўрнатилганда махфий сўзни сўрайди."
+
+msgid "If the password can be saved for future use a 'Remember Password' checkbox will be present."
+msgstr "Агар махфий сўз келажакда ишлатилиш учун сақлаб бўлинса 'Махфий сўзни эслаб қолиш' белгилаш катакчаси кўрсатилади."
+
+msgid "This key sets the default state of the checkbox."
+msgstr "Ушбу калит ўша белгилаш катакчасининг сукут ҳолатини ўрнатади."
+
+msgid "Keybinding to open the 'Show Applications' view"
+msgstr "'Дастурларни кўрсатиш' кўринишини очиш учун клавишалар бирикмаси"
+
+msgid "Keybinding to open the 'Show Applications' view of the Activities Overview."
+msgstr "Фаолиятлар обзорида 'Дастурларни кўрсатиш' кўриниши учун клавишалар бирикмаси."
+
+msgid "Keybinding to open the Activities Overview."
+msgstr "Фаолиятлар Обзорини очиш учун клавишалар бирикмаси"
+
+msgid "Keybinding that pauses and resumes all running tweens, for debugging purposes"
+msgstr "Барча ишлаб турган анимацияларни тўхтатиб туриш ва давом эттириш учун клавишалар бирикмаси (тузатиш мақсадида)"
+
+msgid "Configures how the windows are shown in the switcher."
+msgstr "Ўзгартирувчи тугмачада ойналар қандай кўринишини мослайди."
+
+msgid "Valid possibilities are 'thumbnail-only' (shows a thumbnail of the window), 'app-icon-only' (shows only the application icon) or 'both'."
+msgstr "Яроқли қийматлар: 'thumbnail-only' (ойнанинг миниатурасини кўрсатади), 'app-icon-only' (фақтгини дастур нишончасини кўрсатади)."
+
+msgid "If true, only windows from the current workspace are shown in the switcher."
+msgstr "Агар белгиланса, фақатгина ушбу иш жойидаги ойналар ўзгартирувчи тугмачада кўрсатилади."
+
+msgid "Otherwise, all windows are included."
+msgstr "Акс ҳолда, барча ойналар ҳисобга олинади."
+
+msgid "There was an error loading the preferences dialog for %s:"
+msgstr "%s учун афзаллилар диалог ойнасини юклашда хатолик содир бўлди:"
+
+msgid "Username: "
+msgstr "Фойдаланувчи номи:"
+
+msgid "Execution of '%s' failed:"
+msgstr "'%s'ни бажариб бўлмади:"
+
+msgid "%s has been added to your favorites."
+msgstr "%s сизнинг севимлилар рўйхатингизга қўшилди."
+
+msgid "%s has been removed from your favorites."
+msgstr "%s сизнинг севимлилар рўйхатингиздан олиб ташланди."
+
+msgid "Change Background"
+msgstr "Фонни ўзгартириш"
+
+msgid "Open with %s"
+msgstr "%s билан очиш"
+
+msgid "Password: "
+msgstr "Махфий сўз:"
+
+msgid "Key: "
+msgstr "Калит:"
+
+msgid "Identity: "
+msgstr "Шахсият:"
+
+msgid "Private key password: "
+msgstr "Шахсий калитнинг махфий сўзи:"
+
+msgid "Service: "
+msgstr "Хизмат:"
+
+msgid "Passwords or encryption keys are required to access the wireless network %s."
+msgstr "Симсиз %s тармоққа уланиш учун махфий сўзлар ёки шифрлаш калитлари талаб қилинади."
+
+msgid "Network name: "
+msgstr "Тармоқ номи:"
+
+msgid "A password is required to connect to %s."
+msgstr "%sга уланиш учун махфий сўз талаб қилинади."
+
+msgid "Invitation to %s"
+msgstr "%sга таклифнома"
+
+msgid "Video call from %s"
+msgstr "%sдан видео қўнғироқ"
+
+msgid "Call from %s"
+msgstr "%sдан қўнғироқ"
+
+msgid "Unable to connect to %s"
+msgstr "%sга уланиб бўлмади"
+
+msgid "Log Out %s"
+msgstr "%sдан чиқиш"
+
+msgid "Download and install %s from extensions.gnome.org?"
+msgstr "%sни extensions.gnome.orgдан юклаб олиб ўрнатасизми?"
+
+msgid "Type to search"
+msgstr "Қидириш учун ёзинг"
+
+msgid "Restarting"
+msgstr "Қайта ишга тушириляпти"
+
+msgid "Searching"
+msgstr "Қидириляпти"
+
+msgid "Authentication required"
+msgstr "Ҳақиқийлигини аниқлаш талаб қилинади"
+
+msgid "Unavailable"
+msgstr "Мавжуд эмас"
+
+msgid "Estimating"
+msgstr "Баҳоланяпти"
+
+msgid "%s is ready"
+msgstr "%s тайёр"
+
+msgid "The text of the label."
+msgstr "Ёрлиқ матни"
+
+msgid "You can stop this operation by clicking cancel."
+msgstr "Ушбу амални бекор қилиш тугмасини босиб тўхтатишингиз мумкин."
+
+msgid "invalid Unicode"
+msgstr "яроқсиз Юникод"
+
+msgid "Skip"
+msgstr "Ўтказиб юбориш"
+
+msgid "Skip All"
+msgstr "Ҳаммасини ўтказиб юбориш"
+
+msgid "Replace"
+msgstr "Алмаштириш"
+
+msgid "10th copy"
+msgstr "10чи нусха"
+
+msgid "1st copy"
+msgstr "1чи нусха"
+
+msgid "2nd copy"
+msgstr "2чи нусха"
+
+msgid "3rd copy"
+msgstr "3чи нусха"
+
+msgid "Skip files"
+msgstr "Файлларни ўтказиб юбориш"
+
+msgid "Could not remove the folder %B."
+msgstr "%B жилдини олиб ташлаб бўлмади."
+
+msgid "There was an error deleting %B."
+msgstr "%B олиб ташланаётганда хатолик рўй берди."
+
+msgid "Unable to eject %V"
+msgstr "%V ни чиқариб бўлмади"
+
+msgid "Unable to unmount %V"
+msgstr "%Vни чиқариб бўлмади"
+
+msgid "Could not remove the already existing file with the same name in %F."
+msgstr "%Fдаги шу номли файлни олиб ташлаб бўлмади."
+
+msgid "Error while creating link to %B."
+msgstr "%B учун ҳавола яратилаётганда хатолик рўй берди."
+
+msgid "Error while creating directory %B."
+msgstr "%B жилдини яратишда хатолик юз берди."
+
+msgid "Error while creating file %B."
+msgstr "%B файлини яратишда хатолик юз берди."
+
+msgid "There was an error creating the directory in %F."
+msgstr "%Fда жилд яратилаётганда хатолик рўй берди."
+
+msgid "Whether to ask for confirmation when deleting files, or emptying Trash"
+msgstr "Файллар олиб ташланилаётганда ёки чиқиндилар қутиси тозаланилаётганда тасдиқлашниниг сўралиши"
+
+msgid "Possible values are 'single' to launch files on a single click, or 'double' to launch them on a double click."
+msgstr "Мумкин қийматлар: файлларни бир марта чертиб очиш учун 'ягона', икки марта чертиб очиш учун 'қўшалоқ'."
+
+msgid "Home icon visible on desktop"
+msgstr "'Уй' нишончасини иш столида кўрсатиш"
+
+msgid "If this is set to true, an icon linking to the home folder will be put on the desktop."
+msgstr "Агар белгиланса, уй жилди нишончаси иш столида кўрсатилади."
+
+msgid "If this is set to true, an icon linking to the trash will be put on the desktop."
+msgstr "Агар белгиланса, чиқиндилар қутиси нишончаси иш столида кўрсатилади."
+
+msgid "Desktop home icon name"
+msgstr "Иш столидаги уй нишончаси номи"
+
+msgid "This name can be set if you want a custom name for the home icon on the desktop."
+msgstr "Иш столидаги уй жилди нишончаси учун махсус ном қўймоқчи бўлсангиз ушбуни ўзгартиринг."
+
+msgid "Desktop trash icon name"
+msgstr "Иш столидаги чиқиндилар қутиси нишончаси номи"
+
+msgid "This name can be set if you want a custom name for the trash icon on the desktop."
+msgstr "Иш столидаги чиқиндилар қутиси нишончаси учун махсус ном қўймоқчи бўлсангиз ушбуни ўзгартиринг."
+
+msgid "This name can be set if you want a custom name for the network servers icon on the desktop."
+msgstr "Иш столидаги тармоқ серверлари нишончаси учун махсус ном қўймоқчи бўлсангиз ушбуни ўзгартиринг."
+
+msgid "geometry"
+msgstr "ҳандаса"
+
+msgid "1 MB"
+msgstr "1 МБ"
+
+msgid "100 MB"
+msgstr "100 МБ"
+
+msgid "1 GB"
+msgstr "1 ГБ"
+
+msgid "no "
+msgstr "йўқ"
+
+msgid "Execute:"
+msgstr "Бажариш:"
+
+msgid "Close Tab"
+msgstr "Табни ёпиш"
+
+msgid "Computer icon visible on desktop"
+msgstr "Компьютер нишончасини иш столида кўрсатиш"
+
+msgid "Desktop computer icon name"
+msgstr "Иш столидаги Компьютер нишончаси номи"
+
+msgid "If this is set to true, an icon linking to the computer location will be put on the desktop."
+msgstr "Агар белгиланса компьютер нишончаси иш столида кўрсатилади."
+
+msgid "List of x-content/* types set to 'Do Nothing'"
+msgstr "x-content/* турларининг рўйхати 'Ҳеч нарса қилинмасин' сифатида ўрнатилган"
+
+msgid "List of x-content/* types set to 'Open Folder'"
+msgstr "x-content/* турларининг рўйхати 'Жилдни очиш' сифатида ўрнатилган"
+
+msgid "The default sort-order for items in the icon view."
+msgstr "Нишонча кўринишидаги андоза тартиби."
+
+msgid "Possible values are 'name', 'size', 'type', 'modification_date', and 'emblems'."
+msgstr "Мумкин бўлган қийматлар: 'номи', 'ҳажми', 'тури', 'ўзгариш санаси' ва 'нишон'."
+
+msgid "The format of file dates."
+msgstr "Файл санасининг формати."
+
+msgid "Possible values are 'locale', 'iso', and 'informal'."
+msgstr "Мумкин бўлган қийматлар: 'жойи', 'ISO' ва 'норасмий'."
+
+msgid "Sorry, but there is already an emblem named '%s'."
+msgstr "Узр, лекин '%s' номли нишон аллақачон мавжуд."
+
+msgid "A folder named '%B' already exists."
+msgstr "'%B' номли жилд аллақачон мавжуд."
+
+msgid "Do you want to merge the source folder?"
+msgstr "Манба жилд билан бирлаштиришни истайсизми?"
+
+msgid "Do you want to replace it?"
+msgstr "Уни алмаштиришни истайсизми?"
+
+msgid "A file named '%B' already exists."
+msgstr "'%B' номли файл аллақачон мавжуд."
+
+msgid "today"
+msgstr "бугун"
+
+msgid "yesterday"
+msgstr "кеча"
+
+msgid "%s's Home"
+msgstr "%sнинг Уй жилди"
+
+msgid "Could not find '%s'"
+msgstr "'%s'ни топиб бўлмади"
+
+msgid "Open %s and other files of type '%s' with:"
+msgstr "%s ва бошқа '%s' турдаги файлларни ушбу билан очиш:"
+
+msgid "Change the behaviour and appearance of file manager windows"
+msgstr "Файл бошқарувчиси ойналарининг ҳатти-ҳаракати ва қиёфасини ўзгартириш"
+
+msgid "The folder '%s' contains more files than Nautilus can handle."
+msgstr "'%s' жилдида Nautilus бошқара оладиган файллар сонидан кўп файл мавжуд."
+
+msgid "'%s' will be moved if you select the Paste command"
+msgstr "Қўйиш буйруғини танласангиз '%s' кўчирилади"
+
+msgid "'%s' will be copied if you select the Paste command"
+msgstr "Қўйиш буйруғини танласангиз, '%s' нусхаси кўчирилади"
+
+msgid "Connect to Server %s"
+msgstr "%s сервери билан уланиш"
+
+msgid "Mount the volume associated with the open folder"
+msgstr "Очиқ жилд билан боғлиқ бўлган дискни ўрнатиш"
+
+msgid "Unmount the volume associated with the open folder"
+msgstr "Очиқ жилд билан боғлиқ бўлган дискни узиш"
+
+msgid "Eject the volume associated with the open folder"
+msgstr "Очиқ жилд билан боғлиқ бўлган дискни чиқариш"
+
+msgid "Format the volume associated with the open folder"
+msgstr "Очиқ жилд билан боғлиқ бўлган дискни форматлаш"
+
+msgid "Download"
+msgstr "Юклаб олиш"
+
+msgid "by Name"
+msgstr "Номи бўйича"
+
+msgid "by Size"
+msgstr "Ҳажми бўйича"
+
+msgid "by Type"
+msgstr "Тури бўйича"
+
+msgid "by Emblems"
+msgstr "Эмблемалари бўйича"
+
+msgid "Restore Icons' Original Sizes"
+msgstr "Нишончаларнинг асл ўлчамини тиклаш"
+
+msgid "pointing at '%s'"
+msgstr "'%s' кўрсатилмоқда"
+
+msgid "Read"
+msgstr "Ўқиш"
+
+msgid "Write"
+msgstr "Ёзиш"
+
+msgid "Sticky"
+msgstr "Ёпишқоқ"
+
+msgid "Nautilus could not create the required folder '%s'."
+msgstr "Natutilus керакли '%s' жилдни ярата олмади."
+
+msgid "Cannot display location '%s'"
+msgstr "'%s' манзилини кўрсатиб бўлмади"
+
+msgid "Could not remove emblem with name '%s'."
+msgstr "'%s' номли эмблемани олиб ташлаб бўлмади."
+
+msgid "Could not rename emblem with name '%s'."
+msgstr "'%s' номли эмблемани номини ўзгартириб бўлмади."
+
+msgid "Never prompt or start programs on media insertion"
+msgstr "Ускуна ўрнатилганда ҳеч қачон у ҳақда хабар берилмасин ёки дастурлар ишга туширилмасин."
+
+msgid "The location '%s' does not exist."
+msgstr "'%s' манзили мавжуд эмас."
+
+msgid "Clear History"
+msgstr "Тарихни тозалаш"
+
+msgid "Side Pane"
+msgstr "Ён ойна"
+
+msgid "Could not find '%s'."
+msgstr "'%s' топилмади."
+
+msgid "Could not display '%s', because the host could not be found."
+msgstr "Мезбон топилмаганлиги учун '%s'ни кўрсатиб бўлмади."
+
+msgid "You should have received a copy of the GNU General Public License along with Nautilus."
+msgstr "Сиз Nautilus билан бирга GNU General Public License нусхасини олган бўлиши керак."
+
+msgid "If not, write to the following address."
+msgstr "Агар шундай бўлмаса қуйидаги манзилга хабар қилинг."
+
+msgid "The file ‘%s’ does not exist."
+msgstr "'%s' файли мавжуд эмас."
+
+msgid "GUI Designers"
+msgstr "GUI Дизайнерлари"
+
+msgid "Fixed width:"
+msgstr "Эни ўзгармайдиган:"
+
+msgid "Variable width:"
+msgstr "Ўзгарувчан эн:"
+
+msgid "Printer %s does not support postscript printing."
+msgstr "%s принтери postscriptни босиб чиқара олмайди."
+
+msgid "the GNOME Support Forums"
+msgstr "GNOMEни қўллаб-қувватлаш форумлари"
+
+msgid "No results for '%s'"
+msgstr "'%s' учун натижа йўқ"
+
+msgid "Close Window"
+msgstr "Ойнани ёпиш"
+
+msgid "Edit Bookmarks"
+msgstr "Хатчўпларни таҳрирлаш"
+
+msgid "device"
+msgstr "ускуна"
+
+msgid "host"
+msgstr "мезбон"
+
+msgid "Get netstat information."
+msgstr "netstat маълумотини олиш."
+
+msgid "Valid options are: route, active, multicast."
+msgstr "Мумкин вариантлар: route, active, multicast."
+
+msgid "command"
+msgstr "буйруқ"
+
+msgid "user"
+msgstr "фойдаланувчи"
+
+msgid "domain"
+msgstr "домен"
+
+msgid "The file %s doesn't exist, please check if gnome-nettool is correctly installed"
+msgstr "%s файли мавжуд эмас, илтимос gnome-nettool тўғри ўрнатилганлигини текшириб кўринг"
+
+msgid "The address '%s' cannot be found"
+msgstr "'%s' манзили топилмади"
+
+msgid "Sending ping requests to %s"
+msgstr "%sга ping сўрови юборилмоқда"
+
+msgid "Scanning %s for open ports"
+msgstr "%sнинг очиқ портлари аниқланмоқда"
+
+msgid "Getting information of %s on '%s'"
+msgstr "%s учун '%s'дан маълумот олинмоқда"
+
+msgid "Getting information of all users on '%s'"
+msgstr "'%s'даги барча фойдаланувчилар маълумоти олинмоқда"
+
+msgid "Getting the whois information of %s"
+msgstr "%s ҳақида whois маълумоти олинмоқда"
+
+msgid "GNOME Font Viewer shows you the fonts installed on your computer for your use as thumbnails."
+msgstr "GNOME Шрифт Кўрувчи компьютерингизда ўрнатилган шрифтларни сизга миниатура сифатида кўрсатади."
+
+msgid "Selecting any thumbnails shows the full view of how the font would look under various sizes."
+msgstr "Бирор шрифт  миниатурасини танласангиз ўша шрифтни ҳар хил ўлчамдаги кўринишларини кўришингиз мумкин."
+
+msgid "GNOME Font Viewer also supports installing new font files downloaded in the ttf and other formats."
+msgstr "GNOME Шрифт Кўрувчи ttf ва бошқа форматларда юклаб олинган шрифтларни ўрнатишни қўллаб-қувватлайди."
+
+msgid "Fonts may be installed only for your use or made available to all users on the computer."
+msgstr "Шрифтларни фақат ўзингиз ёки компьютернинг барча фойдаланувчилари учун ўрнатса бўлади."
+
+msgid "Text"
+msgstr "Мант"
+
+msgid "SIZE"
+msgstr "ҲАЖМИ"
+
+msgid "FONT-FILE OUTPUT-FILE"
+msgstr "ШРИФТ-ФАЙЛИ ЧИҚИШ-ФАЙЛИ"
+
+msgid "Keyboard Shortcuts"
+msgstr "Клавиатура тугмалар бирикмаси:"
+
+msgid "There was an error while trying to get the addressbook information."
+msgstr "Манзиллар дафтаридан маълумот олиб бўлмади."
+
+msgid "Evolution Data Server can't handle the protocol."
+msgstr "Evolution маълумот сервери ушбу протоколни тушунмайди."
+
+msgid "Web"
+msgstr "Тармоқ"
+
+msgid "Assistant:"
+msgstr "Ёрдамчи:"
+
+msgid "Home:"
+msgstr "Уй:"
+
+msgid "P.O. box:"
+msgstr "Почта қутиси:"
+
+msgid "Work fax:"
+msgstr "Факс (иш):"
+
+msgid "Enable assistive technologies"
+msgstr "Ёрдамчи технологияларни ёқиш"
+
+msgid "Wallpaper"
+msgstr "Гулқоғоз"
+
+msgid "GNOME Theme %s correctly installed"
+msgstr "%s GNOME мавзуси муваффақиятли ўрнатилди"
+
+msgid "The theme '%s' has been installed."
+msgstr "'%s' мавзу ўрнатилди."
+
+msgid "Copying '%s'"
+msgstr "'%s' нусхачи кўчирилмоқда"
+
+msgid "UI Control"
+msgstr "Фойдаланувчи интерфейси бошқаруви"
+
+msgid "Couldn't find the file '%s'."
+msgstr "'%s' файлини топиб бўлмади."
+
+msgid "Please make sure it exists and try again, or choose a different background picture."
+msgstr "Илтимос унинг мавжудлигини текшириб кўринг ва қайта уриниб кўринг ёки бошқа фон расмини танланг."
+
+msgid "I don't know how to open the file '%s'."
+msgstr "'%s' файлини қандай очишни билмайман."
+
+msgid "Perhaps it's a kind of picture that is not yet supported."
+msgstr "Балки бу расм тури хали қўлланилмаслиги мумкин."
+
+msgid "Please select a different picture instead."
+msgstr "Илтимос бунинг ўрнига бошқа расм танланг."
+
+msgid "Refresh rate:"
+msgstr "Янгиланиш тезлиги:"
+
+msgid "Start %s"
+msgstr "%sни ишга тушириш"
+
+msgid "Written by Bahodir Mansurov"
+msgstr "Муаллиф: Баҳодир Мансуров"
+
+msgid "Unable to import AccessX settings from file '%s'"
+msgstr "'%s' файлидан AccessX параметрларини импорт қилиб бўлмади"
+
+msgid "Disable if unused for 10 days."
+msgstr "10 кун ишлатилмаса ўчириб қўй."
+
+msgid "Enable keyboard accessibility features"
+msgstr "Клавиатура махсус имкониятларини ёқиш"
+
+msgid "Go to Fonts Folder"
+msgstr "Шрифт жилдига ўтиш"
+
+msgid "The shortcut '%s' is already used for: '%s'"
+msgstr "'%s' ёрлиғи '%s' учун ишлатилмоқда"
+
+msgid "Enable system beep"
+msgstr "Тизим сигнал товушини ёқиш"
+
+msgid "Play system sounds"
+msgstr "Тизим товушларини ўйнаш"
+
+msgid "Load modmap files"
+msgstr "modmap файлларини юклаш"
+
+msgid "Would you like to load the modmap files?"
+msgstr "modmap файлларини юклашни истайсизми?"
+
+msgid "No bookmark found for URI '%s'"
+msgstr "URI '%s' учун хатчўп топилмади"
+
+msgid "The file %s is not a valid wav file"
+msgstr "%s файли яроқли wav файли эмас"
+
+msgid "Volume down's shortcut."
+msgstr "Товушни пасайтириш ёрлиғи."
+
+msgid "Volume mute's shortcut."
+msgstr "Овозни ўчириш ёрлиғи."
+
+msgid "Run screensaver at login"
+msgstr "Киришда экран лавҳасини ишга тушириш"
+
+msgid "Failed to mount %s."
+msgstr "%sни ўрнатиб бўлмади."
+
+msgid "No media in drive for device '%s'."
+msgstr "'%s' қурилмаси учун маълумот ташувчи топилмади."
+
+msgid "could not find user '%s' on system"
+msgstr "'%s' фойдаланувчини системада топиб бўлмади"
+
+msgid "Couldn't set groupid to %d"
+msgstr "groupidни %d қилиб ўрнатиб бўлмади"
+
+msgid "%s: Error setting %s to %s"
+msgstr "%s: %sни %s қилиб ўрнатишда хатолик"
+
+msgid "The display device"
+msgstr "Дисплей ускунаси"
+
+msgid "Could not create socket!"
+msgstr "Сокетни яратиб бўлмади!"
+
+msgid "GNOME Shell"
+msgstr "GNOME Shell"
+
+msgid "Unable to create transient display:"
+msgstr "Ўткинчи дисплейни яратиб бўлмади:"
+
+msgid "Unable to activate session:"
+msgstr "Сессияни фаоллаштириб бўлмади:"
+
+msgid "COMMAND"
+msgstr "БУЙРУҚ"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Computer Name"
+msgstr "Компьютернинг номи"
+
+msgid "class"
+msgstr "тур"
+
+msgid "name"
+msgstr "номи"
+
+msgid "X display to use"
+msgstr "Фойдаланиш учун X дисплейи"
+
+msgid "display"
+msgstr "дисплей"
+
+msgid "flags"
+msgstr "байроқлар"
+
+msgid "colors"
+msgstr "ранглар"
+
+msgid "Starting %s"
+msgstr "%s ишга туширилмоқда"
+
+msgid "Opening %s"
+msgstr "%s очилмоқда"
+
+msgid "Right"
+msgstr "Ўнг"
+
+msgid "Ascending"
+msgstr "Ўсиш бўйича"
+
+msgid "Size:"
+msgstr "Ўлчами:"
+
+msgid "MODULES"
+msgstr "МОДУЛЛАР"
+
+msgid "Preparing %d"
+msgstr "%d тайёрланмоқда"
+
+msgid "Printing %d"
+msgstr "%d чоп этилмоқда"
+
+msgid "No item for URI '%s' found"
+msgstr "URI '%s' учун элемент топилмади"
+
+msgid "Open '%s'"
+msgstr "'%s' ни очиш"
+
+msgid "Unable to find an item with URI '%s'"
+msgstr "«%s» URIли элементни топиб бўлмади"
+
+msgid "kahu Envelope"
+msgstr "Конверт кahu"
+
+msgid "Failed to open file %s : %s"
+msgstr "%s файлини очиб бўлмади : %s"
+
+msgid "Could not rename %s to %s: %s"
+msgstr "%s файли %s сифатида номини ўзгартириб бўлмади: %s"
+
+msgid "Could not rename %s back to %s: %s."
+msgstr "%s файлини %s сифатида қайта номлаб бўлмади: %s"
+
+msgid "Don't check for the existence of index.theme"
+msgstr "index.themeнинг мавжудлиги текширилмасин"
+
+msgid "Add the folder '%s' to the bookmarks"
+msgstr "'%s' жилдини хатчўпларга қўшиш"
+
+msgid "Remove the bookmark '%s'"
+msgstr "'%s' хатчўпини олиб ташлаш"
+
+msgid "Shortcut %s already exists"
+msgstr "%s ёрлиғи аллақачон мавжуд"
+
+msgid "Shortcut %s does not exist"
+msgstr "%s ёрлиғи мавжуд эмас"
+
+msgid "Could not mount %s"
+msgstr "%sни ўрнатиб бўлмади"
+
+msgid "Error creating folder '%s': %s"
+msgstr "'%s' жилдини яратишда хатолик юз берди: %s"
+
+msgid "Could not get information for file '%s': %s"
+msgstr "'%s' файли учун маълумот олиб бўлмади: %s"
+
+msgid "Failed to load image '%s': reason not known, probably a corrupt image file"
+msgstr "'%s' расмини юклаб бўлмади: сабаби номаълум, балки расм файли бузуқ бўлиши мумкин"
+
+msgid "Failed to load animation '%s'."
+msgstr "'%s' анимациясини юклаб бўлмади."
+
+msgid "Reason not known, probably a corrupt animation file"
+msgstr "сабаби номаълум, балки анимация файли бузуқдир"
+
+msgid "Printer '%s' may not be connected."
+msgstr "'%s' принтер уланмаган бўлиши мумкин."
+
+msgid "Really delete file '%s'?"
+msgstr "'%s' файли ростдан ҳам ўчирилсинми?"
+
+msgid "Rename file '%s' to:"
+msgstr "'%s' файлини номини қуйидагига ўзгартириш:"
+
+msgid "Invalid '%s' URI: %s"
+msgstr "Яроқсиз URI '%s': '%s'"
