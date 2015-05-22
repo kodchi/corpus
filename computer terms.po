@@ -1,0 +1,3453 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: Computer terminology\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team:  <6ahodir@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uz_UZ\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Link underlining:"
+msgstr "Ҳавола тагига чизиш:"
+
+msgid "Hide minor edits from recent changes"
+msgstr "Янги ўзгаришлардан кичик таҳрирларни яшириш"
+
+msgid "Hide patrolled edits from recent changes"
+msgstr "Янги ўзгаришлардан текширилган таҳрирларни яшириш"
+
+msgid "Hide patrolled pages from new page list"
+msgstr "Янги саҳифалар рўйхатидан текширилган саҳифаларни яшириш"
+
+msgid "Expand watchlist to show all changes, not just the most recent"
+msgstr "Фақат охирги пайтдаги эмас, балки барча ўзгаришларни кўрсатиш учун кузатув рўйхатини кенгайтириш"
+
+msgid "Group changes by page in recent changes and watchlist"
+msgstr "Янги ўзгаришлар ва кузатув рўйхатидаги ўзгаришларни саҳифалар бўйича гуруҳларга бўлиш"
+
+msgid "Auto-number headings"
+msgstr "Сарлавҳаларни автоматик рақамлаш"
+
+msgid "Show edit toolbar"
+msgstr "Таҳрирлаш асбобларини кўрсатиш"
+
+msgid "Edit pages on double click"
+msgstr "Сичқончанинг тугмасини икки марта босиб таҳрирлаш"
+
+msgid "Enable section editing by right clicking on section titles"
+msgstr "Бўлим сарлавҳасига сичқончанинг ўнг тугмасини босиб бўлимни таҳрирлашни ёқиш"
+
+msgid "Add pages I create and files I upload to my watchlist"
+msgstr "Мен яратган саҳифалар ва юклаган файллар кузатув рўйхатимга қўшилсин"
+
+msgid "Add pages and files I edit to my watchlist"
+msgstr "Мен таҳрирлаган саҳифа ва файллар кузатув рўйхатимга қўшилсин"
+
+msgid "Add pages and files I move to my watchlist"
+msgstr "Мен кўчирган саҳифа ва файллар кузатув рўйхатимга қўшилсин"
+
+msgid "Add pages and files I delete to my watchlist"
+msgstr "Мен ўчирган саҳифа ва файллар кузатув рўйхатимга қўшилсин"
+
+msgid "Mark all edits minor by default"
+msgstr "Барча таҳрирларимни сукут бўйича \"кичкина\" этиб белгилаш"
+
+msgid "Show preview before edit box"
+msgstr "Таҳрирлаш майдонидан олдин кўриб чиқишни намойиш этиш"
+
+msgid "Show preview on first edit"
+msgstr "Биринчи таҳрирдаёқ кўриб чиқишни намойиш этиш"
+
+msgid "Email me when a page or file on my watchlist is changed"
+msgstr "Кузатув рўйхатимдаги саҳифа ёки файл ўзгартирилганда менга электрон хат юборилсин"
+
+msgid "Email me when my user talk page is changed"
+msgstr "Мунозара саҳифам ўзгартирилганда менга электрон хат юборилсин"
+
+msgid "Email me also for minor edits of pages and files"
+msgstr "Саҳифа ва файллар кичик таҳрир қилинса ҳам менга электрон хат юборилсин"
+
+msgid "Reveal my email address in notification emails"
+msgstr "Хабар берувчи хатларда э-почта манзилим ошкор этилсин"
+
+msgid "Show the number of watching users"
+msgstr "Саҳифани кузатаётган фойдаланувчилар сонини кўрсатиш"
+
+msgid "Existing signature:"
+msgstr "Мавжуд имзо:"
+
+msgid "Treat signature as wikitext (without an automatic link)"
+msgstr "Имзо вики-текст сифатида талқин қилинсин (автоматик ҳаволасиз)"
+
+msgid "Use live preview"
+msgstr "Жонли кўриб чиқишни ишлатиш"
+
+msgid "Prompt me when entering a blank edit summary"
+msgstr "Таҳрир ҳақида қисқа баён бўш бўлганда менга билдирилсин"
+
+msgid "Hide my edits from the watchlist"
+msgstr "Таҳрирларим кузатув рўйхатидан яширилсин"
+
+msgid "Hide bot edits from the watchlist"
+msgstr "Ботлар қилган таҳрирлар кузатув рўйхатида кўрсатилмасин"
+
+msgid "Hide minor edits from the watchlist"
+msgstr "Кичик таҳрирлар кузатув рўйхатида кўрсатилмасин"
+
+msgid "Hide edits by logged in users from the watchlist"
+msgstr "Тизимга кирган фойдаланувчилар таҳрирлари кузатув рўйхатида кўрсатилмасин"
+
+msgid "Hide edits by anonymous users from the watchlist"
+msgstr "Аноним фойдаланувчилар таҳрирлари кузатув рўйхатида кўрсатилмасин"
+
+msgid "Hide patrolled edits from the watchlist"
+msgstr "Текширилган таҳрирлар кузатув рўйхатида кўрсатилмасин"
+
+msgid "Send me copies of emails I send to other users"
+msgstr "Бошқа иштирокчиларга ёзган хатларимнинг нусхаси ўзимга юборилсин"
+
+msgid "Do not show page content below diffs"
+msgstr "Версиялар таққослари пастида саҳифа матни кўрсатилмасин"
+
+msgid "Show hidden categories"
+msgstr "Яширин туркумларни кўрсатиш"
+
+msgid "Omit diff after performing a rollback"
+msgstr "Таҳрир қайтарилганда, версиялар таққоси ташлаб ўтилсин"
+
+msgid "Warn me when I leave an edit page with unsaved changes"
+msgstr "Ўзгаришларни сақламай саҳифадан чиқиб кетаётганим ҳақида огоҳлантир"
+
+msgid "Always use a secure connection when logged in"
+msgstr "Тизимга кирганда доим хавфсиз алоқа ишлатилсин"
+
+msgid "Always"
+msgstr "Ҳар доим"
+
+msgid "Never"
+msgstr "Ҳеч қачон"
+
+msgid "Skin or browser default"
+msgstr "Қобиқ ёки браузер сукути бўйича"
+
+msgid "Edit area font style:"
+msgstr "Таҳрирлаш майдонидаги шрифт тури:"
+
+msgid "Browser default"
+msgstr "Браузер сукути бўйича"
+
+msgid "Monospaced font"
+msgstr "Тенг энли шрифт"
+
+msgid "Sans-serif font"
+msgstr "Кертиксиз шрифт"
+
+msgid "Serif font"
+msgstr "Кертикли шрифт"
+
+msgid "Sunday"
+msgstr "Якшанба"
+
+msgid "Monday"
+msgstr "Душанба"
+
+msgid "Tuesday"
+msgstr "Сешанба"
+
+msgid "Wednesday"
+msgstr "Чоршанба"
+
+msgid "Thursday"
+msgstr "Пайшанба"
+
+msgid "Friday"
+msgstr "Жума"
+
+msgid "Saturday"
+msgstr "Шанба"
+
+msgid "Sun"
+msgstr "Як"
+
+msgid "Mon"
+msgstr "Дш"
+
+msgid "Tue"
+msgstr "Сш"
+
+msgid "Wed"
+msgstr "Чр"
+
+msgid "Thu"
+msgstr "Пай"
+
+msgid "Fri"
+msgstr "Жум"
+
+msgid "Sat"
+msgstr "Шн"
+
+msgid "January"
+msgstr "Январ"
+
+msgid "February"
+msgstr "Феврал"
+
+msgid "March"
+msgstr "Март"
+
+msgid "April"
+msgstr "Апрел"
+
+msgid "May"
+msgstr "Май"
+
+msgid "June"
+msgstr "Июн"
+
+msgid "July"
+msgstr "Июл"
+
+msgid "August"
+msgstr "Август"
+
+msgid "September"
+msgstr "Сентабр"
+
+msgid "October"
+msgstr "Октабр"
+
+msgid "November"
+msgstr "Ноябр"
+
+msgid "December"
+msgstr "Декабр"
+
+msgid "Jan"
+msgstr "Ян"
+
+msgid "Feb"
+msgstr "Фев"
+
+msgid "Mar"
+msgstr "Мар"
+
+msgid "Apr"
+msgstr "Апр"
+
+msgid "Jun"
+msgstr "Жйн"
+
+msgid "Jul"
+msgstr "Ийл"
+
+msgid "Aug"
+msgstr "Авг"
+
+msgid "Sep"
+msgstr "Сен"
+
+msgid "Oct"
+msgstr "Окт"
+
+msgid "Nov"
+msgstr "Ной"
+
+msgid "Dec"
+msgstr "Дек"
+
+msgid "January $1"
+msgstr "Январ $1"
+
+msgid "February $1"
+msgstr "Феврал $1"
+
+msgid "March $1"
+msgstr "Март $1"
+
+msgid "April $1"
+msgstr "Апрел $1"
+
+msgid "May $1"
+msgstr "$1-май"
+
+msgid "June $1"
+msgstr "Июн $1"
+
+msgid "July $1"
+msgstr "Июл $1"
+
+msgid "August $1"
+msgstr "Август $1"
+
+msgid "September $1"
+msgstr "Сентабр $1"
+
+msgid "October $1"
+msgstr "Октабр $1"
+
+msgid "November $1"
+msgstr "Ноябр $1"
+
+msgid "December $1"
+msgstr "Декабр $1"
+
+msgid "Categories"
+msgstr "Туркумлар"
+
+msgid "Pages in category \"$1\""
+msgstr "\"$1\" туркумидаги саҳифалар"
+
+msgid "Subcategories"
+msgstr "Осттуркумлар"
+
+msgid "Media in category \"$1\""
+msgstr "\"$1\" туркумидаги медиа файллар"
+
+msgid "This category currently contains no pages or media."
+msgstr "Ушбу туркумда ҳозирча саҳифа ёки медиа файллар йўқ."
+
+msgid "Hidden category"
+msgstr "Яширин туркум"
+
+msgid "Hidden categories"
+msgstr "Яширин туркумлар"
+
+msgid "This category has only the following subcategory."
+msgstr "Ушбу туркумда фақат қуйидаги осттуркум мавжуд."
+
+msgid "This category has the following $1 subcategories out of $2 total."
+msgstr "Қуйида ушбу туркумга кирувчи жами $2та осттуркумдан $1таси кўрсатилган."
+
+msgid "This category has the following $1 subcategory."
+msgstr "Ушбу туркумда қуйидаги $1 та осттуркум мавжуд."
+
+msgid "This category contains only the following page."
+msgstr "Ушбу туркум фақат қуйидаги саҳифадан иборат."
+
+msgid "The following $1 page is in this category, out of $2 total."
+msgstr "Қуйида ушбу туркумга кирувчи жами $2та саҳифадан $1таси кўрсатилган."
+
+msgid "The following $1 page is in the current category."
+msgstr "Жорий туркумда қуйидаги $1та саҳифа мавжуд."
+
+msgid "This category contains only the following file."
+msgstr "Ушбу туркум фақат қуйидаги файлни ўз ичига олади."
+
+msgid "The following $1 files are in this category, out of $2 total."
+msgstr "Қуйида ушбу туркумга кирувчи жами $2та файлдан $1таси кўрсатилган."
+
+msgid "The following $1 files are in the current category."
+msgstr "Жорий туркумда қуйидаги $1та файл мавжуд."
+
+msgid "cont."
+msgstr "давоми"
+
+msgid "Indexed pages"
+msgstr "Индексланган саҳифалар"
+
+msgid "Noindexed pages"
+msgstr "Индексланмаган саҳифалар"
+
+msgid "Pages with broken file links"
+msgstr "Ишламайдиган ҳаволалари бор саҳифалар"
+
+msgid "About"
+msgstr "Ҳақида"
+
+msgid "Content page"
+msgstr "Таркиб саҳифа"
+
+msgid "(opens in new window)"
+msgstr "(янги ойнада очилади)"
+
+msgid "Cancel"
+msgstr "Бекор қилиш"
+
+msgid "More..."
+msgstr "Батафсил..."
+
+msgid "This list is not complete."
+msgstr "Бу рўйхат тўлиқ эмас."
+
+msgid "Page"
+msgstr "Саҳифа"
+
+msgid "Talk"
+msgstr "Мунозара"
+
+msgid "Talk for this IP address"
+msgstr "Ушбу IP манзил учун мунозара"
+
+msgid "Navigation"
+msgstr "Сайтда ҳаракатланиш"
+
+msgid "Find"
+msgstr "Топиш"
+
+msgid "Browse"
+msgstr "Кўриб чиқиш"
+
+msgid "Edit"
+msgstr "Таҳрирлаш"
+
+msgid "My pages"
+msgstr "Саҳифаларим"
+
+msgid "FAQ"
+msgstr "ТСС"
+
+msgid "Project: FAQ"
+msgstr "Лойиҳа: ТСС"
+
+msgid "Actions"
+msgstr "Амаллар"
+
+msgid "Namespaces"
+msgstr "Номфазолар"
+
+msgid "Variants"
+msgstr "Вариантлар"
+
+msgid "Navigation menu"
+msgstr "Навигация менюси"
+
+msgid "Error"
+msgstr "Хато"
+
+msgid "Return to $1."
+msgstr "$1га қайтиш."
+
+msgid "From {{SITENAME}}"
+msgstr "{{SITENAME}}дан"
+
+msgid "Help"
+msgstr "Ёрдам"
+
+msgid "Search"
+msgstr "Қидириш"
+
+msgid "Go"
+msgstr "Ўтиш"
+
+msgid "Page history"
+msgstr "Саҳифа тарихи"
+
+msgid "History"
+msgstr "Тарих"
+
+msgid "updated since my last visit"
+msgstr "охирги ташрифимдан кейинги ўзгаришлар"
+
+msgid "Printable version"
+msgstr "Босма учун версия"
+
+msgid "Permanent link"
+msgstr "Доимий ҳавола"
+
+msgid "Print"
+msgstr "Чоп этиш"
+
+msgid "View"
+msgstr "Кўриш"
+
+msgid "View on $1"
+msgstr "$1да кўриш"
+
+msgid "Create"
+msgstr "Яратиш"
+
+msgid "Add local description"
+msgstr "Маҳаллий тавсифини қўшиш"
+
+msgid "Edit this page"
+msgstr "Ушбу саҳифани таҳрирлаш"
+
+msgid "Create this page"
+msgstr "Ушбу саҳифани яратиш"
+
+msgid "Delete"
+msgstr "Ўчириш"
+
+msgid "Delete this page"
+msgstr "Ушбу саҳифани ўчириш"
+
+msgid "Undelete this page"
+msgstr "Ушбу саҳифани тиклаш"
+
+msgid "Undelete one edit"
+msgstr "Битта таҳрирни тиклаш"
+
+msgid "View $1 deleted edits"
+msgstr "$1та ўчирилган таҳрирни кўриш"
+
+msgid "Protect"
+msgstr "Ҳимоялаш"
+
+msgid "change"
+msgstr "ўзгартириш"
+
+msgid "Protect this page"
+msgstr "Ушбу саҳифани ҳимоялаш"
+
+msgid "Change protection"
+msgstr "Ҳимояни ўзгартириш"
+
+msgid "Change protection of this page"
+msgstr "Ушбу саҳифанинг ҳимоясини ўзгаритиш"
+
+msgid "New page"
+msgstr "Янги саҳифа"
+
+msgid "Discuss this page"
+msgstr "Ушбу саҳифани мунозара қилиш"
+
+msgid "Special page"
+msgstr "Махсус саҳифа"
+
+msgid "Personal tools"
+msgstr "Шахсий ускуналар"
+
+msgid "View content page"
+msgstr "Мақолани кўриб чиқиш"
+
+msgid "Discussion"
+msgstr "Мунозара"
+
+msgid "Views"
+msgstr "Қарашлар"
+
+msgid "Tools"
+msgstr "Асбоблар"
+
+msgid "View user page"
+msgstr "Фойдаланувчи саҳифасини кўриш"
+
+msgid "View project page"
+msgstr "Лойиҳа саҳифасини кўриш"
+
+msgid "View file page"
+msgstr "Файл саҳифасини кўриш"
+
+msgid "View message page"
+msgstr "Хабар саҳифасини кўриш"
+
+msgid "View template page"
+msgstr "Андоза саҳифасини кўриш"
+
+msgid "View help page"
+msgstr "Ёрдам саҳифасини кўриш"
+
+msgid "View category page"
+msgstr "Туркум саҳифасини кўриш"
+
+msgid "View discussion"
+msgstr "Мунозарани кўриш"
+
+msgid "In other languages"
+msgstr "Бошқа тилларда"
+
+msgid "(Redirected from $1)"
+msgstr "($1дан йўналтирилди)"
+
+msgid "Redirect page"
+msgstr "Йўналтирувчи саҳифа"
+
+msgid "Redirect to:"
+msgstr "Ушбуга йўналтириш:"
+
+msgid "This page was last modified on $1, at $2."
+msgstr "Бу саҳифа охирги марта $1, $2да ўзгартирилган."
+
+msgid "This page has been accessed once."
+msgstr "Бу саҳифага бир марта мурожаат қилинган."
+
+msgid "Protected page"
+msgstr "Ҳимояланган саҳифа"
+
+msgid "Jump to:"
+msgstr "Сакраб ўтиш:"
+
+msgid "navigation"
+msgstr "сайтда ҳаракатланиш"
+
+msgid "search"
+msgstr "қидириш"
+
+msgid "Sorry, the servers are overloaded at the moment."
+msgstr "Узр, айни пайтда серверларга ортиқча юк тушган."
+
+msgid "Too many users are trying to view this page."
+msgstr "Бу саҳифани бирданига кўпчилик кўрмоқчи бўляпти."
+
+msgid "Please wait a while before you try to access this page again."
+msgstr "Илтимос, бироз кутиб туринг ва кейин бошқатдан киришга уриниб кўринг."
+
+msgid "Timeout waiting for the lock"
+msgstr "Қулфни кутиш вақти тугади"
+
+msgid "Pool queue is full"
+msgstr "Сўровлар жамланмаси тўла"
+
+msgid "Unknown error"
+msgstr "Номаълум хато"
+
+msgid "Usage error: $1"
+msgstr "Фойдаланиш хатоси: $1"
+
+msgid "About {{SITENAME}}"
+msgstr "{{SITENAME}} ҳақида"
+
+msgid "Project:About"
+msgstr "Проект:Ҳақида"
+
+msgid "Content is available under $1 unless otherwise noted."
+msgstr "Келтирилган маълумотлар $1 орқали тарқатилмоқда (агар аксинчаси кўрсатилмаган бўлса)."
+
+msgid "Copyrights"
+msgstr "Муаллифлик ҳуқуқлари"
+
+msgid "Current events"
+msgstr "Жорий ҳодисалар"
+
+msgid "Project:Current events"
+msgstr "Проект:Жорий ҳодисалар"
+
+msgid "Disclaimers"
+msgstr "Масъулиятдан воз кечиш"
+
+msgid "Project:General disclaimer"
+msgstr "Проект:Умумий масъулиятдан воз кечиш"
+
+msgid "Editing help"
+msgstr "Таҳрирлаш ёрдами"
+
+msgid "Main page"
+msgstr "Бош саҳифа"
+
+msgid "Project:Policy"
+msgstr "Проект:Сиёсат"
+
+msgid "Community portal"
+msgstr "Жамоа портали"
+
+msgid "Project:Community portal"
+msgstr "Проект:Жамоа портали"
+
+msgid "Privacy policy"
+msgstr "Махфийлик сиёсати"
+
+msgid "Project:Privacy policy"
+msgstr "Проект:Махфийлик сиёсати"
+
+msgid "Permission error"
+msgstr "Рухсат хатоси"
+
+msgid "You are not allowed to execute the action you have requested."
+msgstr "Сизда сўраган амалингизни бажариш ҳуқуқи йўқ."
+
+msgid "The action you have requested is limited to users in the group: $1."
+msgstr "Сўралган амалларни $1 гуруҳи фойдаланувчиларигина амалга ошириши мумкин."
+
+msgid "Version $1 of MediaWiki required"
+msgstr "$1 версиясидаги MediaWiki талаб этилади"
+
+msgid "Version $1 of MediaWiki is required to use this page."
+msgstr "Бу саҳифадан фойдаланиш учун MediaWikiнинг $1-версияси талаб этилади."
+
+msgid "See [[Special:Version|version page]]."
+msgstr "[[Special:Version|версия саҳифаси]]ни кўринг."
+
+msgid "OK"
+msgstr "Хўп"
+
+msgid "Retrieved from \"$1\""
+msgstr "\"$1\" дан олинди"
+
+msgid "You have $1."
+msgstr "Сизга $1 келди."
+
+msgid "You have $1 from another user."
+msgstr "Сиз бошқа фойдаланувчидан $1ни олдингиз."
+
+msgid "You have $1 from many users ($2)."
+msgstr "Сиз кўп фойдаланувчилардан $1ни олдингиз ($2)."
+
+msgid "a new message"
+msgstr "янги хабар"
+
+msgid "new messages"
+msgstr "янги хабарлар"
+
+msgid "last change"
+msgstr "охирги ўзгариш"
+
+msgid "last changes"
+msgstr "охирги ўзгаришлар"
+
+msgid "You have new messages on $1"
+msgstr "Сиз $1га янги хат олдингиз"
+
+msgid "edit"
+msgstr "таҳрирлаш"
+
+msgid "view source"
+msgstr "манбасини кўриш"
+
+msgid "Edit section: $1"
+msgstr "Бўлимни таҳрирлаш: $1"
+
+msgid "Contents"
+msgstr "Мундарижа"
+
+msgid "show"
+msgstr "кўрсатиш"
+
+msgid "hide"
+msgstr "яшириш"
+
+msgid "Collapse"
+msgstr "Йиғиш"
+
+msgid "Expand"
+msgstr "Ёйиш"
+
+msgid "Are you sure?"
+msgstr "Аминмисиз?"
+
+msgid "Yes"
+msgstr "Ҳа"
+
+msgid "No"
+msgstr "Йўқ"
+
+msgid "View or restore $1?"
+msgstr "$1ни кўрасизми ёки тиклайсизми?"
+
+msgid "View $1?"
+msgstr "$1ни кўрасизми?"
+
+msgid "one deleted edit"
+msgstr "ўчирилган таҳрир"
+
+msgid "deleted edits"
+msgstr "ўчирилган таҳрирлар"
+
+msgid "Feed:"
+msgstr "Тасма:"
+
+msgid "Invalid subscription feed type."
+msgstr "Обуна учун яроқсиз турдаги канал."
+
+msgid "Syndication feeds are not available"
+msgstr "Синдикация тасмалари мавжув эмас"
+
+msgid "$1 RSS feed"
+msgstr "$1 — RSS тасмаси"
+
+msgid "$1 Atom feed"
+msgstr "$1 — Атом тасма"
+
+msgid "\"$1\" RSS feed"
+msgstr "\"$1\" — RSS тасма"
+
+msgid "\"$1\" Atom feed"
+msgstr "\"$1\" — Атом тасма"
+
+msgid "$1 (page does not exist)"
+msgstr "$1 (саҳифа мавжуд эмас)"
+
+msgid "Sort descending"
+msgstr "Камайиш бўйича тартиблаш"
+
+msgid "Sort ascending"
+msgstr "Ўсиш бўйича тартиблаш"
+
+msgid "User page"
+msgstr "Фойдаланувчи саҳифаси"
+
+msgid "Media page"
+msgstr "Медиа саҳифаси"
+
+msgid "Project page"
+msgstr "Проект саҳифаси"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Message"
+msgstr "Хабар"
+
+msgid "Template"
+msgstr "Андоза"
+
+msgid "Help page"
+msgstr "Ёрдам саҳифаси"
+
+msgctxt ""
+msgid "Category"
+msgstr "Туркум"
+
+msgid "No such action"
+msgstr "Бундай амал йўқ"
+
+msgid "No such special page"
+msgstr "Бундай махсус саҳифа йўқ"
+
+msgid "Database error"
+msgstr "Маълумотлар базасида хатолик"
+
+msgid "Query: $1"
+msgstr "Сўров: $1"
+
+msgid "Function: $1"
+msgstr "Функция: $1"
+
+msgid "Error: $1"
+msgstr "Хато: $1"
+
+msgid "Warning: Page may not contain recent updates."
+msgstr "Диққат: саҳифада янги ўзгаришлар кўрсатилмаган бўлиши мумкин."
+
+msgid "Database locked"
+msgstr "Маълумотлар базаси қулфланган"
+
+msgid "(revision#: $1)"
+msgstr "(версия №: $1)"
+
+msgid "(Diff: $1, $2)"
+msgstr "(Фарқ: $1, $2)"
+
+msgid "Internal error"
+msgstr "Ички хато"
+
+msgid "Internal error: $1"
+msgstr "Ички хато: $1"
+
+msgid "Could not copy file \"$1\" to \"$2\"."
+msgstr "\"$1\" файл нусхасини \"$2\"га кўчириб бўлмади."
+
+msgid "Could not rename file \"$1\" to \"$2\"."
+msgstr "Файл номини «$1»дан «$2»га ўзгартириб бўлмади."
+
+msgid "Could not delete file \"$1\"."
+msgstr "\"$1\" файлини ўчириб бўлмади."
+
+msgid "Could not create directory \"$1\"."
+msgstr "\"$1\" каталогини яратиб бўлмади."
+
+msgid "Directory \"$1\" is read-only."
+msgstr "\"$1\" каталоги фақат ўқиш учун мўлжалланган."
+
+msgid "Could not find file \"$1\"."
+msgstr "\"$1\" файлини топиб бўлмади."
+
+msgid "Unexpected value: \"$1\"=\"$2\"."
+msgstr "Кутилмаган қиймат: \"$1\"=\"$2\"."
+
+msgid "Error: Could not submit form."
+msgstr "Хатолик: Формани жўнатиб бўлмади."
+
+msgid "This action cannot be performed on this page."
+msgstr "Бу ҳаракатни ушбу саҳифада бажариб бўлмайди."
+
+msgid "Cannot delete page \"$1\""
+msgstr "\"$1\" саҳифасини ўчириб бўлмайди."
+
+msgid "Bad title"
+msgstr "Нотўғри сарлавҳа"
+
+msgid "View source"
+msgstr "Манбани кўриш"
+
+msgid "View source for $1"
+msgstr "$1нинг манбасини кўриш"
+
+msgid "Action throttled"
+msgstr "Ҳаракат тезлиги чекланган"
+
+msgid "This page has been protected to prevent editing or other actions."
+msgstr "Бу саҳифа таҳрирлаш ёки бошқа ҳаракатлардан ҳимояланган."
+
+msgid "You can view and copy the source of this page:"
+msgstr "Сиз ушбу саҳифанинг манбасини кўришингиз ва унинг нусхасини олишингиз мумкин:"
+
+msgid "This page provides interface text for the software on this wiki, and is protected to prevent abuse."
+msgstr "Ушбу саҳифада дастурий таъминот интерфейси матни бор бўлиб безориликлардан сақлаш учун уни ўзгартириш таъқиқланган."
+
+msgid "To add or change translations for all wikis, please use [//translatewiki.net], the MediaWiki localisation project."
+msgstr "Барча викилар учун таржималарни қўшиш ёки ўзгартириш учун, илтимос, MediaWikiнинг [//translatewiki.net] маҳаллийлаштириш сайтидан фойдаланинг."
+
+msgid "<strong>Warning:</strong> You are editing a page that is used to provide interface text for the software."
+msgstr "<strong>Диққат:</strong> Сиз дастурий таъминот интерфейси матни мавжуд бўлган саҳифани таҳрирламоқдасиз."
+
+msgid "Changes to this page will affect the appearance of the user interface for other users on this wiki."
+msgstr "Бу саҳифа ўзгаришлари ушбу викидаги бошқа фойдаланувчилар учун ҳам интерфейс ўзгаришига олиб келади."
+
+msgid "You do not have permission to edit pages in the $1 namespace."
+msgstr "Сизда $1 номфазоси саҳифаларини таҳрирлаш ҳуқуқи йўқ"
+
+msgid "You do not have permission to edit this CSS page because it contains another user's personal settings."
+msgstr "Сизда ушбу CSS саҳифани таҳрирлаш ҳуқуқи йўқ, чунки бу ерда бошқа фойдаланувчининг шахсий мосламалари сақланади."
+
+msgid "You do not have permission to edit this JavaScript page because it contains another user's personal settings."
+msgstr "Сизда ушбу JavaScript саҳифани таҳрирлаш ҳуқуқи йўқ, чунки бу ерда бошқа фойдаланувчининг шахсий мосламалари сақланади."
+
+msgid "You do not have permission to edit this JavaScript page."
+msgstr "Сизда ушбу JavaScript саҳифани таҳрирлашга рухсат мавжуд эмас."
+
+msgid "You do not have permission to edit your private information."
+msgstr "Сизда шахсий маълумотларингизни таҳрирлашга рухсат мавжуд эмас."
+
+msgid "You do not have permission to edit your preferences."
+msgstr "Сизда афзалликларингизни таҳрирлашга рухсат мавжуд эмас."
+
+msgid "Special pages cannot be edited."
+msgstr "Махсус номфазоси саҳифаларини таҳрирлаб бўлмайди."
+
+msgid "Not logged in"
+msgstr "Тизимга кирилмаган"
+
+msgid "Please log in to be able to access this page or action."
+msgstr "Бу саҳифани кўриш ёки амални бажариш учун илтимос тизимга киринг."
+
+msgid "Bad configuration: Unknown virus scanner: $1"
+msgstr "Яроқсиз мосламада: Номаълум вирус аниқловчи: $1"
+
+msgid "unknown antivirus:"
+msgstr "номаълум антивирус:"
+
+msgid "You are now logged out."
+msgstr "Сиз сайтдан муваффақиятли чиқдингиз."
+
+msgid "Note that some pages may continue to be displayed as if you were still logged in, until you clear your browser cache."
+msgstr "Унутманг, браузерингиз кешини тозаламагунингизгача айрим саҳифалар тизимга кирганингиздек кўринишда давом этавериши мумкин."
+
+msgid "Welcome, $1!"
+msgstr "Хуш келибсиз, $1!"
+
+msgid "Username"
+msgstr "Фойдаланувчи номи"
+
+msgid "Enter your username"
+msgstr "Фойдаланувчи номингизни киритинг"
+
+msgid "Enter the username"
+msgstr "Фойдаланувчи номини киритинг"
+
+msgid "Password"
+msgstr "Махфий сўз"
+
+msgid "Enter your password"
+msgstr "Махфий сўзингизни киритинг"
+
+msgid "Enter a password"
+msgstr "Махфий сўзни киритинг"
+
+msgid "Retype password:"
+msgstr "Махфий сўзни қайта киритинг:"
+
+msgid "Confirm password"
+msgstr "Махфий сўзни тасдиқланг"
+
+msgid "Enter password again"
+msgstr "Махфий сўзни яна бир бор киритинг"
+
+msgid "Remember my login on this browser (for a maximum of $1 day)"
+msgstr "Ҳисоб маълумотларим ушбу браузерда эслаб қолинсин (кўпи билан $1 кунга)"
+
+msgid "Keep me logged in"
+msgstr "Ҳисобим тизимга кирган ҳолда қолсин"
+
+msgid "Use secure connection"
+msgstr "Хавфсиз уланишни ишлатиш"
+
+msgid "Your domain:"
+msgstr "Сизнинг доменингиз:"
+
+msgid "You cannot change passwords on this wiki."
+msgstr "Сиз бу викида махфий сўзларни ўзгартира олмайсиз."
+
+msgid "Log in"
+msgstr "Тизимга кириш"
+
+msgid "Log in / create account"
+msgstr "Тизимга кириш / Ҳисоб яратиш"
+
+msgid "Log out"
+msgstr "Тизимдан чиқиш"
+
+msgid "Don't have an account?"
+msgstr "Ҳисоб ёзувингиз йўқми?"
+
+msgid "Join {{SITENAME}}"
+msgstr "{{SITENAME}}га қўшилиш"
+
+msgid "Don't have an account? $1."
+msgstr "Ҳисоб ёзувингиз йўқми? $1."
+
+msgid "Create an account"
+msgstr "Ҳисоб ёзуви яратиш"
+
+msgid "Create account"
+msgstr "Ҳисоб ёзуви яратиш"
+
+msgid "Already have an account? $1."
+msgstr "Аллақачон ҳисоб ёзувингиз борми? $1."
+
+msgid "Forgotten your login details?"
+msgstr "Кириш маълумотларингиз эсингиздан чиқдими?"
+
+msgid "Forgot your password?"
+msgstr "Махфий сўзни унутиб қўйдингизми?"
+
+msgid "Help with logging in"
+msgstr "Кириш учун ёрдам"
+
+msgid "You are already logged in as $1."
+msgstr "Сиз аллақачон $1 номи билан киргансиз."
+
+msgid "Use the form below to log in as another user."
+msgstr "Бошқа фойдаланувчи сифатида кириш учун қуйидаги формадан фойдаланинг."
+
+msgid "Create another account"
+msgstr "Бошқа ҳисоб яратиш"
+
+msgid "Email address"
+msgstr "Электрон почта манзили"
+
+msgid "Email address (optional)"
+msgstr "Электрон почта манзили (мажбурий эмас)"
+
+msgid "Enter your email address"
+msgstr "Электрон почта манзилингизни киритинг"
+
+msgid "Enter email address"
+msgstr "Электрон почта манзилини киритинг"
+
+msgid "Use a temporary random password and send it to the specified email address"
+msgstr "Тасодифан танлаб бериладиган вақтинчалик махфий сўздан фойдаланиш ва уни белгиланган электрон почта манзилига жўнатиш"
+
+msgid "Real name (optional)"
+msgstr "Ҳақиқий исми (ихтиёрий)"
+
+msgid "Reason:"
+msgstr "Сабаб:"
+
+msgid "Why you are creating another account?"
+msgstr "Нимага яна бошқа ҳисоб яратяпсиз?"
+
+msgid "Security check"
+msgstr "Хавфсизлик текшируви"
+
+msgid "Enter the text you see above"
+msgstr "Юқоридаги ёзувни киритинг"
+
+msgid "Create your account"
+msgstr "Ҳисобингизни яратиш"
+
+msgid "{{SITENAME}} is made by people like you."
+msgstr "{{СИТЕНАМЕ}} сизга ўхшаган одамлар томонидан яратилган"
+
+msgid "edits"
+msgstr "таҳрирлар"
+
+msgid "pages"
+msgstr "саҳифалар"
+
+msgid "recent contributor"
+msgstr "сўнгги пайтдаги иштирокчи"
+
+msgid "The passwords you entered do not match."
+msgstr "Сиз киритган махфий сўзлар мос келмаяпти."
+
+msgid "Username entered already in use."
+msgstr "Бундай фойдаланувчи номи аллақачон яратилган."
+
+msgid "Please choose a different name."
+msgstr "Илтимос, бошқа ном танланг."
+
+msgid "Login error"
+msgstr "Тизимга киришда хатолик"
+
+msgid "Account creation error"
+msgstr "Ҳисоб яратишда хатолик"
+
+msgid "Could not create account: $1"
+msgstr "Ҳисоб ёзувини яратиб бўлмади: $1"
+
+msgid "Login successful"
+msgstr "Кириш муваффақиятли амалга ошди"
+
+msgid "You are now logged in to {{SITENAME}} as \"$1\"."
+msgstr "{{SITENAME}}га \"$1\" бўлиб кирдингиз."
+
+msgid "There is no user by the name \"$1\"."
+msgstr "\"$1\" исмли фойдаланувчи йўқ."
+
+msgid "Check your spelling."
+msgstr "Имлонгизни текшириб кўринг."
+
+msgid "You have to specify a username."
+msgstr "Сиз фойдаланувчининг исмини кўрсатишингиз лозим."
+
+msgid "This user is blocked."
+msgstr "Бу фойдаланувчи четлатилган."
+
+msgid "Login not allowed."
+msgstr "Тизимга киришга рухсат йўқ."
+
+msgid "Incorrect password entered."
+msgstr "Киритилган маҳфий сўз нотўғри."
+
+msgid "Password entered was blank."
+msgstr "Махфий сўз ёзилмаган."
+
+msgid "Reset password"
+msgstr "Махфий сўзни қайта ўрнатиш"
+
+msgid "New temporary password for {{SITENAME}}"
+msgstr "{{SITENAME}} учун вақтинчалик янги махфий сўз"
+
+msgid "You need to provide a valid email address."
+msgstr "Сиз яроқли электрон почта манзилингизни беришингиз керак."
+
+msgid "Error sending mail: $1"
+msgstr "Хат юборишда хатолик: $1 "
+
+msgid "Your email address was confirmed on $2 at $3."
+msgstr "Электрон почта манзилингиз $2, $3 да тасдиқланган."
+
+msgid "Confirm your email address"
+msgstr "Электрон почта манзилингизни тасдиқланг"
+
+msgid "This site cannot send emails."
+msgstr "Бу сайт электрон хатларини юбора олмайди."
+
+msgid "Account created"
+msgstr "Ҳисоб ёзуви яратилди"
+
+msgid "Account creation for {{SITENAME}}"
+msgstr "{{SITENAME}} да ҳисоб яратиш"
+
+msgid "Your login was unsuccessful - Aborted"
+msgstr "Тизимга киришингиз муфаввақиятсиз бўлди - Бекор қилинди"
+
+msgid "Language: $1"
+msgstr "Тил: $1"
+
+msgid "Unknown error in PHP's mail() function."
+msgstr "PHPнинг mail() функциясида номаълум хатолик."
+
+msgid "Change password"
+msgstr "Махфий сўзни ўзгартириш"
+
+msgid "Change account password"
+msgstr "Ҳисоб ёзувининг махфий сўзини ўзгартириш"
+
+msgid "Old password:"
+msgstr "Эски маҳфий сўз:"
+
+msgid "New password:"
+msgstr "Янги маҳфий сўз:"
+
+msgid "Retype new password:"
+msgstr "Янги маҳфий сўзни қайта киритинг:"
+
+msgid "Set password and log in"
+msgstr "Махфий сўзни ўрнатиш ва тизимга кириш"
+
+msgid "Your password has been changed successfully!"
+msgstr "Махфий сўзингиз муваффақиятли ўзгартирилди!"
+
+msgid "Passwords cannot be changed"
+msgstr "Махфий сўзларни ўзгартириб бўлмайди"
+
+msgid "You must be logged in to access this page directly."
+msgstr "Сиз ушбу саҳифадан тўғридан тўғри фойдаланишингиз учун тизимга кирган бўлишингиз керак."
+
+msgid "Temporary password:"
+msgstr "Вақтинчалик махфий сўз"
+
+msgid "Complete this form to receive a temporary password via email."
+msgstr "Вақтинчалик маҳфий сўзни электрон почта орқали олиш учун ушбу формани тўлдиринг."
+
+msgid "Fill in one of the fields to receive a temporary password via email."
+msgstr "Электрон почта орқали вақтинчалик махфий сўзни олиш учун майдончалардан бирини тўлдиринг."
+
+msgid "Email features have been disabled on this wiki."
+msgstr "Электрон почта хусусиятлари ушбу викида ўчириб қўйилган."
+
+msgid "Domain:"
+msgstr "Домен:"
+
+msgid "View the resulting email?"
+msgstr "Натижадаги хатни кўрмоқчимисиз?"
+
+msgid "Email address:"
+msgstr "Электрон почта манзили:"
+
+msgid "Username: $1"
+msgstr "Фойдаланувчи исми: $1"
+
+msgid "Temporary password: $2"
+msgstr "Вақтинчалик махфий сўз: $2"
+
+msgid "Change email address"
+msgstr "Электрон почта манзилини ўзгартириш"
+
+msgid "Current email address:"
+msgstr "Жорий электрон почта манзили"
+
+msgid "New email address:"
+msgstr "Янги электрон почта манзили"
+
+msgid "(none)"
+msgstr "(ҳеч бири)"
+
+msgid "Your {{SITENAME}} password:"
+msgstr "Сизнинг {{SITENAME}}даги махфий сўзингиз:"
+
+msgid "Change email"
+msgstr "Электрон почтани ўзгартириш"
+
+msgid "Reset tokens"
+msgstr "Калитларингизни қайта ўрнатиш"
+
+msgid "Tokens:"
+msgstr "Калитлар:"
+
+msgid "$1 (current value: $2)"
+msgstr "$1 (жорий қиймат: $2)"
+
+msgid "Tokens reset."
+msgstr "Калитлар янгиланди."
+
+msgid "Reset selected tokens"
+msgstr "Белгиланган калитларни янгилаш"
+
+msgid "Bold text"
+msgstr "Қалин матн"
+
+msgid "Italic text"
+msgstr "Ётиқ матн"
+
+msgid "Link title"
+msgstr "Ишорат номи"
+
+msgid "Internal link"
+msgstr "Ички ишорат"
+
+msgid "http://www.example.com link title"
+msgstr "http://www.example.cом ишорат номи"
+
+msgid "External link (remember http://prefix)"
+msgstr "Ташқи ишорат (http://prefix унутманг)"
+
+msgid "Headline text"
+msgstr "Сарлавҳа"
+
+msgid "Level 2 headline"
+msgstr "2-даражадаги сарлавҳа"
+
+msgid "Insert non-formatted text here"
+msgstr "Бу ерга форматланмаган матнни қўйинг"
+
+msgid "Ignore wiki formatting"
+msgstr "Вики-форматлашга эътибор қилмаслик"
+
+msgid "Embedded file"
+msgstr "Ичидаги файл"
+
+msgid "File link"
+msgstr "Файлга ҳавола"
+
+msgid "Your signature with timestamp"
+msgstr "Имзонгиз ва сана"
+
+msgid "Horizontal line (use sparingly)"
+msgstr "Горизонталь чизиқ (тежамкор бўлинг)"
+
+msgid "Summary:"
+msgstr "Қисқача баён:"
+
+msgid "Subject/headline:"
+msgstr "Мавзу/сарлавҳа"
+
+msgid "This is a minor edit"
+msgstr "Бу кичик таҳрир"
+
+msgid "Watch this page"
+msgstr "Саҳифани кузатиш"
+
+msgid "Save page"
+msgstr "Саҳифани сақлаш"
+
+msgid "Preview"
+msgstr "Кўриб чиқиш"
+
+msgid "Show preview"
+msgstr "Кўриб чиқиш"
+
+msgid "Show changes"
+msgstr "Ўзгаришларни кўрсатиш"
+
+msgid "Warning: You are not logged in."
+msgstr "Диққат: Сиз тизимга кирмагансиз."
+
+msgid "Your IP address will be publicly visible if you make any edits."
+msgstr "Агар бирор бир таҳрир киритсангиз сизнинг IP манзилингиз ошкора кўриниб туради."
+
+msgid "If you log in or create an account, your edits will be attributed to your username, along with other benefits."
+msgstr "Агар тизимга кирсангиз ёки ҳисоб ёзувингизни яратсангиз бошқа афзалликлар билан бир қаторда таҳрирларингиз сизга тегишли бўлади."
+
+msgid "Please enter a comment below."
+msgstr "Илтимос қуйида шарҳ қолдиринг."
+
+msgid "Summary preview:"
+msgstr "Тавсиф бундай кўринишда бўлади:"
+
+msgid "Subject/headline preview:"
+msgstr "Мавзу/сарлавҳа бундай кўринишда бўлади:"
+
+msgid "User is blocked"
+msgstr "Фойдаланувчи четлаштирилган"
+
+msgid "Your username or IP address has been blocked."
+msgstr "Сизнинг фойдаланувчи номингиз ёки IP манзилингиз блокировка қилинган."
+
+msgid "The block was made by $1."
+msgstr "Сизни $1 четлаштирди."
+
+msgid "The reason given is $2."
+msgstr "Сабаб қилиб $2 кўрсатилган."
+
+msgid "* Start of block: $8"
+msgstr "* Четлаштириш муддати боши: $8"
+
+msgid "* Expiry of block: $6"
+msgstr "* Четлаштириш муддати якуни: $6"
+
+msgid "* Intended blockee: $7"
+msgstr "* Четлаштириш мақсади: $7"
+
+msgid "You can contact $1 or another administrator to discuss the block."
+msgstr "Сиз $1 ёки бошқа мудир билан боғланиб, ушбу четлаштиришни муҳокама қилишингиз мумкин."
+
+msgid "You cannot use the \"email this user\" feature unless a valid email address is specified in your account preferences and you have not been blocked from using it."
+msgstr "Агарда шахсий мосламаларингизда яроқли э-почта манзилингиз кўрсатилган  бўлиб сиз уни ишлатишдан четлатилмаган бўлсангиз сиз «фойдаланувчига мактуб» хизматидан фойдаланишингиз мумкин."
+
+msgid "Your current IP address is $3, and the block ID is #$5."
+msgstr "Сизнинг ҳозирги IP манзилингиз - $3, четлаштириш ёзувингиз - №$5."
+
+msgid "Please include all above details in any queries you make."
+msgstr "Илтимос, сиз қиладиган ҳар қандай сўровларда юқоридаги маълумотларни илова қилинг."
+
+msgid "no reason given"
+msgstr "сабаб кўрсатилмаган"
+
+msgid "Please $1 to edit pages."
+msgstr "Илтимос, саҳифаларни ўзгартириш учун $1."
+
+msgid "Cannot find section"
+msgstr "Бўлимни топиб бўлмади"
+
+msgid "You tried to edit a section that does not exist."
+msgstr "Сиз мавжуд бўлмаган бўлимни таҳрирламоқчи бўлдингиз."
+
+msgid "It may have been moved or deleted while you were viewing the page."
+msgstr "Сиз бу саҳифани кўраётган маҳалда у кўчирилган ёки ўчирилган бўлиши мумкин."
+
+msgid "Login required"
+msgstr "Тизимга кириш талаб этилади"
+
+msgid "log in"
+msgstr "Кириш"
+
+msgid "Please $1 to view other pages."
+msgstr "Илтимос, бошқа саҳифаларни кўриш учун $1."
+
+msgid "Password sent"
+msgstr "Махфий сўз жўнатилди"
+
+msgid "(New)"
+msgstr "(Янги)"
+
+msgid "You have followed a link to a page that does not exist yet."
+msgstr "Сиз мавжуд бўлмаган саҳифага ҳавола орқали келдингиз."
+
+msgid "To create the page, start typing in the box below (see the help page for more info)."
+msgstr "Саҳифани яратиш учун қуйида матн киритишингиз мумкин (қўшимча ахборот учун ёрдам саҳифасини кўринг)."
+
+msgid "If you are here by mistake, click your browser's back button."
+msgstr "Агар бу саҳифага адашиб қолган бўлсангиз браузерингизнинг орқага тугмасини босинг."
+
+msgid "This is the discussion page for an anonymous user who has not created an account yet, or who does not use it."
+msgstr "Ушбу мунозара саҳифаси ҳали ҳисоб ёзувини яратмаган, ёки ундан фойдаланмайдиган аноним фойдаланувчига тегишли."
+
+msgid "We therefore have to use the numerical IP address to identify him/her."
+msgstr "Шу сабабли у кишини аниқлаш учун рақамли IP-манзилидан фойдаланишимиз керак."
+
+msgid "Such an IP address can be shared by several users."
+msgstr "Бунақа IP манзил бир нечта бошқа иштирокчилар билан баҳам кўрилган бўлиши мумкин."
+
+msgid "If you are an anonymous user and feel that irrelevant comments have been directed at you, please create an account or log in to avoid future confusion with other anonymous users."
+msgstr "Агар сиз аноним иштирокчи бўлсангиз ва сиз ўзингизга йўналтирилмаган мулоҳаза олдим деб тахмин қилсангиз, илтимос, бошқа аноним иштирокчилар билан мумкин бўлган чалкашликларни четлаб ўтиш учун ҳисоб ёзуви яратинг ёки тизимга киринг."
+
+msgid "There is currently no text in this page."
+msgstr "Ушбу саҳифада ҳозирда матн йўқ."
+
+msgid "User account \"$1\" is not registered."
+msgstr "\"$1\" фойдаланувчи ҳисоби рўйхатга олинмаган."
+
+msgid "(Updated)"
+msgstr "(Янгиланди)"
+
+msgid "Note:"
+msgstr "Изоҳ:"
+
+msgid "Remember that this is only a preview."
+msgstr "Унутманг, бу шунчаки кўриб чиқиш."
+
+msgid "Your changes have not yet been saved!"
+msgstr "Ўзгартиришларингиз ҳали сақлангани йўқ!"
+
+msgid "Go to editing area"
+msgstr "Таҳрирлашни майдонига бориш"
+
+msgid "Sorry! We could not process your edit due to a loss of session data."
+msgstr "Афсуски, сессия маълумотларининг йўқотилганлиги сабабли сизнинг таҳрирингизга ишлов бера олмадик."
+
+msgid "Please try again."
+msgstr "Илтимос, яна бир бор уриниб кўринг."
+
+msgid "If it still does not work, try logging out and logging back in."
+msgstr "Агар шундан кейин ҳам ишламаса, ҳисоб ёзувингиздан чиқиб қайтадан кириб кўринг."
+
+msgid "Because {{SITENAME}} has raw HTML enabled, the preview is hidden as a precaution against JavaScript attacks."
+msgstr "{{SITENAME}}да ишлов берилмаган HTMLдан фойдаланиш мумкинлиги сабабли, JavaScript-ҳужумлардан сақланиш мақсадида кўриб чиқиш имконияти ўчириб қўйилган."
+
+msgid "If this is a legitimate edit attempt, please try again."
+msgstr "Агар фойдали таҳрир киритмоқчи бўлган бўлсангиз, яна бир бор уриниб кўринг."
+
+msgid "Editing $1"
+msgstr "$1 таҳрирланмоқда"
+
+msgid "Creating $1"
+msgstr "$1 яратилмоқда"
+
+msgid "Editing $1 (section)"
+msgstr "$1 (бўлим) таҳрирланмоқда"
+
+msgid "Editing $1 (new section)"
+msgstr "$1 (янги бўлим) таҳрирланмоқда"
+
+msgid "Edit conflict: $1"
+msgstr "Низони таҳрирлаш: $1"
+
+msgid "Your text"
+msgstr "Матнингиз"
+
+msgid "Differences"
+msgstr "Фарқлар"
+
+msgid "(protected)"
+msgstr "(ҳимояланган)"
+
+msgid "(semi-protected)"
+msgstr "(ярим-ҳимояланган)"
+
+msgid "You do not have permission to create new pages."
+msgstr "Сизда янги саҳифалар яратишга рухсат йўқ."
+
+msgid "Section editing not supported"
+msgstr "Бўлимларни таҳрирлаш имконияти йўқ"
+
+msgid "Section editing is not supported in this page."
+msgstr "Ушбу саҳифада бўлимларни таҳрирлаш имконияти йўқ."
+
+msgid "This page has been deleted."
+msgstr "Бу саҳифа ўчирилган."
+
+msgid "The deletion and move log for the page are provided below for reference."
+msgstr "Маълумот учун қуйида ўчириш ва кўчириш қайдлари келтирилган."
+
+msgid "View full log"
+msgstr "Қайдларни тўлиқ кўриш"
+
+msgid "Edit conflict."
+msgstr "Таҳрирлаш тўқнашуви."
+
+msgid "The page has been created."
+msgstr "Саҳифа яратилди."
+
+msgid "The page has been restored."
+msgstr "Саҳифа қайта тикланди."
+
+msgid "Your edit was saved."
+msgstr "Таҳрирингиз сақланди."
+
+msgid "Default message text"
+msgstr "Сукут бўйича матн"
+
+msgid "plain text"
+msgstr "қуруқ матн"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "Warning: Template include size is too large."
+msgstr "Диққат: Қўлланилаётган андозаларнинг жами ҳажми жуда катта."
+
+msgid "Some templates will not be included."
+msgstr "Айрим андозалар қўшилмайди."
+
+msgid "Pages where template include size is exceeded"
+msgstr "Қўлланиладиган андозаларнинг мумкин бўлган ҳажмидан ошган саҳифалар"
+
+msgid "Pages containing omitted template arguments"
+msgstr "Андозаларнинг тўлдирилмаган ўзгарувчиларига эга саҳифалар"
+
+msgid "Cannot create account"
+msgstr "Рўйхатдан ўтиб бўлмади"
+
+msgid "View logs for this page"
+msgstr "Ушбу саҳифага оид қайдларни кўриш"
+
+msgid "There is no edit history for this page."
+msgstr "Ушбу саҳифа учун ўзгаришлар тарихи мавжуд эмас."
+
+msgid "Latest revision"
+msgstr "Охирги ўзгартириш"
+
+msgid "Older revision"
+msgstr "Эскироқ ўзгартириш"
+
+msgid "Newer revision"
+msgstr "Янгироқ ўзгартириш"
+
+msgid "cur"
+msgstr "жорий"
+
+msgid "prev"
+msgstr "олдинги"
+
+msgid "first"
+msgstr "биринчи"
+
+msgid "last"
+msgstr "охирги"
+
+msgid "Browse history"
+msgstr "Тарихни кўриш"
+
+msgid "Deleted only"
+msgstr "Фақат ўчирилганлар"
+
+msgid "oldest"
+msgstr "энг эски"
+
+msgid "newest"
+msgstr "энг янги"
+
+msgid "(empty)"
+msgstr "(бўш)"
+
+msgid "Revision history"
+msgstr "Ўзгаришлар тарихи"
+
+msgid "Revision history for this page on the wiki"
+msgstr "Викидаги мазкур саҳифанинг ўзгаришлар тарихи"
+
+msgid "(edit summary removed)"
+msgstr "(таҳрир изоҳи ўчирилди)"
+
+msgid "(username removed)"
+msgstr "(фойдаланувчи номи ўчирилди)"
+
+msgid "(log details removed)"
+msgstr "(қайд тафсилотлари ўчирилди)"
+
+msgid "change visibility"
+msgstr "кўринишни ўзгартириш"
+
+msgid "Revision text"
+msgstr "Ўзгариш матни"
+
+msgid "(do not change)"
+msgstr "(ўзгартирилмасин)"
+
+msgid "Hidden"
+msgstr "Яширин"
+
+msgid "Visible"
+msgstr "Кўзга кўринарли"
+
+msgid "Mergeable edit history"
+msgstr "Бирлаштириб бўладиган таҳрирлар тарихи"
+
+msgid "Show mergeable edits"
+msgstr "Бирлаштириб бўладиган таҳрирларни кўрсатиш"
+
+msgid "Merge revisions"
+msgstr "Таҳрирларни бирлаштириш"
+
+msgid "Merge log"
+msgstr "Бирлаштириш қайдлари"
+
+msgid "Unmerge"
+msgstr "Бирлаштиришни бекор қилиш"
+
+msgid "Revision history of $1"
+msgstr "$1нинг ўзгаришлар тарихи"
+
+msgid "Difference between revisions of $1"
+msgstr "$1нинг версиялар орасидаги фарқи"
+
+msgid "Difference between pages $1 and $2"
+msgstr "$1 ва $2 саҳифалар орасидаги фарқ"
+
+msgid "(Difference between pages)"
+msgstr "(Саҳифалар орасидаги фарқ)"
+
+msgid "Line $1:"
+msgstr "Қатор $1:"
+
+msgid "Compare selected revisions"
+msgstr "Белгиланган ўзгартиришларни солиштириш"
+
+msgid "Change visibility of selected revisions"
+msgstr "Белгиланган ўзгартиришларнинг кўринишини ўзгартириш"
+
+msgid "undo"
+msgstr "бекор қилиш"
+
+msgid "Search results"
+msgstr "Қидирув натижалари"
+
+msgid "Search results for $1"
+msgstr "$1 учун қидирув натижалари"
+
+msgid "Page title matches"
+msgstr "Саҳифалар номларидаги мосликлар"
+
+msgid "Page text matches"
+msgstr "Саҳифалар матнларидаги мосликлар"
+
+msgid "No page text matches"
+msgstr "Бундай саҳифа матни топилмади"
+
+msgid "previous"
+msgstr "олдинги"
+
+msgid "next"
+msgstr "кейинги"
+
+msgid "Show $1 results per page"
+msgstr "Саҳифада $1тадан натижа кўрсатиш"
+
+msgid "Other/additional reason:"
+msgstr "Бошқа/қўшимча сабаб:"
+
+msgid "Other reason"
+msgstr "Бошқа сабаб"
+
+msgid "Merge page histories"
+msgstr "Таҳрирлар тарихларини бирлаштириш"
+
+msgid "Merge revisions of two pages:"
+msgstr "Икки саҳифа таҳрирлари тарихини бирлаштириш:"
+
+msgid "Source page:"
+msgstr "Манба саҳифа:"
+
+msgid "Destination page:"
+msgstr "Мўлжал саҳифа:"
+
+msgid "Content pages"
+msgstr "Мақолалар"
+
+msgid "Multimedia"
+msgstr "Мультимедиа"
+
+msgid "Everything"
+msgstr "Барчаси"
+
+msgid "Advanced"
+msgstr "Қўшимча"
+
+msgid "Search in $1"
+msgstr "$1да қидириш"
+
+msgid "Search for files"
+msgstr "Файлларни қидириш"
+
+msgid "Search all of content (including talk pages)"
+msgstr "Барча саҳифалардан қидириш (мунозара саҳифаларинидан ҳам)"
+
+msgid "Search in custom namespaces"
+msgstr "Созланган номфазолардан қидириш"
+
+msgid "(redirect $1)"
+msgstr "(йўналтириш $1)"
+
+msgid "(section $1)"
+msgstr "($1 бўлими)"
+
+msgid "Did you mean: $1"
+msgstr "Балки буни назарда тутгандирсиз: $1"
+
+msgid "Sister projects"
+msgstr "Алоқадор лойиҳалар"
+
+msgid "Results from $1:"
+msgstr "$1дан натижалар:"
+
+msgid "(more)"
+msgstr "(яна)"
+
+msgid "Related"
+msgstr "Боғлиқ"
+
+msgid "related"
+msgstr "боғланган"
+
+msgid "all"
+msgstr "барчаси"
+
+msgid "There were no results matching the query."
+msgstr "Сўровга мос натижа топилмади."
+
+msgid "Advanced search"
+msgstr "Илғор қидирув"
+
+msgid "Search in namespaces:"
+msgstr "Номфазолардан қидириш:"
+
+msgid "Check:"
+msgstr "Белгилаш:"
+
+msgid "All"
+msgstr "Ҳаммасини"
+
+msgid "None"
+msgstr "Ҳеч қайсини"
+
+msgid "External search"
+msgstr "Ташқи қидирув"
+
+msgid "Preferences"
+msgstr "Мосламалар"
+
+msgid "Number of edits:"
+msgstr "Таҳрирлар сони:"
+
+msgid "Please log in to change your preferences."
+msgstr "Илтимос, мосламаларни ўзгартириш учун тизимга киринг."
+
+msgid "Skin"
+msgstr "Ташқи кўриниши"
+
+msgid "No preference"
+msgstr "Фарқи йўқ"
+
+msgid "Labs features"
+msgstr "Тажрибавий имкониятлар"
+
+msgid "User pages"
+msgstr "Фойдаланувчи саҳифалари"
+
+msgid "User profile"
+msgstr "Шахсий маълумотлар"
+
+msgid "Recent changes"
+msgstr "Янги ўзгаришлар"
+
+msgid "Watchlist"
+msgstr "Кузатув рўйхати"
+
+msgid "Days to show in watchlist:"
+msgstr "Кузатув рўйхатида кўрсатиладиган кунлар сони:"
+
+msgid "Maximum $1 days"
+msgstr "Максимум $1 кун"
+
+msgid "Maximum number of changes to show in expanded watchlist:"
+msgstr "Кенгайтирилган кузатув рўйхатида кўрсатиладиган ўзгаришлар максимум сони:"
+
+msgid "Maximum number: 1000"
+msgstr "Максимум: 1000"
+
+msgid "Watchlist token:"
+msgstr "Кузатув рўйхатингиз калити:"
+
+msgid "Misc"
+msgstr "Бошқа"
+
+msgid "Email options"
+msgstr "Электрон почта мосламалари"
+
+msgid "Appearance"
+msgstr "Ташқи кўриниши"
+
+msgid "Save"
+msgstr "Сақлаш"
+
+msgid "Restore all default settings"
+msgstr "Барча мосламаларни дастлабки ҳолатига қайтариш"
+
+msgid "Editing"
+msgstr "Таҳрирлаш"
+
+msgid "Rows:"
+msgstr "Қаторлар:"
+
+msgid "Columns:"
+msgstr "Устунлар:"
+
+msgid "Disabled"
+msgstr "Ўчириб қўйилган"
+
+msgid "Days to show in recent changes:"
+msgstr "Охирги таҳрирларда кўрсатиладиган кунлар:"
+
+msgid "Number of edits to show by default:"
+msgstr "Сукут бўйича кўрсатиладиган таҳрирлар сони:"
+
+msgid "This includes recent changes, page histories, and logs."
+msgstr "Янги ўзгаришлар, саҳифалар тарихи ва қайдларни ўз ичига олади."
+
+msgid "Your preferences have been saved."
+msgstr "Мосламаларингиз сақланди."
+
+msgid "Time zone:"
+msgstr "Вақт минтақаси:"
+
+msgid "Local time:"
+msgstr "Маҳаллий вақт:"
+
+msgid "Use wiki default ($1)"
+msgstr "Вики сукутидан фойдаланиш ($1)"
+
+msgid "Other (specify offset)"
+msgstr "Бошқа (силжишни кўрсатинг)"
+
+msgid "Server time:"
+msgstr "Сервер вақти:"
+
+msgid "Fill in from browser"
+msgstr "Браузердан тўлдириш"
+
+msgid "Africa"
+msgstr "Африка"
+
+msgid "America"
+msgstr "Америка"
+
+msgid "Antarctica"
+msgstr "Антарктика"
+
+msgid "Arctic"
+msgstr "Арктика"
+
+msgid "Asia"
+msgstr "Осиё"
+
+msgid "Atlantic Ocean"
+msgstr "Атлантика океани"
+
+msgid "Australia"
+msgstr "Австралия"
+
+msgid "Europe"
+msgstr "Европа"
+
+msgid "Indian Ocean"
+msgstr "Ҳинд океани"
+
+msgid "Pacific Ocean"
+msgstr "Тинч океани"
+
+msgid "Enable email from other users"
+msgstr "Бошқа фойдаланувчилардан электрон хат олишга рухсат бериш"
+
+msgid "Default"
+msgstr "Сукут бўйича"
+
+msgid "Files"
+msgstr "Файллар"
+
+msgid "Custom CSS"
+msgstr "Созланган CSS"
+
+msgid "Custom JavaScript"
+msgstr "Шахсий JavaScript"
+
+msgid "Shared CSS/JavaScript for all skins:"
+msgstr "Барча ташқи кўринишлар учун умумий CSS/JavaScript:"
+
+msgid "Email confirmation:"
+msgstr "Электрон почта манзилини тасдиқлаш:"
+
+msgid "Email:"
+msgstr "Электрон почта:"
+
+msgid "Member of groups:"
+msgstr "Гуруҳлар аъзоси:"
+
+msgid "Registration time:"
+msgstr "Ҳисоб яратилган вақт:"
+
+msgid "Real name:"
+msgstr "Ҳақиқий исм:"
+
+msgid "Language:"
+msgstr "Тил:"
+
+msgid "Content language variant:"
+msgstr "Матн ёзув тури:"
+
+msgid "Your preferred variant or orthography to display the content pages of this wiki in."
+msgstr "Ушбу викидаги саҳифалар қайси тилда ва имлода кўрсатилиши."
+
+msgid "New signature:"
+msgstr "Янги имзо:"
+
+msgid "How do you prefer to be described?"
+msgstr "Қандай тасвирланишни хохлайсиз:"
+
+msgid "I prefer not to say"
+msgstr "Айтмасликни афзал кўраман"
+
+msgid "He edits wiki pages"
+msgstr "У вики саҳифаларни таҳрирлайди"
+
+msgid "She edits wiki pages"
+msgstr "У вики саҳифаларни таҳрирлайди"
+
+msgid "Email address is required."
+msgstr "Электрон почта манзилни кўрсатиш шарт"
+
+msgid "Basic information"
+msgstr "Асосий маълумот"
+
+msgid "Internationalisation"
+msgstr "Байналмилаллаштириш"
+
+msgid "Signature"
+msgstr "Имзо"
+
+msgid "Date format"
+msgstr "Сана формати"
+
+msgid "Time offset"
+msgstr "Вақт фарқи"
+
+msgid "General options"
+msgstr "Умумий мосламалар"
+
+msgid "Advanced options"
+msgstr "Қўшимча мосламалар"
+
+msgid "Display options"
+msgstr "Кўриниш мосламалари"
+
+msgid "Diffs"
+msgstr "Версиялар фарқи"
+
+msgid "User rights management"
+msgstr "Фойдаланувчи ҳуқуқларини бошқариш"
+
+msgid "Enter a username:"
+msgstr "Фойдаланувчи номини киритинг:"
+
+msgid "Edit user groups"
+msgstr "Фойдаланувчи гуруҳларини таҳрирлаш"
+
+msgid "Member of:"
+msgstr "Аъзолик:"
+
+msgid "Implicit member of:"
+msgstr "Қуйидаги гуруҳларга киради:"
+
+msgid "Groups you can change"
+msgstr "Сиз ўзгартиришингиз мумкин бўлган гуруҳлар"
+
+msgid "Groups you cannot change"
+msgstr "Сиз ўзгартира олмайдиган гуруҳлар"
+
+msgid "Group:"
+msgstr "Гуруҳ:"
+
+msgid "Users"
+msgstr "Фойдаланувчилар"
+
+msgid "Autoconfirmed users"
+msgstr "Автотасдиқланган фойдаланувчилар"
+
+msgid "Bots"
+msgstr "Ботлар"
+
+msgid "Administrators"
+msgstr "Мудирлар"
+
+msgid "Bureaucrats"
+msgstr "Расмиятчилар"
+
+msgid "Oversights"
+msgstr "Текширувчилар"
+
+msgid "(all)"
+msgstr "(ҳамма)"
+
+msgid "autoconfirmed user"
+msgstr "автотасдиқланган фойдаланувчи"
+
+msgid "bot"
+msgstr "бот"
+
+msgid "administrator"
+msgstr "администратор"
+
+msgid "bureaucrat"
+msgstr "расмиятчи"
+
+msgid "oversight"
+msgstr "текширувчи"
+
+msgid "Read pages"
+msgstr "Ўқилган саҳифалар"
+
+msgid "Edit pages"
+msgstr "Саҳифаларни таҳрирлаш"
+
+msgid "User creation log"
+msgstr "Фойдаланувчиларни рўйхатга олиш қайдлари"
+
+msgid "This is a log of user creations."
+msgstr "Бу - рўйхатдан ўтган фойдаланувчилар қайди"
+
+msgid "User rights log"
+msgstr "Фойдаланувчи ҳуқуқлари қайдлари"
+
+msgid "This is a log of changes to user rights."
+msgstr "Фойдаланувчи ҳуқуқларини ўзгартириш қайдлари."
+
+msgid "edit this page"
+msgstr "ушбу саҳифани таҳрирлаш"
+
+msgid "move this page"
+msgstr "бу саҳифани кўчириш"
+
+msgid "move this page, and its subpages"
+msgstr "бу саҳифа ва унинг остсаҳифаларини кўчириш"
+
+msgid "view this page's deleted history"
+msgstr "ушбу саҳифанинг ўчирилган тарихини кўриш"
+
+msgid "send emails"
+msgstr "электрон хатлар жўнатиш"
+
+msgid "changes"
+msgstr "ўзгаришлар"
+
+msgid "history"
+msgstr "тарих"
+
+msgid "Recent changes options"
+msgstr "Янги ўзгаришлар мосламалари"
+
+msgid "Track the most recent changes to the wiki on this page."
+msgstr "Викида содир бўлган сўнгги ўзгаришларни ушбу саҳифада кузатиш."
+
+msgid "No changes during the given period matching these criteria."
+msgstr "Ушбу шартларга мос келувчи берилган муддат давомида ўзгаришлар топилмади."
+
+msgid "Track the most recent changes to the wiki in this feed."
+msgstr "Викида мазкур оқимдаги энг янги ўзгаришларни кузатиш"
+
+msgid "This edit created a new page"
+msgstr "Бу таҳрир орқали янги саҳифа яратилди"
+
+msgid "This edit was performed by a bot"
+msgstr "Бу таҳрирни бот бажарган"
+
+msgid "This edit has not yet been patrolled"
+msgstr "Бу таҳрир ҳали текширилмаган"
+
+msgid "Done"
+msgstr "Бажарилди"
+
+msgid "containing..."
+msgstr "ичида бўлган..."
+
+msgid "Unknown error:"
+msgstr "Номаълум хато:"
+
+msgid "Parser profiling data:"
+msgstr "Таҳлиллагич маълумотлари:"
+
+msgid "Compare"
+msgstr "Солиштириш"
+
+msgid "Undo changes"
+msgstr "Ўзгаришларни бекор қилиш"
+
+msgid "Other"
+msgstr "Бошқа"
+
+msgid "Special pages"
+msgstr "Махсус саҳифалар"
+
+msgid "$1 B"
+msgstr "$1 Б"
+
+msgid "View relevant changes"
+msgstr "Тегишли ўзгаришларни кўриш"
+
+msgid "View and edit watchlist"
+msgstr "Кузатув рўйхатини кўриш ва таҳрирлаш"
+
+msgid "Edit raw watchlist"
+msgstr "Хом кузатув рўйхатини таҳрирлаш"
+
+msgid "← previous page"
+msgstr "← олдинги саҳифа"
+
+msgid "next page →"
+msgstr "кейинги саҳифа →"
+
+msgid "Go to page $1"
+msgstr "$1 саҳифасига ўтиш"
+
+msgid "Next page"
+msgstr "Кейинги саҳифа"
+
+msgid "Previous page"
+msgstr "Олдинги саҳифа"
+
+msgid "First page"
+msgstr "Биринчи саҳифа"
+
+msgid "Last page"
+msgstr "Охирги саҳифа"
+
+msgid "Items per page:"
+msgstr "Бир саҳифадаги ёзувлар сони:"
+
+msgid "Blanked the page"
+msgstr "Саҳифа тозаланди"
+
+msgid "px"
+msgstr "пиксел"
+
+msgid "Height"
+msgstr "Бўйи"
+
+msgid "Author"
+msgstr "Муаллиф"
+
+msgid "Source"
+msgstr "Манба"
+
+msgid "North latitude"
+msgstr "Шимолий кенглик"
+
+msgid "South latitude"
+msgstr "Жанубий кенглик"
+
+msgid "East longitude"
+msgstr "Шарқий узунлик"
+
+msgid "West longitude"
+msgstr "Ғарбий узунлик"
+
+msgid "Kilometers"
+msgstr "Километр"
+
+msgid "Miles"
+msgstr "Мил"
+
+msgid "Crime and law"
+msgstr "Жиноят ва қонун"
+
+msgid "Disasters and accidents"
+msgstr "Офатлар ва бахтсиз ҳодисалар"
+
+msgid "Economy and business"
+msgstr "Иқтисод ва бизнес"
+
+msgid "Education"
+msgstr "Таълим"
+
+msgid "Environment"
+msgstr "Атроф муҳит"
+
+msgid "Human interest"
+msgstr "Инсон манфаати"
+
+msgid "Labor"
+msgstr "Меҳнат"
+
+msgid "Lifestyle and leisure"
+msgstr "Турмуш тарзи ва ҳордиқ"
+
+msgid "Politics"
+msgstr "Сиёсат"
+
+msgid "Religion and belief"
+msgstr "Дин ва имон"
+
+msgid "Science and technology"
+msgstr "Фан ва технология"
+
+msgid "Sports"
+msgstr "Спорт"
+
+msgid "Weather"
+msgstr "Об-ҳаво"
+
+msgid "Original file"
+msgstr "Асл файл"
+
+msgid "Nothing to see."
+msgstr "Кўрадиган ҳеч нарса йўқ."
+
+msgid "uz-Latn"
+msgstr "лотинча"
+
+msgid "uz-Cyrl"
+msgstr "кириллча"
+
+msgid "Metadata"
+msgstr "Метамаълумот"
+
+msgid "Show extended details"
+msgstr "Батафсил тафсилотларни кўрсатиш"
+
+msgid "Hide extended details"
+msgstr "Батафсил тафсилотларни яшириш"
+
+msgid "Width"
+msgstr "Эни"
+
+msgid "Thumbnail size:"
+msgstr "Миниатюра ўлчами:"
+
+msgid "Mark this page as patrolled"
+msgstr "Бу саҳифани текширилган деб белгилаш"
+
+msgid "Patrol log"
+msgstr "Патруллаш қайдлари"
+
+msgid "← Older edit"
+msgstr "← Эскироқ таҳрир"
+
+msgid "Newer edit →"
+msgstr "Янгироқ таҳрир →"
+
+msgid "Edit history"
+msgstr "Ўзгаришлар тарихи"
+
+msgid "Display title"
+msgstr "Сарлавҳани кўрсатиш"
+
+msgid "Page ID"
+msgstr "Саҳифа идентификатори"
+
+msgid "Number of page watchers"
+msgstr "Саҳифа кузатувчилари сони"
+
+msgid "Total number of edits"
+msgstr "Жами таҳрирлар сони"
+
+msgid "Page information"
+msgstr "Саҳифа ҳақида маълумот"
+
+msgid "Redirects to"
+msgstr "Ушбуга қайта йўналтирилади"
+
+msgid "Recreate the page even though it has been deleted"
+msgstr "Бу саҳифа ўчирилган бўлишига қарамасдан уни қайта яратиш"
+
+msgid "Enter a short summary"
+msgstr "Қисқа мазмун киритинг"
+
+msgid "others"
+msgstr "бошқалар"
+
+msgid "View the help page"
+msgstr "Ёрдам саҳифасини кўриш"
+
+msgid "View the category page"
+msgstr "Туркум саҳифасини кўриш"
+
+msgid "Mark this as a minor edit"
+msgstr "Кичик ўзгартириш сифатида белгилаш"
+
+msgid "Save your changes"
+msgstr "Ўзгаришларни сақлаш"
+
+msgid "Preview your changes."
+msgstr "Ўзгаришларни кўриб чиқиш."
+
+msgid "Please use this before saving!"
+msgstr "Илтимос, сақлашдан олдин ундан фойдаланинг!"
+
+msgid "Show which changes you made to the text"
+msgstr "Матнга киритган ўзгартиришларингизни кўриш."
+
+msgid "See the differences between the two selected revisions of this page"
+msgstr "Бу саҳифанинг икки танланган версиялари орасидаги фарқни кўриш."
+
+msgid "View the content page"
+msgstr "Саҳифани кўриш"
+
+msgid "View the user page"
+msgstr "Фойдаланувчи саҳифасини кўриш"
+
+msgid "View the media page"
+msgstr "Медиа саҳифасини кўриш"
+
+msgid "This is a special page, you cannot edit the page itself"
+msgstr "Бу махсус саҳифа, уни таҳрирлай олмайсиз."
+
+msgid "View the project page"
+msgstr "Лойиҳа саҳифасини кўриш"
+
+msgid "View the file page"
+msgstr "Файл саҳифасини кўриш"
+
+msgid "View the system message"
+msgstr "Тизим хабарини кўриш"
+
+msgid "View the template"
+msgstr "Андозани кўриш"
+
+msgid "Find background information on current events"
+msgstr "Жорий ҳодисалар ҳақида маълумот олиш"
+
+msgid "A list of recent changes in the wiki"
+msgstr "Викидаги сўнгги ўзгартиришлар рўйхати"
+
+msgid "Load a random page"
+msgstr "Тасодифий саҳифага ўтиш"
+
+msgid "The place to find out"
+msgstr "Қисқа ва лўнда маълумотнома"
+
+msgid "A list of all wiki pages that link here"
+msgstr "Ушбу саҳифага боғланган барча вики саҳифалар рўйхати"
+
+msgid "Recent changes in pages linked from this page"
+msgstr "Бу саҳифага боғланган саҳифалардаги янги ўзгаришлар"
+
+msgid "RSS feed for this page"
+msgstr "Бу саҳифа учун RSS таъминот"
+
+msgid "Atom feed for this page"
+msgstr "Бу саҳифа учун Атом таъминот"
+
+msgid "A list of contributions of this user"
+msgstr "Ушбу фойдаланувчи ҳиссалари рўйхати"
+
+msgid "Send an email to this user"
+msgstr "Ушбу фойдаланувчига хат жўнатиш"
+
+msgid "Upload files"
+msgstr "Файлларни юклаш"
+
+msgid "A list of all special pages"
+msgstr "Барча махсус саҳифалар рўйхати"
+
+msgid "Printable version of this page"
+msgstr "Ушбу саҳифанинг босма учун версияси"
+
+msgid "Permanent link to this revision of the page"
+msgstr "Саҳифанинг ушбу версиясига доимий ишорат"
+
+msgid "Go to a page with this exact name if exists"
+msgstr "Худди шу номли саҳифа бор бўлса, уни оч"
+
+msgid "Search the pages for this text"
+msgstr "Саҳифалардан ушбу матнни излаш"
+
+msgid "Visit the main page"
+msgstr "Бош саҳифага ўтиш"
+
+msgid "About the project, what you can do, where to find things"
+msgstr "Лойиҳа ҳақида, нималар қилишингиз мумкин, қаердан нарсаларни топиш"
+
+msgid "A list of your contributions"
+msgstr "Ҳиссаларингиз рўйхати"
+
+msgid "You are encouraged to log in; however, it is not mandatory"
+msgstr "Бу мажбурий бўлмаса-да, тизимга киришингиз қўллаб қувватланилади."
+
+msgid "Discussion about the content page"
+msgstr "Саҳифа матни борасида мунозара"
+
+msgid "You can edit this page."
+msgstr "Сиз бу саҳифани таҳрирлашингиз мумкин."
+
+msgid "Please use the preview button before saving."
+msgstr "Илтимос, сақлашдан олдин кўриб чиқиш тугмасидан фойдаланинг."
+
+msgid "Start a new section"
+msgstr "Янги бўлим бошлаш"
+
+msgid "This page is protected."
+msgstr "Бу саҳифа ҳимояланган."
+
+msgid "You can view its source."
+msgstr "Сиз унинг манбасини кўришингиз мумкин."
+
+msgid "Past revisions of this page"
+msgstr "Бу саҳифанинг олдинги версиялари"
+
+msgid "Restore the edits done to this page before it was deleted."
+msgstr "Бу саҳифа ўчирилишидан олдин қилинган таҳрирларни тиклаш."
+
+msgid "Add this page to your watchlist"
+msgstr "Бу саҳифани кузатув рўйхатингизга қўшиш"
+
+msgid "Remove this page from your watchlist"
+msgstr "Бу саҳифани кузатув рўйхатингиздан ўчириш"
+
+msgid "System messages"
+msgstr "Тизим хабарлари"
+
+msgid "Current message text"
+msgstr "Жорий хабар матни"
+
+msgid "Enlarge"
+msgstr "Катталаштириш"
+
+msgid "Error creating thumbnail."
+msgstr "Тасвир яратишда хатолик."
+
+msgid "Import log"
+msgstr "Импорт қилиш қайдлари"
+
+msgid "ported [[$1]] by file upload"
+msgstr "[[$1]] юклаш орқали импорт қилинди"
+
+msgid "Your user page"
+msgstr "Фойдаланувчи саҳифангиз"
+
+msgid "Your talk page"
+msgstr "Суҳбат саҳифангиз"
+
+msgid "Discussion about edits from this IP address"
+msgstr "Бу IP манзилдан амалга оширилган таҳрирлар мунозараси"
+
+msgid "Your preferences"
+msgstr "Мосламаларингиз"
+
+msgid "A list of pages you are monitoring for changes"
+msgstr "Сиз кузатиб бораётган саҳифалардаги ўзгаришлар рўйхати"
+
+msgid "Export pages"
+msgstr "Саҳифаларни экспорт қилиш"
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid "Add pages from category:"
+msgstr "Ушбу туркумдан саҳифаларни қўшиш:"
+
+msgid "Add"
+msgstr "Қўшиш"
+
+msgid "Add pages from namespace:"
+msgstr "Ушбу номфазодан саҳифаларни қўшиш:"
+
+msgid "Save as file"
+msgstr "Файл сифатида сақлаш"
+
+msgid "Include templates"
+msgstr "Андозалар билан бирга"
+
+msgid "Include linked pages to a depth of:"
+msgstr "Теранлиги қуйидагича бўлган боғланган саҳифаларни киритиш:"
+
+msgid "This page has $1 subpages shown below."
+msgstr "Ушбу саҳифанинг қуйида кўрсатилган $1 та остсаҳифаси бор."
+
+msgid "This page has no subpages."
+msgstr "Бу саҳифа остсаҳифаларга эга эмас."
+
+msgid "Delete and move"
+msgstr "Ўчириш ва кўчириш"
+
+msgid "Yes, delete the page"
+msgstr "Ҳа, ушбу саҳифа ўчирилсин"
+
+msgid "Update any redirects that point to the original title"
+msgstr "Асл номга йўналтиришларни янгилаш"
+
+msgid "Leave a redirect behind"
+msgstr "Қайта йўналтиришни ортда қолдириш"
+
+msgid "A redirect has been created."
+msgstr "Қайта йўналтириш яратилди."
+
+msgid "Move associated talk page"
+msgstr "Боғлиқ мунозара саҳифасини кўчириш"
+
+msgid "Move subpages (up to $1)"
+msgstr "Остсаҳифаларни кўчириш ($1 гача)"
+
+msgid "Move subpages of talk page (up to $1)"
+msgstr "Мунозара саҳифасининг остсаҳифаларини кўчириш ($1 гача)"
+
+msgid "The page $1 has been moved to $2."
+msgstr "Саҳифа номи «$1»дан «$2»га кўчирилди."
+
+msgid "Move log"
+msgstr "Кўчириш қайдлари"
+
+msgid "Move $1"
+msgstr "$1ни кўчириш"
+
+msgid "Move page"
+msgstr "Саҳифани кўчириш"
+
+msgid "Move page:"
+msgstr "Кўчириладиган саҳифа:"
+
+msgid "To new title:"
+msgstr "Янги номга:"
+
+msgid "Watch source page and target page"
+msgstr "Манба ва нишон саҳифаларини кузатиш"
+
+msgid "Move succeeded"
+msgstr "Кўчириш мувофаққиятли бўлди"
+
+msgid "anon. only"
+msgstr "фақат анонимлар"
+
+msgid "autoblock disabled"
+msgstr "авточетлаштириш ўчирилган"
+
+msgid "account creation disabled"
+msgstr "ҳисоб ёзуви яратиш ўчирилган"
+
+msgid "email disabled"
+msgstr "э-мактуб ўчирилган"
+
+msgid "cannot edit own talk page"
+msgstr "ўзининг мунозара саҳифасини таҳрирлаб бўлмайди"
+
+msgid "The block list is empty."
+msgstr "Тўсиқлар рўйхати бўш."
+
+msgid "block"
+msgstr "четлаштириш"
+
+msgid "unblock"
+msgstr "тўсиқни олиб ташлаш"
+
+msgid "change block"
+msgstr "тўсиқни ўзгартириш"
+
+msgid "contribs"
+msgstr "ҳиссалар"
+
+msgid "send email"
+msgstr "э-мактуб жўнатиш"
+
+msgid "Block log"
+msgstr "Четлатиш қайдлари"
+
+msgid "Timestamp"
+msgstr "Вақт тамғаси"
+
+msgid "Target"
+msgstr "Нишон"
+
+msgid "Expires"
+msgstr "Тугайди"
+
+msgid "Blocking admin"
+msgstr "Четлаштирган маъмур"
+
+msgid "Block parameters"
+msgstr "Четлаштириш мосламалари"
+
+msgid "Local block"
+msgstr "Маҳаллий четлаштириш"
+
+msgid "Other blocks"
+msgstr "Бошқа четлаштиришлар"
+
+msgid "infinite"
+msgstr "муддациз"
+
+msgid "Filters"
+msgstr "Филтрлар"
+
+msgid "Autoblock #$1"
+msgstr "Авточетлаштириш #$1"
+
+msgid "Block user"
+msgstr "Фойдаланувчини четлаштириш"
+
+msgid "Unblock user"
+msgstr "Фойдаланувчига йўл очиш"
+
+msgid "Expiry:"
+msgstr "Тугаш муддати:"
+
+msgid "← links"
+msgstr "← ишоратлар"
+
+msgid "redirect page"
+msgstr "йўналтирувчи саҳифа"
+
+msgid "transclusion"
+msgstr "қўшимча"
+
+msgid "file link"
+msgstr "файлли ҳавола"
+
+msgid "Search for contributions"
+msgstr "Ҳиссаларни қидириш"
+
+msgid "IP address or username:"
+msgstr "IP-манзил ёки фойдаланувчи номи:"
+
+msgid "Only show edits that are latest revisions"
+msgstr "Фақат охирги деб ҳисобланган таҳрирларни кўрсатиш"
+
+msgid "What links here"
+msgstr "Бу саҳифага боғланган саҳифалар"
+
+msgid "Pages that link to $1"
+msgstr "$1га боғланган саҳифалар"
+
+msgid "Page:"
+msgstr "Саҳифа:"
+
+msgid "Contributions"
+msgstr "Ҳиссалар"
+
+msgid "For $1"
+msgstr "$1 учун"
+
+msgid "No changes were found matching these criteria."
+msgstr "Ушбу шартларга мувофиқ ўзгаришлар топилмади."
+
+msgid "From month (and earlier):"
+msgstr "Ойдан (ва аввалроқ)"
+
+msgid "From year (and earlier):"
+msgstr "Йилдан (ва аввалроқ)"
+
+msgid "Show contributions of new accounts only"
+msgstr "Янги фойдаланувчиларнинг ҳиссаларинигина кўрсатиш"
+
+msgid "For new accounts"
+msgstr "Янги ҳисоб ёзувлари учун"
+
+msgid "User contributions for new accounts"
+msgstr "Янги ҳисоб ёзувларининг ҳиссалари"
+
+msgid "block log"
+msgstr "четлатиш қайди"
+
+msgid "deleted user contributions"
+msgstr "ўчирилган фойдаланувчи ҳиссалари"
+
+msgid "uploads"
+msgstr "юкламалар"
+
+msgid "logs"
+msgstr "қайдлар"
+
+msgid "talk"
+msgstr "мунозара"
+
+msgid "user rights management"
+msgstr "фойдаланувчининг ҳуқуқларини бошқариш"
+
+msgid "Upload"
+msgstr "Юклаш"
+
+msgid "fully protected"
+msgstr "тўлиқ ҳимояланган"
+
+msgid "semi protected"
+msgstr "қисман ҳимояланган"
+
+msgid "any level"
+msgstr "ихтиёрий даража"
+
+msgid "View deleted pages"
+msgstr "Ўчирилган саҳифаларни кўриш"
+
+msgid "View and restore deleted pages"
+msgstr "Ўчирилган саҳифаларни кўриш ва тиклаш"
+
+msgid "No previous revision found."
+msgstr "Олдинги версия топилмади."
+
+msgid "Restore"
+msgstr "Тиклаш"
+
+msgid "view"
+msgstr "кўриш"
+
+msgid "Invert selection"
+msgstr "Танлаш тартибини алмаштириш"
+
+msgid "Search deleted pages"
+msgstr "Ўчирилган саҳифаларни қидириш"
+
+msgid "Show pages starting with:"
+msgstr "Қуйидагича бошланган саҳифаларни кўрсатиш:"
+
+msgid "Associated namespace"
+msgstr "Боғлиқ номфазо"
+
+msgid "Main"
+msgstr "Асосий"
+
+msgid "Permission:"
+msgstr "Ҳуқуқлар:"
+
+msgid "Restriction level:"
+msgstr "Чеклов даражаси:"
+
+msgid "Min size"
+msgstr "Энг кичик ҳажм"
+
+msgid "Max size:"
+msgstr "Энг катта ҳажм:"
+
+msgid "bytes"
+msgstr "байт"
+
+msgid "Other time:"
+msgstr "Бошқа муддат:"
+
+msgid "Existing expiry time"
+msgstr "Мавжуд тугаш вақти"
+
+msgid "Edit protection reasons"
+msgstr "Ҳимоялаш сабабларини таҳрирлаш"
+
+msgid "Change protection level for \"$1\""
+msgstr "\"$1\" учун ҳимоя даражасини ўзгартириш"
+
+msgid "Confirm protection"
+msgstr "Ҳимояни тасдиқлаш"
+
+msgid "Expires:"
+msgstr "Тугайди:"
+
+msgid "Unlock further protect options"
+msgstr "Қўшимча ҳимоя мосламаларини ёқиш"
+
+msgid "Here you may view and change the protection level for the page $1."
+msgstr "Бу ерда сиз $1 саҳифасининг ҳимоя даражасини кўришингиз ва ўзгартишингиз мумкин."
+
+msgid "Allow all users"
+msgstr "Барча фойдаланувчиларга рухсат бериш"
+
+msgid "Allow only autoconfirmed users"
+msgstr "Фақат автотасдиқланган фойдаланувчиларга рухсат бериш"
+
+msgid "Allow only administrators"
+msgstr "Фақат администраторларга рухсат бериш"
+
+msgid "cascading"
+msgstr "поғонали"
+
+msgid "Session failure"
+msgstr "Сеансда хатолик"
+
+msgid "Protection log"
+msgstr "Ҳимоялаш қайдлари"
+
+msgid "Rollback failed"
+msgstr "Эски ҳолига қайтариб бўлмади"
+
+msgid "Roll back edits"
+msgstr "Ўзгаришларни ортга қайтариш"
+
+msgid "rollback"
+msgstr "ортга қайтариш"
+
+msgid "Deletion log"
+msgstr "Ўчириш қайдлари"
+
+msgid "Below is a list of the most recent deletions."
+msgstr "Қуйида энг сўнгги ўчириш қайдлари келтирилган"
+
+msgid "deletion log"
+msgstr "ўчириш қайдлари"
+
+msgid "Reverted to earlier revision"
+msgstr "Эски ҳолига келтирилди"
+
+msgid "Edit deletion reasons"
+msgstr "Ўчириш сабабларини таҳрирлаш"
+
+msgid "Action complete"
+msgstr "Амал бажарилди"
+
+msgid "Action failed"
+msgstr "Амал мувофаққиятсиз бўлди"
+
+msgid "created"
+msgstr "яратилди"
+
+msgid "changed"
+msgstr "ўзгартирилди"
+
+msgid "Delete page"
+msgstr "Саҳифани ўчириш"
+
+msgid "Confirm"
+msgstr "Тасдиқлаш"
+
+msgid "See $1 to view this change."
+msgstr "Ўзгаришларни кўриш учун $1 га қаранг."
+
+msgid "anonymous user $1"
+msgstr "аноним фойдаланувчи $1"
+
+msgid "Watchlist options"
+msgstr "Кузатув рўйхати мосламалари"
+
+msgid "Watching..."
+msgstr "Кузатиляпти..."
+
+msgid "Unwatching..."
+msgstr "Кузатилмаяпти..."
+
+msgid "Mark all pages visited"
+msgstr "Ҳамма саҳифаларни кўриб чиқилган деб белгилаш"
+
+msgid "Watch"
+msgstr "Кузатиш"
+
+msgid "Unwatch"
+msgstr "Кузатмаслик"
+
+msgid "Stop watching"
+msgstr "Кузатувни тўхтатиш"
+
+msgid "Not a content page"
+msgstr "Мақола эмас"
+
+msgid "Remove from watchlist"
+msgstr "Кузатув рўйхатидан ўчириш"
+
+msgid "Email me a copy of my message."
+msgstr "Мактубим нусхаси э-почтамга жўнатилсин."
+
+msgid "Email sent"
+msgstr "Э-мактуб жўнатилди"
+
+msgid "Your email message has been sent."
+msgstr "Сизнинг электрон мактубингиз жўнатилди."
+
+msgid "Leaving system message."
+msgstr "Тизим хабари қолдириляпти."
+
+msgid "System messenger"
+msgstr "Тизим хабарчиси"
+
+msgid "You have no items on your watchlist."
+msgstr "Кузатув рўйхатингизда ҳеч нима йўқ."
+
+msgid "Add to watchlist"
+msgstr "Кузатув рўйхатига қўшиш"
+
+msgid "User email disabled"
+msgstr "Фойдаланувчи электрон почтаси ўчирилган"
+
+msgid "No email address"
+msgstr "Электрон почта манзили мавжуд эмас"
+
+msgid "This user has not specified a valid email address."
+msgstr "Бу фойдаланувчи яроқли э-почта манзили кўрсатгани йўқ."
+
+msgid "Enter username of recipient"
+msgstr "Олувчининг фойдаланувчи исмини киритинг"
+
+msgid "Submit"
+msgstr "Тақдим қилиш"
+
+msgid "Send an email to another user"
+msgstr "Бошқа иштирокчига хат жўнатиш"
+
+msgid "From:"
+msgstr "Кимдан:"
+
+msgid "To:"
+msgstr "Кимга:"
+
+msgid "Subject:"
+msgstr "Сарлавҳа:"
+
+msgid "Message:"
+msgstr "Хабар"
+
+msgid "Send"
+msgstr "Жўнатиш"
+
+msgid "Group"
+msgstr "Гуруҳ"
+
+msgid "Rights"
+msgstr "Ҳуқуқлар"
+
+msgid "Help: Group rights"
+msgstr "Ёрдам: Гуруҳ ҳуқуқлари"
+
+msgid "list of members"
+msgstr "аъзолар рўйхати"
+
+msgid "Email this user"
+msgstr "Ушбу фойдаланувчига э-мактуб жўнатиш"
+
+msgid "No user found."
+msgstr "Фойдаланувчи топилмади."
+
+msgid "blocked"
+msgstr "четлаштирилган"
+
+msgid "Active users list"
+msgstr "Фаол фойдаланувчилар рўйхати"
+
+msgid "Hide bots"
+msgstr "Ботларни яшириш"
+
+msgid "Hide administrators"
+msgstr "Маъмурларни яшириш"
+
+msgid "No users found."
+msgstr "Фойдаланувчилар топилмади."
+
+msgid "User group rights"
+msgstr "Фойдаланувчи гуруҳи ҳуқуқлари"
+
+msgid "Deleted user contributions"
+msgstr "Фойдаланувчининг ўчирилган ҳиссаси"
+
+msgid "contributions"
+msgstr "ҳисса"
+
+msgid "External links search"
+msgstr "Ташқи ҳаволаларни қидириш"
+
+msgid "Search pattern:"
+msgstr "Қидирув намунаси:"
+
+msgid "Namespace:"
+msgstr "Номфазо:"
+
+msgid "sort by count"
+msgstr "ҳисоби бўйича саралаш"
+
+msgid "sort alphabetically"
+msgstr "алифбо бўйича саралаш"
+
+msgid "Display categories starting at:"
+msgstr "Қуйидагидан бошланувчи туркумларни кўрсатиш:"
+
+msgid "All pages"
+msgstr "Барча саҳифалар"
+
+msgid "Next page ($1)"
+msgstr "Кейинги саҳифа ($1)"
+
+msgid "Previous page ($1)"
+msgstr "Аввалги саҳифа ($1)"
+
+msgid "Display pages starting at:"
+msgstr "Қуйидагидан бошланувчи саҳифаларни кўрсатиш:"
+
+msgid "Display pages with prefix:"
+msgstr "Шундай префиксли саҳифаларни кўрсатиш:"
+
+msgid "Hide redirects"
+msgstr "Йўналтиришларни яшириш"
+
+msgid "View latest."
+msgstr "Охиргисини кўриш"
+
+msgid "No matching items in log."
+msgstr "Қайдда мос ёзувлар мавжуд эмас."
+
+msgid "Search titles starting with this text"
+msgstr "Ушбу матн билан бошланувчи сарлавҳаларни излаш"
+
+msgid "Change visibility of selected log entries"
+msgstr "Танланган қайд ёзувлари кўринишини ўзгартириш"
+
+msgid "Oversight"
+msgstr "Назорат"
+
+msgid "Book sources"
+msgstr "Китоб манбалари"
+
+msgid "Search for book sources"
+msgstr "Китоб манбаларини қидириш"
+
+msgid "Performer:"
+msgstr "Ижрочи:"
+
+msgid "Target (title or user):"
+msgstr "Мўлжал (сарлавҳа ёки фойдаланувчи):"
+
+msgid "Logs"
+msgstr "Қайдлар"
+
+msgid "All public logs"
+msgstr "Барча очиқ қайдлар"
+
+msgid "Edit block reasons"
+msgstr "Сабаблар рўйхатини таҳрирлаш"
+
+msgid "Unblock $1"
+msgstr "$1дан тўсиқни олиш"
+
+msgid "Remove this block"
+msgstr "Ушбу тўсиқни олиб ташлаш"
+
+msgid "User has been unblocked."
+msgstr "Фойдаланувчидан тўсиқ олиб ташланди."
+
+msgid "Blocked users"
+msgstr "Четлаштирилган фойдаланувчилар"
+
+msgid "This user is currently blocked."
+msgstr "Ушбу фойдаланувчи ҳозирда таҳрирлашдан четлатилган."
+
+msgid "The latest block log entry is provided below for reference:"
+msgstr "Қуйида четлатиш қайдларидан сўнгги ёзув келтирилган:"
+
+msgid "Email this user."
+msgstr "Ушбу фойдаланувчига электрон мактуб жўнатиш."
+
+msgid "Email user"
+msgstr "Фойдаланувчига электрон мактуб жўнатиш"
+
+msgid "New pages"
+msgstr "Янги саҳифалар"
+
+msgid "Move"
+msgstr "Кўчириш"
+
+msgid "Move this page"
+msgstr "Бу саҳифани кўчириш"
+
+msgid "Orphaned pages"
+msgstr "Етим саҳифалар"
+
+msgid "Uncategorized pages"
+msgstr "Туркумлаштирилмаган саҳифалар"
+
+msgid "Uncategorized categories"
+msgstr "Туркумлаштирилмаган туркумлар"
+
+msgid "Uncategorized files"
+msgstr "Туркумлаштирилмаган файллар"
+
+msgid "Uncategorized templates"
+msgstr "Туркумлаштирилмаган андозалар"
+
+msgid "Unused categories"
+msgstr "Ишлатилмаётган туркумлар"
+
+msgid "Unused files"
+msgstr "Ишлатилинмаган файллар"
+
+msgid "Wanted categories"
+msgstr "Талаб қилинаётган туркумлар"
+
+msgid "Pages with the most categories"
+msgstr "Энг кўп туркумли саҳифалар"
+
+msgid "All pages with prefix"
+msgstr "Префиксли барча саҳифалар"
+
+msgid "Protected pages"
+msgstr "Ҳимояланган саҳифалар"
+
+msgid "User list"
+msgstr "Фойдаланувчилар рўйхати"
+
+msgid "Property name:"
+msgstr "Хосса номи:"
+
+msgid "Average edits per page"
+msgstr "Ўртача таҳрирлар сони (саҳифа бошига)"
+
+msgid "Registered users"
+msgstr "Қайд этилган фойдаланувчилар"
+
+msgid "Active users"
+msgstr "Фаол фойдаланувчилар"
+
+msgid "Pages"
+msgstr "Саҳифалар"
+
+msgid "All pages in the wiki, including talk pages, redirects, etc."
+msgstr "Ушбу викидаги барча саҳифалар, жумладан мунозара, йўналтириш ва ҳоказо"
+
+msgid "Uploaded files"
+msgstr "Юкланган файллар"
+
+msgid "download"
+msgstr "юклаш"
+
+msgid "Unused templates"
+msgstr "Ишлатилинмаган андозалар"
+
+msgid "Random page"
+msgstr "Тасодифий саҳифа"
+
+msgid "Statistics"
+msgstr "Статистика"
+
+msgid "Page statistics"
+msgstr "Саҳифалар статистикаси"
+
+msgid "Edit statistics"
+msgstr "Таҳрирлар статистикаси"
+
+msgid "User statistics"
+msgstr "Фойдаланувчилар статистикаси"
+
+msgid "Wikimedia Commons"
+msgstr "Викиомбор"
+
+msgid "a shared repository"
+msgstr "умумий файллар сақланадиган жой"
+
+msgid "Upload a new version of this file"
+msgstr "Бу файлнинг янги версиясини юклаш"
+
+msgid "There are no pages that link to this file."
+msgstr "Бу файлга боғланган саҳифалар йўқ."
+
+msgid "delete all"
+msgstr "барчасини ўчириш"
+
+msgid "delete"
+msgstr "ўчириш"
+
+msgid "revert"
+msgstr "қайтариш"
+
+msgid "current"
+msgstr "жорий"
+
+msgid "Date/Time"
+msgstr "Сана/Вақт"
+
+msgid "No thumbnail"
+msgstr "Миниатюраси йўқ"
+
+msgid "Dimensions"
+msgstr "Ўлчамлари"
+
+msgid "File size"
+msgstr "Файл ҳажми"
+
+msgid "Comment"
+msgstr "Изоҳ"
+
+msgid "file"
+msgstr "файл"
+
+msgid "File list"
+msgstr "Файллар рўйхати"
+
+msgid "Thumbnail"
+msgstr "Миниатура"
+
+msgid "Date"
+msgstr "Сана"
+
+msgid "Name"
+msgstr "Номи"
+
+msgid "User"
+msgstr "Фойдаланувчи"
+
+msgid "Size"
+msgstr "Ўлчами"
+
+msgid "Description"
+msgstr "Таъриф"
+
+msgid "Versions"
+msgstr "Версиялар"
+
+msgid "File history"
+msgstr "Файл тарихи"
+
+msgid "Source filename:"
+msgstr "Манба файл номи:"
+
+msgid "Destination filename:"
+msgstr "Манзил файл номи:"
+
+msgid "Maximum file size"
+msgstr "Файлнинг максимал ўлчами"
+
+msgid "File description"
+msgstr "Файл тавсифи"
+
+msgid "Upload options"
+msgstr "Юклаш мосламалари"
+
+msgid "Watch this file"
+msgstr "Бу файлни кузатиш"
+
+msgid "Licensing"
+msgstr "Лицензиялаш"
+
+msgid "(your chosen file from your computer)"
+msgstr "(компьютерингиздан танлаган файлингиз)"
+
+msgid "This special page shows all uploaded files."
+msgstr "Ушбу махсус саҳифада барча юкланган файллар кўрсатилган."
+
+msgid "Upload log"
+msgstr "Юклаш қайдлари"
+
+msgid "Filename"
+msgstr "Файл номи"
+
+msgid "Summary"
+msgstr "Қисқа изоҳ"
+
+msgid "File changes:"
+msgstr "Файлдаги ўзгаришлар:"
+
+msgid "Copyright status:"
+msgstr "Тарқатиш шартлари:"
+
+msgid "Source:"
+msgstr "Манба:"
+
+msgid "Ignore any warnings"
+msgstr "Огоҳлантиришларга эътибор қилмаслик"
+
+msgid "Source file"
+msgstr "Юкланаётган файл"
+
+msgid "Page name:"
+msgstr "Саҳифа номи:"
+
+msgid "Show changes to pages linked to the given page instead"
+msgstr "Эвазига кўрсатилган саҳифага боғланган саҳифалардаги ўзгаришларни кўриш"
+
+msgid "Upload file"
+msgstr "Файл юклаш"
+
+msgid "Upload error"
+msgstr "Юклашда хатолик"
+
+msgid "anonymous users"
+msgstr "аноним фойдаланувчилар"
+
+msgid "patrolled edits"
+msgstr "текширилган таҳрирлар"
+
+msgid "my edits"
+msgstr "менинг таҳрирларим"
+
+msgid "new section"
+msgstr "янги мавзу"
+
+msgid "Show details"
+msgstr "Тасфилотларни кўрсатиш"
+
+msgid "Hide details"
+msgstr "Тафсилотлоларни яшириш"
+
+msgid "originally created as $1"
+msgstr "дастлаб $1 сифатида яратилган"
+
+msgid "Related changes"
+msgstr "Боғлиқ ўзгаришлар"
+
+msgid "Changes related to $1"
+msgstr "$1га алоқадор ўзгаришлар"
+
+msgid "minor edits"
+msgstr "Кичик таҳрирларни"
+
+msgid "Show"
+msgstr "Кўрсатиш"
+
+msgid "Hide"
+msgstr "Яшириш"
+
+msgid "bots"
+msgstr "ботлар"
+
+msgid "registered users"
+msgstr "Рўйхатдан ўтган фойдаланувчилар"
+
+msgid "The page size changed by this number of bytes"
+msgstr "Саҳифа вазни ушбу миқдордаги байтга ўзгарди"
+
+msgid "Legend"
+msgstr "Изоҳ"
+
+msgid "Someone else has changed this page since you started editing it."
+msgstr "Саҳифани таҳрирлашни бошлаганингиздан буён бошқа биров унга ўзгариш киритиб улгурди."
+
+msgid "The upper text area contains the page text as it currently exists."
+msgstr "Юқоридаги матн майдони саҳифанинг жорий матнини ўз ичига олган."
+
+msgid "Your changes are shown in the lower text area."
+msgstr "Пастдаги матн майдонида сизнинг ўзгартиришларингиз кўрсатилган."
+
+msgid "You will have to merge your changes into the existing text."
+msgstr "Ўзгаришларингизни мавжуд матнга киритишингиз керак бўлади."
+
+msgid "Only the text in the upper text area will be saved when you press the save button."
+msgstr "Сақлаш тугмасини босганингизда фақат юқоридаги матн майдонидаги матн сақланади."
+
+msgid "Warning: You are editing an out-of-date revision of this page."
+msgstr "Огоҳлантириш: Сиз саҳифанинг эски версиясини таҳрирлаяпсиз. "
+
+msgid "If you save it, any changes made since this revision will be lost."
+msgstr "Уни сақласангиз, ушбу версиядан кейин киритилган ўзгартиришлар йўқотилади."
+
+msgid "Please note that all contributions to this site are considered to be released under the following license."
+msgstr "Илтимос, ушбу сайтга юкланган ҳар қандай ахборот қуйидаги лицензия остида тарқатилишига диққат қилинг."
+
+msgid "If you do not want your writing to be edited mercilessly and redistributed at will, then do not submit it here."
+msgstr "Агар ёзганларингиз кейинчалик шафқатсиз равишда таҳрир қилиниши ва қайта тарқатилишига рози бўлмасангиз, у ҳолда бу ерга ёзманг."
+
+msgid "You are also promising us that you wrote this yourself, or copied it from a public domain or similar free resource."
+msgstr "Сиз шунингдек бу ёзганларингиз ўзингизники ёки эркин лицензия остидаги ёки шунга ўхшаган манбадан нусха олинганлигини ваъда қилмоқдасиз."
+
+msgid "Do not submit copyrighted work without permission!"
+msgstr "Муаллифлик ҳуқуқлари билан ҳимояланган ишларни берухсат юборманг!"
+
+msgid "Please note that all contributions to {{SITENAME}} may be edited, altered, or removed by other contributors."
+msgstr "Илтимос, шуни эсда тутингки, {{SITENAME}}га қилинган барча ҳиссалар бошқа фойдаланувчилар томонидан таҳрирланиши, алмаштирилиши ёки ўчирилиши мумкин."
+
+msgid "If you do not want your writing to be edited mercilessly, then do not submit it here."
+msgstr "Агар сиз ёзганларингизни шафқатсиз равишда таҳрирланишига рози бўлмасангиз, унда уни бу ерга жойлаштирманг."
+
+msgid "Warning: This page has been protected so that only users with administrator privileges can edit it."
+msgstr "Огоҳлантириш: Ушбу саҳифа ҳимояланган бўлиб, фақат мудирлик ҳуқуқи бор фойдаланувчилар уни таҳрирлаши мумкин."
+
+msgid "The latest log entry is provided below for reference:"
+msgstr "Маълумот учун қуйида журналидаги охирги қайд келтирилган:"
+
+msgid "Note: This page has been protected so that only registered users can edit it."
+msgstr "Эслатма: фақат рўйхатдан ўтган фойдаланувчилар таҳрирлаши мумкинлиги сабабли ушбу саҳифа ҳимояланган."
+
+msgid "Template used on this page:"
+msgstr "Ушбу саҳифада фойдаланилган андоза:"
+
+msgid "Templates used in this preview:"
+msgstr "Ушбу кўриб чиқишда фойдаланилган андозалар:"
+
+msgid "Template used in this section:"
+msgstr "Ушбу бўлимда фойдаланилган андоза:"
+
+msgid "This page is a member of a hidden category."
+msgstr "Ушбу саҳифа яширин туркумга киради."
+
+msgid "{{SITENAME}} has restricted the ability to create new pages."
+msgstr "{{SITENAME}} янги саҳифалар яратиш имкониятини чеклаб қўйган."
+
+msgid "You can go back and edit an existing page."
+msgstr "Ортга қайтиб, мавжуд саҳифани таҳрирлашингиз мумкин."
+
+msgid "You do not have permission to $2, for the following reasons:"
+msgstr "Сизда қуйидаги сабабларга кўра $2га рухсат мавжуд эмас:"
+
+msgid "Warning: You are recreating a page that was previously deleted."
+msgstr "Диққат: Сиз аввал ўчирилган саҳифани қайтадан яратяпсиз."
+
+msgid "You should consider whether it is appropriate to continue editing this page."
+msgstr "Бу саҳифани таҳрирлаш мақсадга мувофиқ эканлигини ҳисобга олиб кўринг."
+
+msgid "The deletion and move log for this page are provided here for convenience:"
+msgstr "Қуйида қулайлик учун ушбу саҳифага оид ўчириш ва кўчириш қайдлари келтирилган:"
+
+msgid "The edit can be undone."
+msgstr "Таҳрирни бекор қилиш имконияти бор."
+
+msgid "Please check the comparison below to verify that this is what you want to do, and then save the changes below to finish undoing the edit."
+msgstr "Илтимос, қуйидаги таққослашни кўриб чиқиб, айнан шу ўзгаришларни бекор қилмоқчилигингизга ишонч ҳосил қилинг ва ундан кейин бекор қилишни якунлаш учун қуйида ўзгаришларни сақланг."
+
+msgid "Account creation from this IP address has been blocked by the admin."
+msgstr "Ушбу IP манзил орқали рўйхатдан ўтишни маъмур тўсиб қўйган."
+
+msgid "Account creation from IP addresses in the range $1, which includes your IP address, has been blocked by the admin."
+msgstr "Маъмур $1 соҳага тегишли IP манзиллар, шу жумладан сизнинг IP манзилингиз, орқали рўйхатдан ўтишни блоклаб қўйган."
+
+msgid "Diff selection: Mark the radio boxes of the revisions to compare and hit enter or the button at the bottom."
+msgstr "Фарқларни танлаш: солиштириш учун керакли танлаш тугмасини белгиланг ва Enter ёки қуйидаги тугмани босинг."
+
+msgid "Please confirm that you intend to do this, that you understand the consequences, and that you are doing this in accordance with the policy."
+msgstr "Илтимос, ҳақиқатдан ҳам шу ҳаракатни амалга оширмоқчилигингизни, унинг оқибатларини тушуниб турганингизни ва ҳаракатингиз қоидаларга зид эмаслигини тасдиқланг."
+
+msgid "There is a page named $1 on this wiki."
+msgstr "Ушбу викида $1 номли саҳифа мавжуд."
+
+msgid "Create the page $1 on this wiki!"
+msgstr "Ушбу викида $1 саҳифасини яратинг!"
+
+msgid "See also the page found with your search."
+msgstr "Шунингдек қидирувингиз орқали топилган саҳифани қаранг."
+
+msgid "See also the search results found."
+msgstr "Шунингдек топилган қидирув натижаларини қаранг."
+
+msgid "Showing below up to $1 results starting with #$2."
+msgstr "Қуйида №$2дан бошлаб $1та натижа кўрсатилган."
+
+msgid "This is the secret key to the web feed of your watchlist."
+msgstr "Бу кузатув рўйхатингизнинг веб-канали учун махфий калит коди."
+
+msgid "Anyone who knows it will be able to read your watchlist, so do not share it."
+msgstr "Бу кодни биладиган ҳар ким сизнинг кузатув рўйхатингизни кўриши мумкин, шунинг учун бошқаларга уни ошкор қилманг."
+
+msgid "Setting this preference is optional."
+msgstr "Ушбу афзалликни белгилаш мажбурий эмас."
+
+msgid "The software uses its value to address you and to mention you to others using the appropriate grammatical gender."
+msgstr "Дастур сизга мурожаат қилганда ва бошқаларга сиз ҳақингизда гапирганида мос грамматик шаклни ишлатган ҳолда унинг қийматидан фойдаланади."
+
+msgid "This information will be public."
+msgstr "Бу маълумот ҳаммага кўрсатилади."
+
+msgid "Real name is optional."
+msgstr "Ҳақиқий исм мажбурий эмас."
+
+msgid "If provided, it may be used to give you attribution for your work."
+msgstr "Агар келтирсангиз, ишингизнинг муаллифи деб кўрсатилади."
+
+msgid "Email address is optional."
+msgstr "Электрон почта манзилини кўрсатиш мажбурий эмас."
+
+msgid "But is needed for password resets, should you forget your password."
+msgstr "Лекин махфий сўзни унутиб қўйсангизда махфий сўзни тиклашда керак бўлади."
